@@ -20,7 +20,7 @@ def carica_domande():
         st.error("File 'domande.json' non trovato. Assicurati che sia nella stessa cartella del progetto su GitHub.")
         return []
     except json.JSONDecodeError:
-        st.error("Errore di formato nel file 'domande.json'. Usa un validatore JSON per controllare la sintassi.")
+        st.error("Errore di formato nel file 'domande.json'. Usa un validatore JSON online per controllare la sintassi.")
         return []
 
 # --- INIZIALIZZAZIONE DELLO STATO ---
@@ -32,7 +32,6 @@ def inizializza_quiz(num_domande):
     st.session_state.domande_sessione = tutte_le_domande[:num_domande]
     st.session_state.indice_corrente = 0
     st.session_state.punteggio = 0
-    # Array per memorizzare le risposte dell'utente e i risultati
     st.session_state.risultati = [None] * len(st.session_state.domande_sessione)
 
 # --- LAYOUT PRINCIPALE ---
@@ -63,13 +62,14 @@ else:
     indice = st.session_state.indice_corrente
     domande_sessione = st.session_state.domande_sessione
 
-    # --- VISUALIZZAZIONE FINE QUIZ ---
+    # --- VISUALIZZAZIONE FINE QUIZ E REVISIONE ---
     if indice >= len(domande_sessione):
         st.success("🎉 Quiz Terminato! 🎉")
         punteggio = st.session_state.punteggio
         totale = len(domande_sessione)
+        
         st.write(f"Il tuo punteggio finale è: **{punteggio} / {totale}**")
-
+        
         try:
             percentuale = (punteggio / totale) * 100
             st.metric(label="Percentuale di correttezza", value=f"{percentuale:.2f}%")
@@ -78,12 +78,31 @@ else:
         except ZeroDivisionError:
             st.warning("Nessuna domanda in questa sessione.")
 
-        if st.button("↩️ Torna alla Schermata Iniziale", use_container_width=True):
-            # Pulisce tutte le chiavi della sessione per un reset completo
-            for key in st.session_state.keys():
+        st.divider()
+        st.header("🔍 Revisione Domande")
+
+        for i, domanda in enumerate(domande_sessione):
+            risultato = st.session_state.risultati[i]
+            risposta_data = risultato['risposta_data']
+            risposta_corretta = domanda['risposta_corretta']
+            
+            st.subheader(f"Domanda {i+1}: {domanda['domanda']}")
+            
+            if risultato['corretta']:
+                st.success(f"La tua risposta: **{risposta_data}**. Corretta!", icon="✅")
+            else:
+                st.error(f"La tua risposta: **{risposta_data}**. Sbagliata!", icon="❌")
+                st.info(f"Risposta corretta: **{risposta_corretta}**) {domanda['opzioni'][risposta_corretta]}", icon="💡")
+            
+            with st.expander("Mostra spiegazione"):
+                st.write(domanda['spiegazione'])
+            st.divider()
+
+        if st.button("↩️ Fai un altro quiz", use_container_width=True):
+            for key in list(st.session_state.keys()):
                 del st.session_state[key]
             st.rerun()
-        st.stop() # Interrompe l'esecuzione per non mostrare altro
+        st.stop()
 
     # --- VISUALIZZAZIONE DOMANDA CORRENTE ---
     st.progress(indice / len(domande_sessione), text=f"Domanda {indice + 1} di {len(domande_sessione)}")
@@ -92,50 +111,30 @@ else:
 
     domanda_corrente = domande_sessione[indice]
     st.subheader(f"{indice + 1}. {domanda_corrente['domanda']}")
-
     opzioni = domanda_corrente['opzioni']
     
-    # Se non abbiamo ancora risposto a questa domanda, mostra il form
     if st.session_state.risultati[indice] is None:
         with st.form(key=f"form_{indice}"):
-            risposta_utente = st.radio(
-                "Seleziona la tua risposta:",
-                options=opzioni.keys(),
-                format_func=lambda key: f"{key}) {opzioni[key]}"
-            )
+            risposta_utente = st.radio("Seleziona la tua risposta:", opzioni.keys(), format_func=lambda k: f"{k}) {opzioni[k]}")
             submitted = st.form_submit_button("Conferma Risposta")
-
         if submitted:
             corretta = (risposta_utente == domanda_corrente['risposta_corretta'])
-            if corretta:
-                st.session_state.punteggio += 1
-            # Salva il risultato (risposta data e se era corretta)
+            if corretta: st.session_state.punteggio += 1
             st.session_state.risultati[indice] = {'risposta_data': risposta_utente, 'corretta': corretta}
             st.rerun()
-    
-    # Se abbiamo già risposto, mostra il risultato e il pulsante "Prossima"
     else:
         risultato = st.session_state.risultati[indice]
         risposta_data = risultato['risposta_data']
+        st.radio("La tua risposta:", opzioni.keys(), format_func=lambda k: f"{k}) {opzioni[k]}", index=list(opzioni.keys()).index(risposta_data), disabled=True)
         
-        # Mostra le opzioni disabilitate con la risposta data selezionata
-        st.radio(
-            "La tua risposta:",
-            options=opzioni.keys(),
-            format_func=lambda key: f"{key}) {opzioni[key]}",
-            index=list(opzioni.keys()).index(risposta_data),
-            disabled=True
-        )
-
         if risultato['corretta']:
             st.success("✅ Corretto!", icon="✅")
         else:
             risposta_giusta_key = domanda_corrente['risposta_corretta']
-            testo_risposta_giusta = opzioni[risposta_giusta_key]
-            st.error(f"❌ Sbagliato! La risposta corretta era: **{risposta_giusta_key}**) {testo_risposta_giusta}", icon="❌")
+            st.error(f"❌ Sbagliato! La risposta corretta era: **{risposta_giusta_key}**) {opzioni[risposta_giusta_key]}", icon="❌")
         
         st.info(f"**Spiegazione:** {domanda_corrente['spiegazione']}", icon="💡")
-
+        
         if st.button("Prossima Domanda ➡️", use_container_width=True):
             st.session_state.indice_corrente += 1
             st.rerun()
