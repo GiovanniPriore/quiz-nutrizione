@@ -678,7 +678,106 @@
     "risposta_corretta": "D",
     "spiegazione": "La gerarchia degli elementi di un prompt include Istruzione, Contesto, Dati di Input e Indicatore di Output. La lunghezza è una caratteristica che può essere specificata, ma non è un elemento fondamentale della struttura stessa."
   },
-    {
+  {
+    "domanda": "Quale dei seguenti è un esempio di IA Debole (o Ristretta)?",
+    "opzioni": {
+      "A": "Un robot autocosciente con emozioni.",
+      "B": "Un sistema in grado di risolvere qualsiasi problema intellettuale.",
+      "C": "Siri, Alexa e Google Assistant.",
+      "D": "Un'entità che passa il Test di Turing e comprende veramente ciò che dice."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Gli assistenti virtuali come Siri, i sistemi di guida autonoma e i traduttori automatici sono esempi di IA Ristretta/Debole, in quanto eccellono in compiti specifici ma non possiedono un'intelligenza generale."
+  },
+  {
+    "domanda": "Cosa si intende per Robotica?",
+    "opzioni": {
+      "A": "Lo studio teorico degli algoritmi.",
+      "B": "Un campo che integra IA, ingegneria meccanica ed elettronica per creare macchine che operano nel mondo reale.",
+      "C": "Esclusivamente l'automazione dei processi produttivi industriali.",
+      "D": "La creazione di chatbot e assistenti virtuali."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La robotica è un campo multidisciplinare che ha lo scopo di creare macchine intelligenti (robot) dotate di sensori e attuatori, in grado di interagire con il mondo fisico."
+  },
+  {
+    "domanda": "Quale tra questi NON è un limite o una precauzione da considerare nell'uso di ChatGPT?",
+    "opzioni": {
+      "A": "Può fornire informazioni imprecise o non aggiornate.",
+      "B": "Può creare dipendenza e sostituire il pensiero critico.",
+      "C": "Può sollevare problematiche etiche di plagio in ambito accademico.",
+      "D": "Ha capacità di memoria illimitata e ricorda perfettamente ogni conversazione passata."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Le slide evidenziano come limiti le imprecisioni, il rischio di dipendenza e le questioni etiche. La memoria di ChatGPT non è illimitata e ha un 'cut-off' di conoscenza (non è aggiornato in tempo reale)."
+  },
+  {
+    "domanda": "Cos'è la tecnica RAG (Retrieval Augmented Generation)?",
+    "opzioni": {
+      "A": "Un modo per far 'pensare passo dopo passo' il modello.",
+      "B": "Un metodo che integra un sistema di recupero dati (es. ricerca in documenti) con un LLM per generare risposte basate su fonti verificabili.",
+      "C": "Un tipo di prompting che non usa esempi.",
+      "D": "La capacità di un LLM di chiamare funzioni esterne."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "RAG migliora l'affidabilità degli LLM 'aumentando' il prompt con informazioni pertinenti recuperate da una base di conoscenza esterna, riducendo le 'allucinazioni' e permettendo di citare le fonti."
+  },
+  {
+    "domanda": "Qual è il ruolo della probabilità nella gestione dell'incertezza nel mondo reale, secondo le slide?",
+    "opzioni": {
+      "A": "Eliminare completamente ogni tipo di rischio.",
+      "B": "Sostituire l'intuizione umana con calcoli puramente matematici.",
+      "C": "Quantificare l'incertezza per permettere decisioni più razionali e informate.",
+      "D": "Rendere le discussioni più soggettive e irrazionali."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La probabilità non elimina l'incertezza, ma fornisce un modo sistematico per misurarla e gestirla, trasformandola da fonte di ansia a base per decisioni consapevoli in vari campi."
+  },
+  {
+    "domanda": "Quale strumento viene descritto come un 'assistente di ricerca AI personalizzato' che permette di caricare le proprie fonti (PDF, video, etc.) e interrogarle?",
+    "opzioni": {
+      "A": "Midjourney",
+      "B": "Canva",
+      "C": "NotebookLM",
+      "D": "Grammarly"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "NotebookLM (ora basato su Gemini) è presentato come uno strumento che agisce come un esperto sui documenti forniti dall'utente, permettendo di fare domande, ottenere sommari e scoprire connessioni, citando sempre le fonti."
+  },
+  {
+    "domanda": "Qual è la differenza tra un Language Model (LM) e un Large Language Model (LLM)?",
+    "opzioni": {
+      "A": "Non c'è nessuna differenza, sono sinonimi.",
+      "B": "Un LLM è un modello linguistico di tipo avanzato, addestrato con tecniche di Deep Learning su enormi quantità di dati.",
+      "C": "Un LM può solo analizzare il testo, mentre un LLM può anche generarlo.",
+      "D": "Un LLM è specifico per la traduzione, un LM è per compiti generali."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Un LLM si distingue per essere addestrato con tecniche di Deep Learning (come l'architettura Transformer) e su una scala di dati vastissima, che gli conferisce capacità molto più avanzate rispetto ai modelli linguistici tradizionali."
+  },
+  {
+    "domanda": "Che cos'è l'Ingegneria dei Prompt (Prompt Engineering)?",
+    "opzioni": {
+      "A": "Un nuovo linguaggio di programmazione per l'IA.",
+      "B": "Il processo di progettazione e ottimizzazione di prompt per interagire efficacemente con i modelli linguistici.",
+      "C": "La costruzione dell'hardware su cui girano gli LLM.",
+      "D": "La vendita di prompt pre-fatti online."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'ingegneria dei prompt è la competenza di strutturare il testo di input (il prompt) in modo da guidare un modello generativo a produrre l'output desiderato in modo efficiente e accurato."
+  },
+  {
+    "domanda": "Quale dei seguenti NON è un elemento fondamentale di un prompt ben strutturato, secondo la gerarchia presentata?",
+    "opzioni": {
+      "A": "Istruzione (il comando principale).",
+      "B": "Contesto (background, esempi).",
+      "C": "Dati di Input (il contenuto da elaborare).",
+      "D": "Lunghezza del testo (il numero di parole)."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La gerarchia degli elementi di un prompt include Istruzione, Contesto, Dati di Input e Indicatore di Output. La lunghezza è una caratteristica che può essere specificata, ma non è un elemento fondamentale della struttura stessa."
+  },
+  {
     "domanda": "Quale dei seguenti è un esempio di IA Debole (o Ristretta)?",
     "opzioni": {
       "A": "Un robot autocosciente con emozioni.",
