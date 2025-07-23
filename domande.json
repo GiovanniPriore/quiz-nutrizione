@@ -1,0 +1,780 @@
+[
+  {
+    "domanda": "Qual è la più importante reazione chimica che avviene negli alimenti in cottura?",
+    "opzioni": {
+      "A": "reazione di saponificazione",
+      "B": "reazione di Maillard",
+      "C": "reazione di Fenton"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La reazione di Maillard è un complesso di fenomeni che avviene durante la cottura tra zuccheri e proteine, responsabile della 'crosta' e degli aromi tipici dei cibi cotti."
+  },
+  {
+    "domanda": "Se perdo peso nell'arco di un giorno, le oscillazioni del peso sono dovute a...",
+    "opzioni": {
+      "A": "perdita di massa muscolare",
+      "B": "perdita di massa grassa",
+      "C": "variazioni dell'idratazione e del glicogeno"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Perdite di peso significative in 24 ore sono quasi interamente dovute a fluttuazioni di liquidi (acqua) e delle riserve di glicogeno muscolare, non a una reale perdita di tessuto adiposo o muscolare."
+  },
+  {
+    "domanda": "Il GDPR si applica a...",
+    "opzioni": {
+      "A": "ai trattamenti effettuati da persone fisiche per attività personali o domestiche",
+      "B": "ai trattamenti effettuati da macchine e robot",
+      "C": "al trattamento di dati personali effettuato da parte di un titolare"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il GDPR regola il trattamento dei dati personali da parte di un titolare o di un responsabile del trattamento. L'opzione A descrive l'eccezione per 'uso puramente personale', che è escluso dal campo di applicazione del GDPR."
+  },
+  {
+    "domanda": "Quale tra questi marker biochimici è importante per determinare la malnutrizione?",
+    "opzioni": {
+      "A": "perdita di peso",
+      "B": "nessuna delle altre risposte",
+      "C": "albumina sierica (< 3,5 mg/dL)"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Bassi livelli di albumina nel sangue (ipoalbuminemia) sono un indicatore classico di malnutrizione proteico-energetica, poiché l'albumina è una proteina prodotta dal fegato."
+  },
+  {
+    "domanda": "Nell'alimentazione dei bambini quanto è rilevante l'esempio genitoriale?",
+    "opzioni": {
+      "A": "poco",
+      "B": "molto",
+      "C": "per nulla"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'esempio dei genitori (modeling) è uno dei fattori più influenti sulle abitudini alimentari e sulle preferenze dei bambini, specialmente in età prescolare e scolare."
+  },
+  {
+    "domanda": "cosa è la tiroide?",
+    "opzioni": {
+      "A": "ghiandola situata nella parte anteriore del collo che secerne ormoni rilevanti per il metabolismo",
+      "B": "una malattia",
+      "C": "né l'una né l'altra"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La tiroide è una ghiandola endocrina fondamentale che produce gli ormoni T3 e T4, i quali regolano il metabolismo energetico di quasi tutte le cellule del corpo."
+  },
+  {
+    "domanda": "Cosa si intende per sarcopenia?",
+    "opzioni": {
+      "A": "mancanza di entusiasmo",
+      "B": "Una condizione di bassa massa muscolare accompagnata da bassa forza muscolare caratterizzata da infiltrazione di grasso nel muscolo",
+      "C": "mancanza di appetito"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La sarcopenia è una sindrome geriatrica caratterizzata dalla progressiva perdita di massa e forza muscolare, spesso associata all'invecchiamento."
+  },
+  {
+    "domanda": "Da cosa è costituito il fabbisogno giornaliero?",
+    "opzioni": {
+      "A": "azione dinamico specifica degli alimenti, attività fisica e processi interni",
+      "B": "solo attività fisica",
+      "C": "né l'uno né l'altro"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "Il fabbisogno energetico totale è la somma di: metabolismo basale (processi interni), termogenesi indotta dalla dieta (azione dinamico-specifica) e dispendio energetico da attività fisica."
+  },
+  {
+    "domanda": "Cosa è l'azione dinamico specifica o effetto termico degli alimenti?",
+    "opzioni": {
+      "A": "energia che fornisce gli alimenti",
+      "B": "energia che il nostro corpo impiega per digerire i nutrienti",
+      "C": "il calore sviluppato in cottura dagli alimenti"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "È l'incremento del dispendio energetico a seguito dell'ingestione di cibo, dovuto ai processi di digestione, assorbimento e metabolizzazione dei nutrienti."
+  },
+  {
+    "domanda": "Cosa è la salute?",
+    "opzioni": {
+      "A": "una condizione di completo benessere fisico, mentale e sociale e non esclusivamente l'assenza di malattie o infermità",
+      "B": "assenza di malattie",
+      "C": "capacità di fare attività fisica"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "Questa è la definizione ufficiale di salute fornita dall'Organizzazione Mondiale della Sanità (OMS) nel 1948, che adotta un approccio olistico e non solo l'assenza di patologia."
+  },
+  {
+    "domanda": "Cosa è l'effetto rebound dell'allenamento?",
+    "opzioni": {
+      "A": "assimilazione maggiore di carboidrati",
+      "B": "effetto secondo il quale il corpo dimagrisce quando non ci si allena",
+      "C": "perdita di tessuto muscolare se ci si allena"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "In un contesto di allenamento, l'effetto 'rebound' (o rimbalzo) si riferisce spesso al peggioramento di una condizione (es. perdita di muscolo, aumento di grasso) quando si interrompe bruscamente uno stimolo allenante o una dieta."
+  },
+  {
+    "domanda": "A cosa serve la plicometria?",
+    "opzioni": {
+      "A": "Stimare attraverso la misura delle pliche, la massa grassa",
+      "B": "a misurare l'idratazione del soggetto",
+      "C": "a valutare se mangia abbastanza"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La plicometria misura lo spessore del grasso sottocutaneo in punti specifici del corpo. Questi dati vengono inseriti in equazioni per stimare la percentuale di massa grassa totale."
+  },
+  {
+    "domanda": "Qual è il nutriente da monitorare più strettamente nell'anziano per evitare la perdita dell'efficienza muscolare?",
+    "opzioni": {
+      "A": "carboidrati",
+      "B": "grassi",
+      "C": "proteine"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Con l'avanzare dell'età, il fabbisogno proteico aumenta per contrastare la sarcopenia (perdita di massa muscolare). Un adeguato apporto di proteine è cruciale per la sintesi proteica muscolare."
+  },
+  {
+    "domanda": "Qual è la caratteristica principale dell'invecchiamento?",
+    "opzioni": {
+      "A": "Riduzione delle riserve funzionali di organi e apparati e una minore efficienza del sistema nervoso endocrino e immunitario.",
+      "B": "perdita di memoria soltanto",
+      "C": "perdita di centimetri per altezza"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "L'invecchiamento è definito biologicamente come una progressiva riduzione delle capacità funzionali di tutti i sistemi corporei (omeostasi), rendendo l'organismo più vulnerabile agli stress."
+  },
+  {
+    "domanda": "Quante calorie apporta 1g di grassi?",
+    "opzioni": {
+      "A": "5 kcal",
+      "B": "4 kcal",
+      "C": "9 kcal"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I macronutrienti hanno un apporto calorico diverso: i grassi (o lipidi) forniscono circa 9 kcal per grammo, mentre proteine e carboidrati ne forniscono circa 4 kcal/g."
+  },
+  {
+    "domanda": "Cosa è un algoritmo",
+    "opzioni": {
+      "A": "insieme di regole e procedure di calcolo ben definite che portano alla soluzione di un problema",
+      "B": "sistema di istruzioni in un linguaggio di programmazione ben definito risolvibile solo da un calcolatore",
+      "C": "un sistema fisico fatto di componenti meccaniche eseguibili senza un ordine ben preciso"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "Un algoritmo è una sequenza finita di passaggi logici, chiari e non ambigui, che risolvono una classe di problemi. Non è legato a un calcolatore o a un linguaggio specifico."
+  },
+  {
+    "domanda": "Cosa sono gli aminoacidi",
+    "opzioni": {
+      "A": "catene di zuccheri",
+      "B": "costituenti delle proteine",
+      "C": "costituenti dei grassi"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Gli aminoacidi sono le unità molecolari (monomeri) che, legandosi tra loro in catene, formano le proteine. I costituenti dei grassi sono glicerolo e acidi grassi."
+  },
+  {
+    "domanda": "A cosa è correlato un BMI pregravidico alto?",
+    "opzioni": {
+      "A": "a un aumento esagerato di chili",
+      "B": "a una quota di colesterolo gigante",
+      "C": "a possibili problematiche relative al feto e alla donna in gravidanza"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Un Indice di Massa Corporea (BMI) elevato prima della gravidanza è un fattore di rischio per diverse complicazioni, come diabete gestazionale, preeclampsia e problemi per il feto."
+  },
+  {
+    "domanda": "Cosa si intende per IoT?",
+    "opzioni": {
+      "A": "Internet of Things",
+      "B": "Intelligent Open Technologies",
+      "C": "Interaction Over Things"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "IoT è l'acronimo di Internet of Things (Internet delle Cose), e si riferisce alla rete di oggetti fisici dotati di sensori e connessione a internet, in grado di raccogliere e scambiare dati."
+  },
+  {
+    "domanda": "Qual è una delle possibili conseguenze della menopausa?",
+    "opzioni": {
+      "A": "osteoporosi",
+      "B": "perdita di massa grassa",
+      "C": "aumento del consumo di fibre"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La menopausa causa un calo degli estrogeni, ormoni che proteggono la densità ossea. Questa carenza aumenta significativamente il rischio di sviluppare osteoporosi."
+  },
+  {
+    "domanda": "Cosa si intende per Telemedicina?",
+    "opzioni": {
+      "A": "erogazione di servizi di formazione a distanza per medici",
+      "B": "erogazione di servizi di assistenza sanitaria a distanza",
+      "C": "erogazione di servizi di aggiornamento delle competenze mediche"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La telemedicina è l'insieme di tecniche mediche e informatiche che permettono di fornire servizi sanitari (diagnosi, monitoraggio, consulto) a distanza, superando le barriere geografiche."
+  },
+  {
+    "domanda": "Se un aminoacido è essenziale vuol dire che",
+    "opzioni": {
+      "A": "non viene prodotto dal nostro corpo",
+      "B": "vuol dire che viene prodotto solo dal nostro corpo",
+      "C": "non deve essere assunto con gli alimenti"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "Gli aminoacidi 'essenziali' sono quelli che l'organismo umano non è in grado di sintetizzare autonomamente e che devono quindi essere obbligatoriamente introdotti con la dieta."
+  },
+  {
+    "domanda": "Qual è l'ormone dello stress?",
+    "opzioni": {
+      "A": "cortisolo",
+      "B": "progesterone",
+      "C": "insulina"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "Il cortisolo, prodotto dalle ghiandole surrenali, è il principale ormone rilasciato in risposta a stress psicofisici, e ha molteplici effetti sul metabolismo e sul sistema immunitario."
+  },
+  {
+    "domanda": "Cosa si intende per ipertrofia muscolare?",
+    "opzioni": {
+      "A": "aumento delle circonferenze",
+      "B": "aumento della potenza",
+      "C": "aumento del volume del muscolo e dei suoi costituenti"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "L'ipertrofia muscolare è l'aumento del volume delle fibre muscolari, e quindi del muscolo nel suo complesso, in risposta a uno stimolo allenante, tipicamente l'allenamento contro resistenza."
+  },
+  {
+    "domanda": "Cosa è lo stato nutrizionale",
+    "opzioni": {
+      "A": "rilevamento del peso",
+      "B": "è la condizione del corpo, data dall'assorbimento dei nutrienti, l'utilizzo del cibo e i fattori pato-fisiologici rilevanti",
+      "C": "rilevamento delle malattie del soggetto e dei suoi gusti alimentari"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Lo stato nutrizionale è una valutazione complessa che descrive la condizione di salute di un individuo in relazione all'apporto e all'utilizzo dei nutrienti, influenzato da fattori fisiologici e patologici."
+  },
+  {
+    "domanda": "Secondo la proposta di Gibbs e Tucker (1970), come viene definita l'informatica?",
+    "opzioni": {
+      "A": "Lo studio dei computer e dell'hardware.",
+      "B": "Lo studio degli algoritmi.",
+      "C": "Lo studio dei linguaggi di programmazione.",
+      "D": "Lo studio delle applicazioni software."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'informatica, secondo Gibbs e Tucker, viene definita come lo studio degli algoritmi, sottolineando che senza la conoscenza di questo concetto non si può comprendere appieno l'informatica."
+  },
+  {
+    "domanda": "Cosa si intende per 'agente di calcolo'?",
+    "opzioni": {
+      "A": "Un software per fare calcoli matematici.",
+      "B": "Solo un computer o un supercomputer.",
+      "C": "La macchina, il robot, la persona o l'entità che esegue i passaggi di un algoritmo.",
+      "D": "Un programmatore che scrive codice."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Viene definito 'agente di calcolo' qualsiasi entità (macchina, persona, ecc.) in grado di eseguire i passaggi di un algoritmo."
+  },
+  {
+    "domanda": "Quale tra questi NON è una delle 'Quattro Dimensioni dell'Informatica' menzionate?",
+    "opzioni": {
+      "A": "Proprietà formali e matematiche degli algoritmi.",
+      "B": "Implementazioni hardware degli algoritmi.",
+      "C": "Marketing e vendita dei software.",
+      "D": "Applicazioni degli algoritmi."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Le quattro dimensioni elencate sono: proprietà formali, implementazioni hardware, implementazioni linguistiche e applicazioni. Il marketing non è una di queste."
+  },
+  {
+    "domanda": "Qual è il requisito fondamentale per sostenere la prova finale del corso?",
+    "opzioni": {
+      "A": "Acquistare i testi didattici suggeriti.",
+      "B": "Aver superato un esame preliminare.",
+      "C": "Aver frequentato almeno il 70% delle lezioni.",
+      "D": "Essere iscritti a un corso di laurea specifico in Informatica."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Per sostenere la prova finale è richiesta la verifica delle presenze ad almeno il 70% delle lezioni, definito come 'obbligo formale di Ateneo'."
+  },
+  {
+    "domanda": "Come si svolge la prova finale del corso 'Informatica e Scienza della Nutrizione'?",
+    "opzioni": {
+      "A": "Online, con un colloquio orale.",
+      "B": "In presenza, con quesiti a risposta chiusa e valutazione in trentesimi.",
+      "C": "Con la consegna di un progetto sviluppato in gruppo.",
+      "D": "Online, con quesiti a risposta chiusa."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La prova finale si svolge in presenza presso il Dipartimento di Informatica con quesiti a risposta chiusa e valutazione in trentesimi."
+  },
+  {
+    "domanda": "Quale di questi NON è uno degli obiettivi principali del corso?",
+    "opzioni": {
+      "A": "Fornire una solida comprensione della nutrizione e del benessere.",
+      "B": "Insegnare a programmare in un linguaggio specifico come Python.",
+      "C": "Introdurre ai principi fondamentali dell'informatica per la promozione della salute.",
+      "D": "Sviluppare competenze chiave in intelligenza artificiale e scienza della nutrizione."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Gli obiettivi del corso sono di alto livello e interdisciplinari. Non viene menzionato l'insegnamento di uno specifico linguaggio di programmazione."
+  },
+  {
+    "domanda": "Cosa si intende per elaborazione parallela in un supercomputer?",
+    "opzioni": {
+      "A": "L'uso di due monitor per visualizzare i risultati.",
+      "B": "Il processo in cui migliaia di nodi di calcolo lavorano insieme su una o più attività.",
+      "C": "La capacità di eseguire calcoli molto velocemente in sequenza.",
+      "D": "L'uso di un processore con più core per le attività quotidiane."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'elaborazione parallela è il processo in cui un supercomputer utilizza migliaia di nodi di calcolo che lavorano simultaneamente per completare un'attività."
+  },
+  {
+    "domanda": "Quale computer, secondo le slide, ha introdotto per primo la grafica a colori e l'audio, diventando indispensabile per le aziende grazie a VisiCalc?",
+    "opzioni": {
+      "A": "Altair 8800 (1975)",
+      "B": "IBM PC (1981)",
+      "C": "Leonardo",
+      "D": "Apple II (1977)"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "L'Apple II (1977) è descritto come il primo computer con grafica a colori e audio, e VisiCalc è il software che ne decretò il successo in ambito aziendale."
+  },
+  {
+    "domanda": "Cosa ha rappresentato l'introduzione di MS-DOS (1981)?",
+    "opzioni": {
+      "A": "Il primo sistema operativo con interfaccia grafica (GUI).",
+      "B": "Un sistema operativo dominante per PC IBM e compatibili, basato su riga di comando.",
+      "C": "La fine dell'era dei personal computer.",
+      "D": "Un software per la gestione dei file su ARPANET."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "MS-DOS è descritto come il sistema operativo dominante dell'epoca, basato su comandi testuali, che richiedeva una conoscenza specifica per essere usato."
+  },
+  {
+    "domanda": "Chi ha inventato il World Wide Web (1989)?",
+    "opzioni": {
+      "A": "Il Dipartimento della Difesa degli Stati Uniti.",
+      "B": "Bill Gates e Paul Allen.",
+      "C": "Steve Jobs.",
+      "D": "Tim Berners-Lee."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "L'invenzione del World Wide Web è attribuita a Tim Berners-Lee, che ha democratizzato l'informazione tramite HTML, URL e HTTP."
+  },
+  {
+    "domanda": "Quale è la principale differenza tra apprendimento supervisionato e non supervisionato nel Machine Learning?",
+    "opzioni": {
+      "A": "Quello supervisionato è più veloce, quello non supervisionato è più lento.",
+      "B": "Quello supervisionato usa dati etichettati, quello non supervisionato trova pattern in dati non etichettati.",
+      "C": "Quello supervisionato richiede l'intervento umano, quello non supervisionato è completamente automatico.",
+      "D": "Quello supervisionato si usa per le reti neurali, quello non supervisionato per gli algoritmi genetici."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'apprendimento supervisionato impara da dati etichettati per fare previsioni, mentre quello non supervisionato scopre strutture nascoste in dati non etichettati."
+  },
+  {
+    "domanda": "Che cos'è ELIZA (1966) nella storia del Natural Language Processing (NLP)?",
+    "opzioni": {
+      "A": "Il primo computer a vincere a Jeopardy!",
+      "B": "Un modello linguistico avanzato per generare testi.",
+      "C": "Il primo chatbot della storia, che simulava una conversazione con uno psicoterapeuta.",
+      "D": "Un sistema di riconoscimento vocale."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "ELIZA è descritto come il primo chatbot, noto per aver dimostrato il potenziale dell'interazione uomo-macchina simulando una seduta di psicoterapia."
+  },
+  {
+    "domanda": "Cosa sono le 'parole-valigia' secondo Marvin Minsky?",
+    "opzioni": {
+      "A": "Parole tecniche usate solo in informatica.",
+      "B": "Parole con molti significati che possono generare fraintendimenti.",
+      "C": "Parole straniere entrate nel lessico comune.",
+      "D": "Parole inventate dalla fantascienza."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Marvin Minsky ha coniato il termine 'parole-valigia' per definire parole polisemiche (con molti significati), come 'intelligenza', che aumentano il rischio di confusione."
+  },
+  {
+    "domanda": "Secondo le slide, qual è una definizione 'più utile' di IA basata su due capacità chiave?",
+    "opzioni": {
+      "A": "Velocità e Precisione.",
+      "B": "Complessità e Semplicità.",
+      "C": "Autonomia e Adattività.",
+      "D": "Programmazione e Calcolo."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Viene proposta una definizione utile di IA basata su due concetti: Autonomia (svolgere compiti senza assistenza) e Adattività (migliorare imparando dall'esperienza)."
+  },
+  {
+    "domanda": "Quale tecnologia è associata alla creazione di 'deepfake'?",
+    "opzioni": {
+      "A": "Elaborazione di Video e Immagini tramite IA.",
+      "B": "Raccomandazione di Contenuti.",
+      "C": "Natural Language Processing (NLP).",
+      "D": "High Performance Computing (HPC)."
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "Nella sezione 'Elaborazione di Video e Immagini', viene citata la creazione di 'deepfake' come una delle implicazioni, minando la fiducia nelle immagini."
+  },
+  {
+    "domanda": "Che cos'è ARPANET (1969)?",
+    "opzioni": {
+      "A": "Il primo personal computer commerciale.",
+      "B": "Un'azienda di software fondata negli anni '60.",
+      "C": "Il precursore di Internet, una rete creata dal Dipartimento della Difesa USA.",
+      "D": "Il primo linguaggio di programmazione ad alto livello."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "ARPANET è descritto come il precursore di Internet, creato per dimostrare la fattibilità della comunicazione tra computer distanti."
+  },
+  {
+    "domanda": "Quale modulo del corso è tenuto dal Dott. Marco Polignano?",
+    "opzioni": {
+      "A": "Elementi di base di Nutrizione.",
+      "B": "Applicazioni e approfondimenti di nutrizione.",
+      "C": "Sicurezza alimentare e contaminazioni microbiche.",
+      "D": "Intelligenza Artificiale per l'eHealth e la Promozione della Salute."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La tabella dei docenti mostra che il Dott. Polignano è responsabile del 'Modulo 1: Intelligenza Artificiale per l'eHealth e la Promozione della Salute'."
+  },
+  {
+    "domanda": "Qual è una delle principali ragioni della percezione confusa dell'IA, secondo le slide?",
+    "opzioni": {
+      "A": "La sua eccessiva complessità matematica.",
+      "B": "L'eredità della fantascienza, che presenta l'IA in modi metaforici.",
+      "C": "La mancanza di applicazioni pratiche nel mondo reale.",
+      "D": "Il suo costo troppo elevato per l'utente medio."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 'Ragione 2: L'eredità della Fantascienza' spiega come la fantascienza influenzi la percezione dell'IA, spesso presentando storie che sono metafore della condizione umana più che previsioni tecnologiche."
+  },
+  {
+    "domanda": "Cosa dimostra il paradosso per cui 'ciò che sembra semplice è in realtà complicato' per l'IA?",
+    "opzioni": {
+      "A": "Che giocare a scacchi è più facile che raccogliere cavolfiori.",
+      "B": "Che compiti motori semplici per l'uomo, come afferrare un oggetto, sono estremamente difficili per un robot.",
+      "C": "Che i computer non saranno mai in grado di risolvere problemi complessi.",
+      "D": "Che la robotica è un campo di studi senza futuro."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le slide spiegano il paradosso di Moravec: attività cognitive 'alte' per gli umani (scacchi, calcolo) sono facili per i computer, mentre abilità senso-motorie basilari (afferrare oggetti) sono estremamente complesse da replicare."
+  },
+  {
+    "domanda": "Qual è il principale beneficio della digitalizzazione delle cartelle cliniche menzionato nelle slide?",
+    "opzioni": {
+      "A": "Risparmiare carta e aiutare l'ambiente.",
+      "B": "Permettere ai pazienti di accedere ai propri dati da casa.",
+      "C": "Migliorare l'efficienza, ridurre gli errori e facilitare la condivisione delle informazioni tra professionisti.",
+      "D": "Rendere il lavoro del medico più veloce."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Vengono elencati i vantaggi della digitalizzazione delle cartelle cliniche, tra cui il miglioramento dell'efficienza, la riduzione degli errori e la facilitata condivisione delle informazioni, che apre la strada all'IA."
+  },
+  {
+    "domanda": "Qual è lo scopo principale del Test di Turing proposto da Alan Turing?",
+    "opzioni": {
+      "A": "Misurare la velocità di calcolo di una macchina.",
+      "B": "Valutare se una macchina può avere una coscienza.",
+      "C": "Determinare se una macchina può conversare in modo indistinguibile da un essere umano.",
+      "D": "Verificare la capacità di un programma di scrivere codice."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il Test di Turing è un 'gioco di imitazione' che valuta l'intelligenza di una macchina in base alla sua capacità di sostenere una conversazione testuale così bene da non essere distinguibile da un interlocutore umano."
+  },
+  {
+    "domanda": "Qual è il nucleo dell'argomentazione della 'Stanza Cinese' di John Searle?",
+    "opzioni": {
+      "A": "Una macchina non potrà mai superare il Test di Turing.",
+      "B": "Manipolare simboli secondo delle regole (sintassi) non equivale a comprendere il loro significato (semantica).",
+      "C": "I computer cinesi sono intrinsecamente più intelligenti.",
+      "D": "L'intelligenza artificiale è impossibile da realizzare."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'esperimento mentale della Stanza Cinese serve a dimostrare che anche se una macchina (o una persona che segue istruzioni) si comporta in modo intelligente, non significa che possieda una vera comprensione o coscienza. Distingue tra simulazione e intelligenza reale."
+  },
+  {
+    "domanda": "Come viene definita l'IA Ristretta (Narrow AI)?",
+    "opzioni": {
+      "A": "Un'IA in grado di gestire qualsiasi compito intellettivo, come un essere umano.",
+      "B": "Un'IA relegata alla fantascienza e non ancora realizzabile.",
+      "C": "Un'IA che si concentra su un singolo compito o un dominio specifico.",
+      "D": "Un'IA dotata di autocoscienza."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "L'IA Ristretta è specializzata in un compito specifico (es. giocare a scacchi, guidare un'auto). Tutti i sistemi di IA attuali rientrano in questa categoria, in contrapposizione all'IA Generale (AGI)."
+  },
+  {
+    "domanda": "Qual è la differenza fondamentale tra IA Forte e IA Debole?",
+    "opzioni": {
+      "A": "L'IA Forte è più veloce dell'IA Debole.",
+      "B": "L'IA Forte è una 'mente' veramente autocosciente, mentre l'IA Debole simula solo un comportamento intelligente.",
+      "C": "L'IA Forte si basa su reti neurali, l'IA Debole su logica fuzzy.",
+      "D": "L'IA Forte è usata in ambito militare, l'IA Debole in ambito civile."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La distinzione riflette il dibattito filosofico: l'IA Forte possiederebbe una mente cosciente (obiettivo teorico), mentre l'IA Debole (la realtà attuale) mostra comportamenti intelligenti senza esserlo veramente."
+  },
+  {
+    "domanda": "Secondo la tassonomia presentata, qual è la relazione tra IA, Machine Learning (ML) e Deep Learning (DL)?",
+    "opzioni": {
+      "A": "Sono tre campi completamente separati e indipendenti.",
+      "B": "Il DL è un sottoinsieme del ML, che è un sottoinsieme dell'IA.",
+      "C": "L'IA è un sottoinsieme del ML, che è un sottoinsieme del DL.",
+      "D": "ML e DL sono due approcci alternativi per raggiungere l'IA."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'Intelligenza Artificiale è il campo più ampio. Il Machine Learning è una tecnica specifica di IA. Il Deep Learning è una tecnica ancora più specifica all'interno del Machine Learning."
+  },
+  {
+    "domanda": "Cosa si intende per 'prompting' nel contesto dei Large Language Models (LLM)?",
+    "opzioni": {
+      "A": "La fase di addestramento del modello.",
+      "B": "La fornitura di un input (query o dichiarazione) per istruire il modello a generare un output.",
+      "C": "Un errore generato dal modello.",
+      "D": "L'architettura hardware su cui gira il modello."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il prompting è l'atto di dare un'istruzione a un LLM per guidarlo verso la generazione della risposta desiderata. È il modo in cui l'utente interagisce con il modello."
+  },
+  {
+    "domanda": "Qual è la caratteristica principale della tecnica di prompting 'Few-shot'?",
+    "opzioni": {
+      "A": "Scrivere la domanda così come viene in mente, senza esempi.",
+      "B": "Usare parole chiave specifiche come 'pensa passo dopo passo'.",
+      "C": "Fornire al modello alcuni esempi di risposta corretta prima di porre la domanda effettiva.",
+      "D": "Suddividere un compito complesso in una catena di prompt."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il 'Few-shot prompting' consiste nell'estendere la domanda con alcuni esempi dimostrativi (coppie domanda-risposta) per aiutare il modello a capire meglio il formato e il tipo di risposta attesa."
+  },
+  {
+    "domanda": "Cosa fa la tecnica di prompting 'Chain-of-Thought' (CoT)?",
+    "opzioni": {
+      "A": "Traduce il prompt in un'altra lingua.",
+      "B": "Aiuta il modello a 'pensare ad alta voce', includendo passaggi di ragionamento intermedi nella risposta.",
+      "C": "Utilizza dati da fonti esterne per generare la risposta.",
+      "D": "Rileva automaticamente quando chiamare una funzione esterna."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il CoT prompting è particolarmente efficace per compiti complessi (logici, aritmetici) perché guida il modello a esplicitare i passaggi logici che portano alla soluzione, invece di dare solo la risposta finale."
+  },
+  {
+    "domanda": "Quale problema etico è associato al 'Bias Algoritmico'?",
+    "opzioni": {
+      "A": "La privacy dei dati personali.",
+      "B": "La difficoltà di stabilire chi è responsabile in caso di errore.",
+      "C": "La possibilità che gli algoritmi riflettano pregiudizi presenti nei dati di addestramento, portando a decisioni discriminatorie.",
+      "D": "Il rischio di dipendenza psicologica dallo strumento."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il bias algoritmico si verifica quando un sistema di IA impara e replica pregiudizi esistenti nella società (presenti nei dati), portando a risultati ingiusti o discriminatori per certi gruppi di persone."
+  },
+  {
+    "domanda": "Secondo le slide, quale approccio ha dimostrato la sua superiorità nella gestione dell'incertezza nell'IA a partire dagli anni 2000?",
+    "opzioni": {
+      "A": "I sistemi esperti basati su regole.",
+      "B": "La logica fuzzy di Zadeh.",
+      "C": "L'approccio probabilistico, grazie a machine learning e big data.",
+      "D": "Il Test di Turing."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Mentre la logica fuzzy ha dominato gli anni '90, l'avvento del machine learning ha sancito il 'trionfo probabilistico' come metodo più efficace per gestire l'incertezza, come dimostrato da quasi tutte le moderne applicazioni di IA."
+  },
+  {
+    "domanda": "Quale dei seguenti è un esempio di IA Debole (o Ristretta)?",
+    "opzioni": {
+      "A": "Un robot autocosciente con emozioni.",
+      "B": "Un sistema in grado di risolvere qualsiasi problema intellettuale.",
+      "C": "Siri, Alexa e Google Assistant.",
+      "D": "Un'entità che passa il Test di Turing e comprende veramente ciò che dice."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Gli assistenti virtuali come Siri, i sistemi di guida autonoma e i traduttori automatici sono esempi di IA Ristretta/Debole, in quanto eccellono in compiti specifici ma non possiedono un'intelligenza generale."
+  },
+  {
+    "domanda": "Cosa si intende per Robotica?",
+    "opzioni": {
+      "A": "Lo studio teorico degli algoritmi.",
+      "B": "Un campo che integra IA, ingegneria meccanica ed elettronica per creare macchine che operano nel mondo reale.",
+      "C": "Esclusivamente l'automazione dei processi produttivi industriali.",
+      "D": "La creazione di chatbot e assistenti virtuali."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La robotica è un campo multidisciplinare che ha lo scopo di creare macchine intelligenti (robot) dotate di sensori e attuatori, in grado di interagire con il mondo fisico."
+  },
+  {
+    "domanda": "Quale tra questi NON è un limite o una precauzione da considerare nell'uso di ChatGPT?",
+    "opzioni": {
+      "A": "Può fornire informazioni imprecise o non aggiornate.",
+      "B": "Può creare dipendenza e sostituire il pensiero critico.",
+      "C": "Può sollevare problematiche etiche di plagio in ambito accademico.",
+      "D": "Ha capacità di memoria illimitata e ricorda perfettamente ogni conversazione passata."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Le slide evidenziano come limiti le imprecisioni, il rischio di dipendenza e le questioni etiche. La memoria di ChatGPT non è illimitata e ha un 'cut-off' di conoscenza (non è aggiornato in tempo reale)."
+  },
+  {
+    "domanda": "Cos'è la tecnica RAG (Retrieval Augmented Generation)?",
+    "opzioni": {
+      "A": "Un modo per far 'pensare passo dopo passo' il modello.",
+      "B": "Un metodo che integra un sistema di recupero dati (es. ricerca in documenti) con un LLM per generare risposte basate su fonti verificabili.",
+      "C": "Un tipo di prompting che non usa esempi.",
+      "D": "La capacità di un LLM di chiamare funzioni esterne."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "RAG migliora l'affidabilità degli LLM 'aumentando' il prompt con informazioni pertinenti recuperate da una base di conoscenza esterna, riducendo le 'allucinazioni' e permettendo di citare le fonti."
+  },
+  {
+    "domanda": "Qual è il ruolo della probabilità nella gestione dell'incertezza nel mondo reale, secondo le slide?",
+    "opzioni": {
+      "A": "Eliminare completamente ogni tipo di rischio.",
+      "B": "Sostituire l'intuizione umana con calcoli puramente matematici.",
+      "C": "Quantificare l'incertezza per permettere decisioni più razionali e informate.",
+      "D": "Rendere le discussioni più soggettive e irrazionali."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La probabilità non elimina l'incertezza, ma fornisce un modo sistematico per misurarla e gestirla, trasformandola da fonte di ansia a base per decisioni consapevoli in vari campi."
+  },
+  {
+    "domanda": "Quale strumento viene descritto come un 'assistente di ricerca AI personalizzato' che permette di caricare le proprie fonti (PDF, video, etc.) e interrogarle?",
+    "opzioni": {
+      "A": "Midjourney",
+      "B": "Canva",
+      "C": "NotebookLM",
+      "D": "Grammarly"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "NotebookLM (ora basato su Gemini) è presentato come uno strumento che agisce come un esperto sui documenti forniti dall'utente, permettendo di fare domande, ottenere sommari e scoprire connessioni, citando sempre le fonti."
+  },
+  {
+    "domanda": "Qual è la differenza tra un Language Model (LM) e un Large Language Model (LLM)?",
+    "opzioni": {
+      "A": "Non c'è nessuna differenza, sono sinonimi.",
+      "B": "Un LLM è un modello linguistico di tipo avanzato, addestrato con tecniche di Deep Learning su enormi quantità di dati.",
+      "C": "Un LM può solo analizzare il testo, mentre un LLM può anche generarlo.",
+      "D": "Un LLM è specifico per la traduzione, un LM è per compiti generali."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Un LLM si distingue per essere addestrato con tecniche di Deep Learning (come l'architettura Transformer) e su una scala di dati vastissima, che gli conferisce capacità molto più avanzate rispetto ai modelli linguistici tradizionali."
+  },
+  {
+    "domanda": "Che cos'è l'Ingegneria dei Prompt (Prompt Engineering)?",
+    "opzioni": {
+      "A": "Un nuovo linguaggio di programmazione per l'IA.",
+      "B": "Il processo di progettazione e ottimizzazione di prompt per interagire efficacemente con i modelli linguistici.",
+      "C": "La costruzione dell'hardware su cui girano gli LLM.",
+      "D": "La vendita di prompt pre-fatti online."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'ingegneria dei prompt è la competenza di strutturare il testo di input (il prompt) in modo da guidare un modello generativo a produrre l'output desiderato in modo efficiente e accurato."
+  },
+  {
+    "domanda": "Quale dei seguenti NON è un elemento fondamentale di un prompt ben strutturato, secondo la gerarchia presentata?",
+    "opzioni": {
+      "A": "Istruzione (il comando principale).",
+      "B": "Contesto (background, esempi).",
+      "C": "Dati di Input (il contenuto da elaborare).",
+      "D": "Lunghezza del testo (il numero di parole)."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La gerarchia degli elementi di un prompt include Istruzione, Contesto, Dati di Input e Indicatore di Output. La lunghezza è una caratteristica che può essere specificata, ma non è un elemento fondamentale della struttura stessa."
+  },
+    {
+    "domanda": "Quale dei seguenti è un esempio di IA Debole (o Ristretta)?",
+    "opzioni": {
+      "A": "Un robot autocosciente con emozioni.",
+      "B": "Un sistema in grado di risolvere qualsiasi problema intellettuale.",
+      "C": "Siri, Alexa e Google Assistant.",
+      "D": "Un'entità che passa il Test di Turing e comprende veramente ciò che dice."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Gli assistenti virtuali come Siri, i sistemi di guida autonoma e i traduttori automatici sono esempi di IA Ristretta/Debole, in quanto eccellono in compiti specifici ma non possiedono un'intelligenza generale."
+  },
+  {
+    "domanda": "Cosa si intende per Robotica?",
+    "opzioni": {
+      "A": "Lo studio teorico degli algoritmi.",
+      "B": "Un campo che integra IA, ingegneria meccanica ed elettronica per creare macchine che operano nel mondo reale.",
+      "C": "Esclusivamente l'automazione dei processi produttivi industriali.",
+      "D": "La creazione di chatbot e assistenti virtuali."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La robotica è un campo multidisciplinare che ha lo scopo di creare macchine intelligenti (robot) dotate di sensori e attuatori, in grado di interagire con il mondo fisico."
+  },
+  {
+    "domanda": "Quale tra questi NON è un limite o una precauzione da considerare nell'uso di ChatGPT?",
+    "opzioni": {
+      "A": "Può fornire informazioni imprecise o non aggiornate.",
+      "B": "Può creare dipendenza e sostituire il pensiero critico.",
+      "C": "Può sollevare problematiche etiche di plagio in ambito accademico.",
+      "D": "Ha capacità di memoria illimitata e ricorda perfettamente ogni conversazione passata."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Le slide evidenziano come limiti le imprecisioni, il rischio di dipendenza e le questioni etiche. La memoria di ChatGPT non è illimitata e ha un 'cut-off' di conoscenza (non è aggiornato in tempo reale)."
+  },
+  {
+    "domanda": "Cos'è la tecnica RAG (Retrieval Augmented Generation)?",
+    "opzioni": {
+      "A": "Un modo per far 'pensare passo dopo passo' il modello.",
+      "B": "Un metodo che integra un sistema di recupero dati (es. ricerca in documenti) con un LLM per generare risposte basate su fonti verificabili.",
+      "C": "Un tipo di prompting che non usa esempi.",
+      "D": "La capacità di un LLM di chiamare funzioni esterne."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "RAG migliora l'affidabilità degli LLM 'aumentando' il prompt con informazioni pertinenti recuperate da una base di conoscenza esterna, riducendo le 'allucinazioni' e permettendo di citare le fonti."
+  },
+  {
+    "domanda": "Qual è il ruolo della probabilità nella gestione dell'incertezza nel mondo reale, secondo le slide?",
+    "opzioni": {
+      "A": "Eliminare completamente ogni tipo di rischio.",
+      "B": "Sostituire l'intuizione umana con calcoli puramente matematici.",
+      "C": "Quantificare l'incertezza per permettere decisioni più razionali e informate.",
+      "D": "Rendere le discussioni più soggettive e irrazionali."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La probabilità non elimina l'incertezza, ma fornisce un modo sistematico per misurarla e gestirla, trasformandola da fonte di ansia a base per decisioni consapevoli in vari campi."
+  },
+  {
+    "domanda": "Quale strumento viene descritto come un 'assistente di ricerca AI personalizzato' che permette di caricare le proprie fonti (PDF, video, etc.) e interrogarle?",
+    "opzioni": {
+      "A": "Midjourney",
+      "B": "Canva",
+      "C": "NotebookLM",
+      "D": "Grammarly"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "NotebookLM (ora basato su Gemini) è presentato come uno strumento che agisce come un esperto sui documenti forniti dall'utente, permettendo di fare domande, ottenere sommari e scoprire connessioni, citando sempre le fonti."
+  },
+  {
+    "domanda": "Qual è la differenza tra un Language Model (LM) e un Large Language Model (LLM)?",
+    "opzioni": {
+      "A": "Non c'è nessuna differenza, sono sinonimi.",
+      "B": "Un LLM è un modello linguistico di tipo avanzato, addestrato con tecniche di Deep Learning su enormi quantità di dati.",
+      "C": "Un LM può solo analizzare il testo, mentre un LLM può anche generarlo.",
+      "D": "Un LLM è specifico per la traduzione, un LM è per compiti generali."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Un LLM si distingue per essere addestrato con tecniche di Deep Learning (come l'architettura Transformer) e su una scala di dati vastissima, che gli conferisce capacità molto più avanzate rispetto ai modelli linguistici tradizionali."
+  },
+  {
+    "domanda": "Che cos'è l'Ingegneria dei Prompt (Prompt Engineering)?",
+    "opzioni": {
+      "A": "Un nuovo linguaggio di programmazione per l'IA.",
+      "B": "Il processo di progettazione e ottimizzazione di prompt per interagire efficacemente con i modelli linguistici.",
+      "C": "La costruzione dell'hardware su cui girano gli LLM.",
+      "D": "La vendita di prompt pre-fatti online."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'ingegneria dei prompt è la competenza di strutturare il testo di input (il prompt) in modo da guidare un modello generativo a produrre l'output desiderato in modo efficiente e accurato."
+  },
+  {
+    "domanda": "Quale dei seguenti NON è un elemento fondamentale di un prompt ben strutturato, secondo la gerarchia presentata?",
+    "opzioni": {
+      "A": "Istruzione (il comando principale).",
+      "B": "Contesto (background, esempi).",
+      "C": "Dati di Input (il contenuto da elaborare).",
+      "D": "Lunghezza del testo (il numero di parole)."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La gerarchia degli elementi di un prompt include Istruzione, Contesto, Dati di Input e Indicatore di Output. La lunghezza è una caratteristica che può essere specificata, ma non è un elemento fondamentale della struttura stessa."
+  }
+]
