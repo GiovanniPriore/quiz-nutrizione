@@ -1229,6 +1229,17 @@
     "spiegazione": "Il Kwashiorkor è la classica malnutrizione proteica, in cui l'apporto calorico può essere sufficiente ma quello proteico è gravemente insufficiente, portando a sintomi come edema e steatosi epatica."
   },
   {
+    "domanda": "Cosa si intende per 'Sarcopenia'?",
+    "opzioni": {
+      "A": "Una malattia infiammatoria dell'intestino.",
+      "B": "Un calo della massa muscolare e della forza, particolarmente presente nell'anziano.",
+      "C": "Un tipo di diabete secondario.",
+      "D": "Un eccesso di cortisolo nel sangue."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La sarcopenia (letteralmente 'povertà di carne') è la perdita progressiva e generalizzata di massa e funzione muscolare che si verifica con l'invecchiamento, portando a fragilità e ridotta mobilità."
+  },
+  {
     "domanda": "Secondo la teoria di Hans Selye, qual è la sequenza delle tre fasi della 'sindrome di adattamento generale' allo stress?",
     "opzioni": {
       "A": "Resistenza, Allarme, Esaurimento.",
@@ -1911,7 +1922,7 @@
     "spiegazione": "I fitosteroli hanno una struttura simile al colesterolo e, una volta nell'intestino, competono per l'assorbimento, limitando la quantità di colesterolo che viene assorbita dagli alimenti."
   },
   {
-    "domanda": "Qual è l'effetto principale degli acidi grassi Omega-3 sul profilo lipidico?",
+    "domanda": "Quale è l'effetto principale degli acidi grassi Omega-3 sul profilo lipidico?",
     "opzioni": {
       "A": "Riducono drasticamente il colesterolo LDL.",
       "B": "Riducono i livelli di Trigliceridi (TG).",
