@@ -258,7 +258,7 @@
       "D": "Lo studio delle applicazioni software."
     },
     "risposta_corretta": "B",
-    "spiegazione": "L'informatica, secondo Gibbs e Tucker, viene definita come lo studio degli algoritmi, sottolineando che senza la conoscenza di questo concetto non si può comprendere appieno l'informatica."
+    "spiegazione": "La slide 11 definisce l'informatica, secondo Gibbs e Tucker, come lo studio degli algoritmi, sottolineando che senza la conoscenza di questo concetto non si può comprendere appieno l'informatica."
   },
   {
     "domanda": "Cosa si intende per 'agente di calcolo'?",
@@ -269,7 +269,7 @@
       "D": "Un programmatore che scrive codice."
     },
     "risposta_corretta": "C",
-    "spiegazione": "Viene definito 'agente di calcolo' qualsiasi entità (macchina, persona, ecc.) in grado di eseguire i passaggi di un algoritmo."
+    "spiegazione": "La slide 14 definisce 'agente di calcolo' come qualsiasi entità (macchina, persona, ecc.) in grado di eseguire i passaggi di un algoritmo."
   },
   {
     "domanda": "Quale tra questi NON è una delle 'Quattro Dimensioni dell'Informatica' menzionate?",
@@ -280,7 +280,7 @@
       "D": "Applicazioni degli algoritmi."
     },
     "risposta_corretta": "C",
-    "spiegazione": "Le quattro dimensioni elencate sono: proprietà formali, implementazioni hardware, implementazioni linguistiche e applicazioni. Il marketing non è una di queste."
+    "spiegazione": "La slide 11 elenca le quattro dimensioni: proprietà formali, implementazioni hardware, implementazioni linguistiche e applicazioni. Il marketing non è una di queste."
   },
   {
     "domanda": "Qual è il requisito fondamentale per sostenere la prova finale del corso?",
@@ -291,7 +291,7 @@
       "D": "Essere iscritti a un corso di laurea specifico in Informatica."
     },
     "risposta_corretta": "C",
-    "spiegazione": "Per sostenere la prova finale è richiesta la verifica delle presenze ad almeno il 70% delle lezioni, definito come 'obbligo formale di Ateneo'."
+    "spiegazione": "La slide 3 specifica che per sostenere la prova finale è richiesta la verifica delle presenze ad almeno il 70% delle lezioni, definito come 'obbligo formale di Ateneo'."
   },
   {
     "domanda": "Come si svolge la prova finale del corso 'Informatica e Scienza della Nutrizione'?",
@@ -302,7 +302,7 @@
       "D": "Online, con quesiti a risposta chiusa."
     },
     "risposta_corretta": "B",
-    "spiegazione": "La prova finale si svolge in presenza presso il Dipartimento di Informatica con quesiti a risposta chiusa e valutazione in trentesimi."
+    "spiegazione": "La slide 3 indica chiaramente che 'La prova finale sarà svolta in presenza presso il Dip. di Informatica con quesiti a risposta chiusa e valutazione in trentesimi'."
   },
   {
     "domanda": "Quale di questi NON è uno degli obiettivi principali del corso?",
@@ -313,7 +313,7 @@
       "D": "Sviluppare competenze chiave in intelligenza artificiale e scienza della nutrizione."
     },
     "risposta_corretta": "B",
-    "spiegazione": "Gli obiettivi del corso sono di alto livello e interdisciplinari. Non viene menzionato l'insegnamento di uno specifico linguaggio di programmazione."
+    "spiegazione": "La slide 6 elenca gli obiettivi, che sono di alto livello e interdisciplinari. Non viene menzionato l'insegnamento di uno specifico linguaggio di programmazione."
   },
   {
     "domanda": "Cosa si intende per elaborazione parallela in un supercomputer?",
@@ -324,7 +324,7 @@
       "D": "L'uso di un processore con più core per le attività quotidiane."
     },
     "risposta_corretta": "B",
-    "spiegazione": "L'elaborazione parallela è il processo in cui un supercomputer utilizza migliaia di nodi di calcolo che lavorano simultaneamente per completare un'attività."
+    "spiegazione": "La slide 16 spiega che l'elaborazione parallela è il processo in cui un supercomputer utilizza migliaia di nodi di calcolo che lavorano simultaneamente."
   },
   {
     "domanda": "Quale computer, secondo le slide, ha introdotto per primo la grafica a colori e l'audio, diventando indispensabile per le aziende grazie a VisiCalc?",
@@ -335,7 +335,7 @@
       "D": "Apple II (1977)"
     },
     "risposta_corretta": "D",
-    "spiegazione": "L'Apple II (1977) è descritto come il primo computer con grafica a colori e audio, e VisiCalc è il software che ne decretò il successo in ambito aziendale."
+    "spiegazione": "La slide 19 descrive l'Apple II (1977) come il primo computer con grafica a colori e audio, e menziona VisiCalc come il software che ne decretò il successo in ambito aziendale."
   },
   {
     "domanda": "Cosa ha rappresentato l'introduzione di MS-DOS (1981)?",
@@ -346,7 +346,7 @@
       "D": "Un software per la gestione dei file su ARPANET."
     },
     "risposta_corretta": "B",
-    "spiegazione": "MS-DOS è descritto come il sistema operativo dominante dell'epoca, basato su comandi testuali, che richiedeva una conoscenza specifica per essere usato."
+    "spiegazione": "La slide 20 descrive MS-DOS come il sistema operativo dominante dell'epoca, basato su comandi testuali, che richiedeva una conoscenza specifica per essere usato."
   },
   {
     "domanda": "Chi ha inventato il World Wide Web (1989)?",
@@ -357,7 +357,7 @@
       "D": "Tim Berners-Lee."
     },
     "risposta_corretta": "D",
-    "spiegazione": "L'invenzione del World Wide Web è attribuita a Tim Berners-Lee, che ha democratizzato l'informazione tramite HTML, URL e HTTP."
+    "spiegazione": "La slide 21 attribuisce l'invenzione del World Wide Web a Tim Berners-Lee, che ha democratizzato l'informazione tramite HTML, URL e HTTP."
   },
   {
     "domanda": "Quale è la principale differenza tra apprendimento supervisionato e non supervisionato nel Machine Learning?",
@@ -368,7 +368,7 @@
       "D": "Quello supervisionato si usa per le reti neurali, quello non supervisionato per gli algoritmi genetici."
     },
     "risposta_corretta": "B",
-    "spiegazione": "L'apprendimento supervisionato impara da dati etichettati per fare previsioni, mentre quello non supervisionato scopre strutture nascoste in dati non etichettati."
+    "spiegazione": "La slide 32 spiega che l'apprendimento supervisionato impara da dati etichettati per fare previsioni, mentre quello non supervisionato scopre strutture nascoste in dati non etichettati."
   },
   {
     "domanda": "Che cos'è ELIZA (1966) nella storia del Natural Language Processing (NLP)?",
@@ -379,7 +379,7 @@
       "D": "Un sistema di riconoscimento vocale."
     },
     "risposta_corretta": "C",
-    "spiegazione": "ELIZA è descritto come il primo chatbot, noto per aver dimostrato il potenziale dell'interazione uomo-macchina simulando una seduta di psicoterapia."
+    "spiegazione": "La slide 34 descrive ELIZA come il primo chatbot, noto per aver dimostrato il potenziale dell'interazione uomo-macchina simulando una seduta di psicoterapia."
   },
   {
     "domanda": "Cosa sono le 'parole-valigia' secondo Marvin Minsky?",
@@ -390,7 +390,7 @@
       "D": "Parole inventate dalla fantascienza."
     },
     "risposta_corretta": "B",
-    "spiegazione": "Marvin Minsky ha coniato il termine 'parole-valigia' per definire parole polisemiche (con molti significati), come 'intelligenza', che aumentano il rischio di confusione."
+    "spiegazione": "La slide 50 spiega che Marvin Minsky ha coniato il termine 'parole-valigia' per definire parole polisemiche (con molti significati), come 'intelligenza', che aumentano il rischio di confusione."
   },
   {
     "domanda": "Secondo le slide, qual è una definizione 'più utile' di IA basata su due capacità chiave?",
@@ -401,7 +401,7 @@
       "D": "Programmazione e Calcolo."
     },
     "risposta_corretta": "C",
-    "spiegazione": "Viene proposta una definizione utile di IA basata su due concetti: Autonomia (svolgere compiti senza assistenza) e Adattività (migliorare imparando dall'esperienza)."
+    "spiegazione": "La slide 46 propone una definizione utile di IA basata su due concetti: Autonomia (svolgere compiti senza assistenza) e Adattività (migliorare imparando dall'esperienza)."
   },
   {
     "domanda": "Quale tecnologia è associata alla creazione di 'deepfake'?",
@@ -412,7 +412,7 @@
       "D": "High Performance Computing (HPC)."
     },
     "risposta_corretta": "A",
-    "spiegazione": "Nella sezione 'Elaborazione di Video e Immagini', viene citata la creazione di 'deepfake' come una delle implicazioni, minando la fiducia nelle immagini."
+    "spiegazione": "La slide 40, nella sezione 'Elaborazione di Video e Immagini', cita la creazione di 'deepfake' come una delle implicazioni, minando la fiducia nelle immagini."
   },
   {
     "domanda": "Che cos'è ARPANET (1969)?",
@@ -423,7 +423,7 @@
       "D": "Il primo linguaggio di programmazione ad alto livello."
     },
     "risposta_corretta": "C",
-    "spiegazione": "ARPANET è descritto come il precursore di Internet, creato per dimostrare la fattibilità della comunicazione tra computer distanti."
+    "spiegazione": "La slide 21 descrive ARPANET come il precursore di Internet, creato per dimostrare la fattibilità della comunicazione tra computer distanti."
   },
   {
     "domanda": "Quale modulo del corso è tenuto dal Dott. Marco Polignano?",
@@ -434,7 +434,7 @@
       "D": "Intelligenza Artificiale per l'eHealth e la Promozione della Salute."
     },
     "risposta_corretta": "D",
-    "spiegazione": "La tabella dei docenti mostra che il Dott. Polignano è responsabile del 'Modulo 1: Intelligenza Artificiale per l'eHealth e la Promozione della Salute'."
+    "spiegazione": "La tabella nella slide 7 mostra che il Dott. Polignano è responsabile del 'Modulo 1: Intelligenza Artificiale per l'eHealth e la Promozione della Salute'."
   },
   {
     "domanda": "Qual è una delle principali ragioni della percezione confusa dell'IA, secondo le slide?",
@@ -445,7 +445,7 @@
       "D": "Il suo costo troppo elevato per l'utente medio."
     },
     "risposta_corretta": "B",
-    "spiegazione": "La slide 'Ragione 2: L'eredità della Fantascienza' spiega come la fantascienza influenzi la percezione dell'IA, spesso presentando storie che sono metafore della condizione umana più che previsioni tecnologiche."
+    "spiegazione": "La slide 43 ('Ragione 2: L'eredità della Fantascienza') spiega come la fantascienza influenzi la percezione dell'IA, spesso presentando storie che sono metafore della condizione umana più che previsioni tecnologiche."
   },
   {
     "domanda": "Cosa dimostra il paradosso per cui 'ciò che sembra semplice è in realtà complicato' per l'IA?",
@@ -456,7 +456,7 @@
       "D": "Che la robotica è un campo di studi senza futuro."
     },
     "risposta_corretta": "B",
-    "spiegazione": "Le slide spiegano il paradosso di Moravec: attività cognitive 'alte' per gli umani (scacchi, calcolo) sono facili per i computer, mentre abilità senso-motorie basilari (afferrare oggetti) sono estremamente complesse da replicare."
+    "spiegazione": "Le slide 44 e 45 spiegano questo paradosso (noto come paradosso di Moravec): attività cognitive 'alte' per gli umani (scacchi, calcolo) sono facili per i computer, mentre abilità senso-motorie basilari (afferrare oggetti) sono estremamente complesse da replicare."
   },
   {
     "domanda": "Qual è il principale beneficio della digitalizzazione delle cartelle cliniche menzionato nelle slide?",
@@ -467,7 +467,7 @@
       "D": "Rendere il lavoro del medico più veloce."
     },
     "risposta_corretta": "C",
-    "spiegazione": "Vengono elencati i vantaggi della digitalizzazione delle cartelle cliniche, tra cui il miglioramento dell'efficienza, la riduzione degli errori e la facilitata condivisione delle informazioni, che apre la strada all'IA."
+    "spiegazione": "La slide 24 elenca i vantaggi della digitalizzazione delle cartelle cliniche, tra cui il miglioramento dell'efficienza, la riduzione degli errori e la facilitata condivisione delle informazioni, che apre la strada all'IA."
   },
   {
     "domanda": "Qual è lo scopo principale del Test di Turing proposto da Alan Turing?",
@@ -679,201 +679,1642 @@
     "spiegazione": "La gerarchia degli elementi di un prompt include Istruzione, Contesto, Dati di Input e Indicatore di Output. La lunghezza è una caratteristica che può essere specificata, ma non è un elemento fondamentale della struttura stessa."
   },
   {
-    "domanda": "Quale dei seguenti è un esempio di IA Debole (o Ristretta)?",
+    "domanda": "Quali sono le tre figure professionali legalmente autorizzate a rilasciare diete in Italia?",
     "opzioni": {
-      "A": "Un robot autocosciente con emozioni.",
-      "B": "Un sistema in grado di risolvere qualsiasi problema intellettuale.",
-      "C": "Siri, Alexa e Google Assistant.",
-      "D": "Un'entità che passa il Test di Turing e comprende veramente ciò che dice."
-    },
-    "risposta_corretta": "C",
-    "spiegazione": "Gli assistenti virtuali come Siri, i sistemi di guida autonoma e i traduttori automatici sono esempi di IA Ristretta/Debole, in quanto eccellono in compiti specifici ma non possiedono un'intelligenza generale."
-  },
-  {
-    "domanda": "Cosa si intende per Robotica?",
-    "opzioni": {
-      "A": "Lo studio teorico degli algoritmi.",
-      "B": "Un campo che integra IA, ingegneria meccanica ed elettronica per creare macchine che operano nel mondo reale.",
-      "C": "Esclusivamente l'automazione dei processi produttivi industriali.",
-      "D": "La creazione di chatbot e assistenti virtuali."
+      "A": "Biologo Nutrizionista, Personal Trainer, Farmacista.",
+      "B": "Medico specializzato in scienza dell'alimentazione, Biologo Nutrizionista, Dietista.",
+      "C": "Dietista, Coach alimentare, Medico di base.",
+      "D": "Biologo Nutrizionista, Erborista, Medico Chirurgo."
     },
     "risposta_corretta": "B",
-    "spiegazione": "La robotica è un campo multidisciplinare che ha lo scopo di creare macchine intelligenti (robot) dotate di sensori e attuatori, in grado di interagire con il mondo fisico."
+    "spiegazione": "Le uniche tre figure professionali che possono elaborare e prescrivere diete sono il Medico specializzato, il Biologo Nutrizionista e il Dietista. Tutti gli altri commettono abuso di professione."
   },
   {
-    "domanda": "Quale tra questi NON è un limite o una precauzione da considerare nell'uso di ChatGPT?",
+    "domanda": "Qual è la principale differenza tra 'perdere peso' e 'dimagrimento'?",
     "opzioni": {
-      "A": "Può fornire informazioni imprecise o non aggiornate.",
-      "B": "Può creare dipendenza e sostituire il pensiero critico.",
-      "C": "Può sollevare problematiche etiche di plagio in ambito accademico.",
-      "D": "Ha capacità di memoria illimitata e ricorda perfettamente ogni conversazione passata."
+      "A": "Sono la stessa cosa, i termini sono intercambiabili.",
+      "B": "Perdere peso si riferisce alla massa grassa, dimagrimento alla massa magra.",
+      "C": "La perdita di peso è una diminuzione numerica sulla bilancia (che può includere liquidi e muscoli), mentre il dimagrimento è la perdita specifica di massa grassa.",
+      "D": "Il dimagrimento è sempre rapido, la perdita di peso è lenta."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La perdita di peso è un calo generico del numero sulla bilancia, mentre il vero dimagrimento implica una riduzione della massa grassa preservando la massa magra, un processo valutabile con tecniche come la bioimpedenziometria (BIA)."
+  },
+  {
+    "domanda": "A cosa serve l'analisi bioimpedenziometrica (BIA)?",
+    "opzioni": {
+      "A": "A misurare la pressione sanguigna.",
+      "B": "A calcolare il dispendio calorico durante l'esercizio.",
+      "C": "A monitorare le variazioni della composizione corporea (massa grassa, massa magra, idratazione).",
+      "D": "A diagnosticare intolleranze alimentari."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La BIA è uno strumento fondamentale per analizzare la composizione corporea, misurando parametri come resistenza e reattanza per stimare i vari compartimenti corporei."
+  },
+  {
+    "domanda": "Cosa indica il BMR (Basal Metabolic Rate)?",
+    "opzioni": {
+      "A": "L'energia consumata durante l'attività fisica intensa.",
+      "B": "L'energia calorica richiesta per sostenere le funzioni vitali a riposo nelle 24 ore.",
+      "C": "Il numero di calorie bruciate per digerire gli alimenti.",
+      "D": "L'indice di massa grassa di una persona."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il Metabolismo Basale (BMR) rappresenta il dispendio energetico minimo necessario per mantenere le funzioni fisiologiche di base come respirazione e circolazione in condizioni di riposo."
+  },
+  {
+    "domanda": "Cosa rappresenta il parametro PhA (Phase Angle) nella BIA?",
+    "opzioni": {
+      "A": "La quantità totale di acqua corporea.",
+      "B": "Un indicatore dell'integrità e della funzione delle membrane cellulari.",
+      "C": "La massa muscolare scheletrica.",
+      "D": "La densità minerale ossea."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'Angolo di Fase (PhA) è un parametro elettrico che riflette lo stato delle membrane cellulari. Valori più alti sono generalmente associati a una migliore salute cellulare."
+  },
+  {
+    "domanda": "Quali sono i tre macronutrienti principali?",
+    "opzioni": {
+      "A": "Vitamine, Sali Minerali, Acqua.",
+      "B": "Carboidrati, Proteine, Fibre.",
+      "C": "Carboidrati, Lipidi, Proteine.",
+      "D": "Zuccheri, Amidi, Grassi."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I macronutrienti, che forniscono energia e materiale strutturale, sono carboidrati, lipidi (grassi) e proteine."
+  },
+  {
+    "domanda": "Qual è la funzione principale delle fibre alimentari?",
+    "opzioni": {
+      "A": "Fornire energia di pronto uso.",
+      "B": "Stimolare il movimento dell'intestino crasso e facilitare il transito intestinale.",
+      "C": "Essere la principale fonte di costruzione muscolare.",
+      "D": "Contenere informazioni biologiche."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le fibre sono carboidrati indigeribili che svolgono un ruolo cruciale nella regolarità intestinale e nella salute del microbiota."
+  },
+  {
+    "domanda": "Cosa sono gli amminoacidi essenziali?",
+    "opzioni": {
+      "A": "Amminoacidi prodotti in abbondanza dal nostro corpo.",
+      "B": "Amminoacidi che devono essere assunti con la dieta perché il corpo non può sintetizzarli.",
+      "C": "Amminoacidi che si trovano solo negli integratori.",
+      "D": "Amminoacidi con funzione esclusivamente energetica."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Dei 20 amminoacidi che formano le proteine, otto sono definiti 'essenziali' in quanto il nostro organismo non è in grado di produrli e devono quindi essere introdotti con l'alimentazione."
+  },
+  {
+    "domanda": "Qual è la differenza principale tra acidi grassi saturi e insaturi?",
+    "opzioni": {
+      "A": "I saturi sono liquidi a temperatura ambiente, gli insaturi sono solidi.",
+      "B": "I saturi non hanno doppi legami tra gli atomi di carbonio, gli insaturi ne hanno almeno uno.",
+      "C": "I saturi sono di origine vegetale, gli insaturi di origine animale.",
+      "D": "I saturi sono più salutari degli insaturi."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La struttura chimica li differenzia: gli acidi grassi saturi hanno solo legami singoli nella loro catena di carbonio, mentre gli insaturi presentano uno o più doppi legami."
+  },
+  {
+    "domanda": "Le vitamine liposolubili includono:",
+    "opzioni": {
+      "A": "Vitamina C e Vitamine del gruppo B.",
+      "B": "Vitamine A, D, E, K.",
+      "C": "Calcio, Ferro e Magnesio.",
+      "D": "Vitamina H e Vitamina C."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le vitamine si dividono in idrosolubili (C, gruppo B) e liposolubili, che sono le vitamine A, D, E e K."
+  },
+  {
+    "domanda": "Quale disordine alimentare è caratterizzato da un'irrazionale paura di ingrassare e dal rifiuto di mangiare?",
+    "opzioni": {
+      "A": "Obesità.",
+      "B": "Diabete di tipo 2.",
+      "C": "Bulimia nervosa.",
+      "D": "Anoressia nervosa."
     },
     "risposta_corretta": "D",
-    "spiegazione": "Le slide evidenziano come limiti le imprecisioni, il rischio di dipendenza e le questioni etiche. La memoria di ChatGPT non è illimitata e ha un 'cut-off' di conoscenza (non è aggiornato in tempo reale)."
+    "spiegazione": "L'anoressia nervosa è definita da una severa restrizione alimentare guidata da una percezione distorta del proprio corpo e da una paura intensa di aumentare di peso."
   },
   {
-    "domanda": "Cos'è la tecnica RAG (Retrieval Augmented Generation)?",
+    "domanda": "Cosa si intende per catabolismo?",
     "opzioni": {
-      "A": "Un modo per far 'pensare passo dopo passo' il modello.",
-      "B": "Un metodo che integra un sistema di recupero dati (es. ricerca in documenti) con un LLM per generare risposte basate su fonti verificabili.",
-      "C": "Un tipo di prompting che non usa esempi.",
-      "D": "La capacità di un LLM di chiamare funzioni esterne."
+      "A": "La sintesi di molecole complesse a partire da molecole semplici (sintesi).",
+      "B": "La degradazione di molecole complesse in molecole più semplici per produrre energia.",
+      "C": "L'assorbimento dei nutrienti nell'intestino.",
+      "D": "L'insieme delle reazioni che non producono ATP."
     },
     "risposta_corretta": "B",
-    "spiegazione": "RAG migliora l'affidabilità degli LLM 'aumentando' il prompt con informazioni pertinenti recuperate da una base di conoscenza esterna, riducendo le 'allucinazioni' e permettendo di citare le fonti."
+    "spiegazione": "Il metabolismo si divide in due processi opposti: il catabolismo, che è la fase di degradazione per liberare energia (es. glicolisi), e l'anabolismo, che è la fase di sintesi."
   },
   {
-    "domanda": "Qual è il ruolo della probabilità nella gestione dell'incertezza nel mondo reale, secondo le slide?",
+    "domanda": "Secondo i dati SWG presentati, qual è il risultato più comune per chi segue una dieta?",
     "opzioni": {
-      "A": "Eliminare completamente ogni tipo di rischio.",
-      "B": "Sostituire l'intuizione umana con calcoli puramente matematici.",
-      "C": "Quantificare l'incertezza per permettere decisioni più razionali e informate.",
-      "D": "Rendere le discussioni più soggettive e irrazionali."
+      "A": "Raggiungono sempre gli obiettivi prefissati (35%).",
+      "B": "Non riescono mai a raggiungere gli obiettivi (9%).",
+      "C": "Riescono a raggiungere gli obiettivi solo a volte (56%).",
+      "D": "Abbandonano la dieta dopo pochi giorni."
     },
     "risposta_corretta": "C",
-    "spiegazione": "La probabilità non elimina l'incertezza, ma fornisce un modo sistematico per misurarla e gestirla, trasformandola da fonte di ansia a base per decisioni consapevoli in vari campi."
+    "spiegazione": "L'infografica mostra che la maggioranza (56%) delle persone a dieta raggiunge i propri obiettivi solo 'A VOLTE', indicando che ottenere risultati costanti è difficile."
   },
   {
-    "domanda": "Quale strumento viene descritto come un 'assistente di ricerca AI personalizzato' che permette di caricare le proprie fonti (PDF, video, etc.) e interrogarle?",
+    "domanda": "Qual è la definizione di salute secondo l'OMS (Organizzazione Mondiale della Sanità)?",
     "opzioni": {
-      "A": "Midjourney",
-      "B": "Canva",
-      "C": "NotebookLM",
-      "D": "Grammarly"
+      "A": "La totale assenza di malattie o infermità.",
+      "B": "Una condizione di completo benessere fisico, mentale e sociale.",
+      "C": "La capacità di svolgere attività fisica quotidiana.",
+      "D": "Avere un indice di massa corporea nella norma."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'OMS definisce la salute non solo come assenza di malattia, ma come uno stato di completo benessere che include la sfera fisica, mentale e sociale."
+  },
+  {
+    "domanda": "Cosa sono la Nutrigenomica e l'Epigenomica?",
+    "opzioni": {
+      "A": "Due tipi di diete ipocaloriche.",
+      "B": "Scienze che studiano la correlazione tra dieta, regolazione genica e metabolismo.",
+      "C": "Tecniche per la misurazione della composizione corporea.",
+      "D": "Discipline che si occupano esclusivamente di integratori alimentari."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'Epigenomica studia come l'ambiente (inclusa la dieta) influenzi la regolazione dei geni, mentre la Nutrigenomica si focalizza specificamente sulla correlazione tra dieta ed espressione genica."
+  },
+  {
+    "domanda": "Quale delle seguenti è una caratteristica delle patologie del sistema nervoso centrale come l'Alzheimer?",
+    "opzioni": {
+      "A": "Una fase pre-clinica molto breve e sintomi immediati.",
+      "B": "Un esordio acuto e facilmente riconoscibile.",
+      "C": "Un esordio subdolo e una lunga fase pre-clinica, spesso asintomatica.",
+      "D": "Disponibilità di terapie che curano la malattia alla radice."
     },
     "risposta_corretta": "C",
-    "spiegazione": "NotebookLM (ora basato su Gemini) è presentato come uno strumento che agisce come un esperto sui documenti forniti dall'utente, permettendo di fare domande, ottenere sommari e scoprire connessioni, citando sempre le fonti."
+    "spiegazione": "Le malattie neurodegenerative sono caratterizzate da un esordio insidioso e una lunga fase pre-clinica. I sintomi si manifestano solo quando il danno neuronale è già esteso (70-80%)."
   },
   {
-    "domanda": "Qual è la differenza tra un Language Model (LM) e un Large Language Model (LLM)?",
+    "domanda": "Qual è il principale substrato energetico per il cervello in condizioni normali?",
+    "opzioni": {
+      "A": "Lipidi.",
+      "B": "Proteine.",
+      "C": "Glucosio.",
+      "D": "Corpi chetonici."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il glucosio è il principale 'carburante' del cervello in condizioni fisiologiche, con un consumo giornaliero di circa 100-120 grammi. I corpi chetonici vengono usati in condizioni particolari come il digiuno prolungato."
+  },
+  {
+    "domanda": "L'asse 'microbiota-gut-brain' si riferisce alla comunicazione bidirezionale tra:",
+    "opzioni": {
+      "A": "Stomaco e cuore.",
+      "B": "Microbiota intestinale e Sistema Nervoso Centrale.",
+      "C": "Fegato e reni.",
+      "D": "Pelle e polmoni."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Questo asse descrive la complessa rete di comunicazione che collega l'intestino e i suoi microbi al cervello, influenzandosi reciprocamente tramite vie neurali, endocrine e immunitarie."
+  },
+  {
+    "domanda": "Cosa producono i microbiota intestinali dalla fermentazione dei carboidrati non digeriti?",
+    "opzioni": {
+      "A": "Glucosio.",
+      "B": "Amminoacidi essenziali.",
+      "C": "Acidi grassi a catena corta (SCFA).",
+      "D": "Colesterolo."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I batteri intestinali fermentano le fibre producendo acidi grassi a catena corta (come butirrico, propionico e acetico), che sono essenziali per la salute degli enterociti e hanno effetti neuroattivi."
+  },
+  {
+    "domanda": "Quale ruolo svolge la serotonina (5-HT) nel cervello e nell'intestino (SNE)?",
+    "opzioni": {
+      "A": "Solo regolazione della motilità intestinale.",
+      "B": "Solo regolazione dell'umore.",
+      "C": "Regola motilità intestinale, percezione del dolore, umore e capacità cognitive.",
+      "D": "È un ormone prodotto esclusivamente dalla tiroide."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La serotonina è un neurotrasmettitore cruciale sia a livello periferico (intestino) dove regola motilità e secrezioni, sia a livello centrale (cervello) dove modula umore e cognizione."
+  },
+  {
+    "domanda": "L'iperomocisteinemia è un fattore di rischio indipendente per:",
+    "opzioni": {
+      "A": "Solo malattie renali.",
+      "B": "Malattie cardiovascolari e cerebrovascolari, inclusa la demenza di Alzheimer.",
+      "C": "Solo disturbi del sonno.",
+      "D": "Infezioni virali."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Alti livelli di omocisteina nel sangue sono stati inseriti dall'OMS tra i fattori di rischio per malattie cardio- e cerebrovascolari, come ictus, coronaropatia e demenza."
+  },
+  {
+    "domanda": "Quali vitamine sono cruciali per mantenere bassi i livelli di omocisteina?",
+    "opzioni": {
+      "A": "Vitamina C e D.",
+      "B": "Vitamina A e K.",
+      "C": "Vitamine del gruppo B (in particolare B12, folati B9, B6).",
+      "D": "Vitamina E."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Un deficit di vitamine B12, folati (B9) e B6 può portare a un aumento dell'omocisteina. La loro supplementazione si è dimostrata efficace nel ridurre i livelli di omocisteina e migliorare la funzione cognitiva."
+  },
+  {
+    "domanda": "Quale modello alimentare è considerato di scelta per la malattia di Parkinson?",
+    "opzioni": {
+      "A": "Dieta chetogenica.",
+      "B": "Dieta iperproteica.",
+      "C": "Dieta mediterranea.",
+      "D": "Dieta a basso contenuto di fibre."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Le linee guida suggeriscono che la dieta mediterranea, ricca di verdure, frutta, pesce e grassi buoni, sembra essere il modello alimentare più benefico per i pazienti con Parkinson."
+  },
+  {
+    "domanda": "Qual è una controindicazione assoluta per la somministrazione di una dieta chetogenica?",
+    "opzioni": {
+      "A": "Scarsa compliance del paziente.",
+      "B": "Intolleranza ai grassi alimentari.",
+      "C": "Insufficienza renale o epatica grave.",
+      "D": "Obesità lieve."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Condizioni come insufficienza renale, insufficienza epatica grave, diabete di tipo 1 (DMT1) e gravidanza sono considerate controindicazioni assolute a un protocollo di dieta chetogenica."
+  },
+  {
+    "domanda": "Qual è il principale limite dell'Indice di Massa Corporea (BMI)?",
+    "opzioni": {
+      "A": "È troppo difficile da calcolare.",
+      "B": "Non discrimina tra massa grassa e massa muscolare.",
+      "C": "È valido solo per gli uomini.",
+      "D": "Si basa su dati obsoleti."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il BMI è un indice utile a livello di popolazione ma poco accurato sul singolo individuo, specialmente sugli sportivi, perché non distingue il peso proveniente dai muscoli da quello del grasso."
+  },
+  {
+    "domanda": "Qual è la differenza fondamentale tra 'nutrirsi' e 'alimentarsi' secondo le slide?",
     "opzioni": {
       "A": "Non c'è nessuna differenza, sono sinonimi.",
-      "B": "Un LLM è un modello linguistico di tipo avanzato, addestrato con tecniche di Deep Learning su enormi quantità di dati.",
-      "C": "Un LM può solo analizzare il testo, mentre un LLM può anche generarlo.",
-      "D": "Un LLM è specifico per la traduzione, un LM è per compiti generali."
+      "B": "Nutrirsi risponde a esigenze fisiologiche, alimentarsi a esigenze psicologiche.",
+      "C": "Nutrirsi riguarda le proteine, alimentarsi riguarda i carboidrati.",
+      "D": "Nutrirsi è un atto volontario, alimentarsi è involontario."
     },
     "risposta_corretta": "B",
-    "spiegazione": "Un LLM si distingue per essere addestrato con tecniche di Deep Learning (come l'architettura Transformer) e su una scala di dati vastissima, che gli conferisce capacità molto più avanzate rispetto ai modelli linguistici tradizionali."
+    "spiegazione": "Le slide distinguono i due termini: 'nutrirsi' è legato al bisogno fisiologico del corpo, mentre 'alimentarsi' è legato a bisogni e motivazioni psicologiche, come il piacere o la socialità."
   },
   {
-    "domanda": "Che cos'è l'Ingegneria dei Prompt (Prompt Engineering)?",
+    "domanda": "Quale tra i seguenti NON è uno dei 10 motivi elencati per cui mangiamo anche se siamo sazi?",
     "opzioni": {
-      "A": "Un nuovo linguaggio di programmazione per l'IA.",
-      "B": "Il processo di progettazione e ottimizzazione di prompt per interagire efficacemente con i modelli linguistici.",
-      "C": "La costruzione dell'hardware su cui girano gli LLM.",
-      "D": "La vendita di prompt pre-fatti online."
-    },
-    "risposta_corretta": "B",
-    "spiegazione": "L'ingegneria dei prompt è la competenza di strutturare il testo di input (il prompt) in modo da guidare un modello generativo a produrre l'output desiderato in modo efficiente e accurato."
-  },
-  {
-    "domanda": "Quale dei seguenti NON è un elemento fondamentale di un prompt ben strutturato, secondo la gerarchia presentata?",
-    "opzioni": {
-      "A": "Istruzione (il comando principale).",
-      "B": "Contesto (background, esempi).",
-      "C": "Dati di Input (il contenuto da elaborare).",
-      "D": "Lunghezza del testo (il numero di parole)."
-    },
-    "risposta_corretta": "D",
-    "spiegazione": "La gerarchia degli elementi di un prompt include Istruzione, Contesto, Dati di Input e Indicatore di Output. La lunghezza è una caratteristica che può essere specificata, ma non è un elemento fondamentale della struttura stessa."
-  },
-  {
-    "domanda": "Quale dei seguenti è un esempio di IA Debole (o Ristretta)?",
-    "opzioni": {
-      "A": "Un robot autocosciente con emozioni.",
-      "B": "Un sistema in grado di risolvere qualsiasi problema intellettuale.",
-      "C": "Siri, Alexa e Google Assistant.",
-      "D": "Un'entità che passa il Test di Turing e comprende veramente ciò che dice."
+      "A": "Noia o abitudine.",
+      "B": "Socializzazione o consolazione.",
+      "C": "Bisogno fisiologico di energia.",
+      "D": "Gola o curiosità."
     },
     "risposta_corretta": "C",
-    "spiegazione": "Gli assistenti virtuali come Siri, i sistemi di guida autonoma e i traduttori automatici sono esempi di IA Ristretta/Debole, in quanto eccellono in compiti specifici ma non possiedono un'intelligenza generale."
+    "spiegazione": "La lista elenca motivazioni psicologiche ed emotive (consolazione, noia, gola, ecc.) che ci spingono a mangiare oltre il fabbisogno fisiologico di energia, che è la definizione di fame."
   },
   {
-    "domanda": "Cosa si intende per Robotica?",
+    "domanda": "Cosa si intende per 'fame edonica'?",
     "opzioni": {
-      "A": "Lo studio teorico degli algoritmi.",
-      "B": "Un campo che integra IA, ingegneria meccanica ed elettronica per creare macchine che operano nel mondo reale.",
-      "C": "Esclusivamente l'automazione dei processi produttivi industriali.",
-      "D": "La creazione di chatbot e assistenti virtuali."
-    },
-    "risposta_corretta": "B",
-    "spiegazione": "La robotica è un campo multidisciplinare che ha lo scopo di creare macchine intelligenti (robot) dotate di sensori e attuatori, in grado di interagire con il mondo fisico."
-  },
-  {
-    "domanda": "Quale tra questi NON è un limite o una precauzione da considerare nell'uso di ChatGPT?",
-    "opzioni": {
-      "A": "Può fornire informazioni imprecise o non aggiornate.",
-      "B": "Può creare dipendenza e sostituire il pensiero critico.",
-      "C": "Può sollevare problematiche etiche di plagio in ambito accademico.",
-      "D": "Ha capacità di memoria illimitata e ricorda perfettamente ogni conversazione passata."
-    },
-    "risposta_corretta": "D",
-    "spiegazione": "Le slide evidenziano come limiti le imprecisioni, il rischio di dipendenza e le questioni etiche. La memoria di ChatGPT non è illimitata e ha un 'cut-off' di conoscenza (non è aggiornato in tempo reale)."
-  },
-  {
-    "domanda": "Cos'è la tecnica RAG (Retrieval Augmented Generation)?",
-    "opzioni": {
-      "A": "Un modo per far 'pensare passo dopo passo' il modello.",
-      "B": "Un metodo che integra un sistema di recupero dati (es. ricerca in documenti) con un LLM per generare risposte basate su fonti verificabili.",
-      "C": "Un tipo di prompting che non usa esempi.",
-      "D": "La capacità di un LLM di chiamare funzioni esterne."
-    },
-    "risposta_corretta": "B",
-    "spiegazione": "RAG migliora l'affidabilità degli LLM 'aumentando' il prompt con informazioni pertinenti recuperate da una base di conoscenza esterna, riducendo le 'allucinazioni' e permettendo di citare le fonti."
-  },
-  {
-    "domanda": "Qual è il ruolo della probabilità nella gestione dell'incertezza nel mondo reale, secondo le slide?",
-    "opzioni": {
-      "A": "Eliminare completamente ogni tipo di rischio.",
-      "B": "Sostituire l'intuizione umana con calcoli puramente matematici.",
-      "C": "Quantificare l'incertezza per permettere decisioni più razionali e informate.",
-      "D": "Rendere le discussioni più soggettive e irrazionali."
+      "A": "Il bisogno di mangiare per sopravvivere.",
+      "B": "La fame che si prova dopo un intenso allenamento fisico.",
+      "C": "Il desiderio di mangiare per il piacere che il cibo procura, non per un bisogno energetico.",
+      "D": "Una patologia legata alla leptino-resistenza."
     },
     "risposta_corretta": "C",
-    "spiegazione": "La probabilità non elimina l'incertezza, ma fornisce un modo sistematico per misurarla e gestirla, trasformandola da fonte di ansia a base per decisioni consapevoli in vari campi."
+    "spiegazione": "La fame edonica è legata all'esperienza del piacere (edonismo) e ai meccanismi di ricompensa cerebrale, spingendoci a cercare cibi appetitosi anche quando non abbiamo una fame fisiologica."
   },
   {
-    "domanda": "Quale strumento viene descritto come un 'assistente di ricerca AI personalizzato' che permette di caricare le proprie fonti (PDF, video, etc.) e interrogarle?",
+    "domanda": "Quale ruolo svolge l'alimentazione della madre durante la gestazione?",
     "opzioni": {
-      "A": "Midjourney",
-      "B": "Canva",
-      "C": "NotebookLM",
-      "D": "Grammarly"
+      "A": "Non ha alcun impatto sul bambino.",
+      "B": "Influenza solo il peso alla nascita del bambino.",
+      "C": "Influenza il gusto e le future preferenze/avversioni alimentari del bambino.",
+      "D": "Determina il colore degli occhi del bambino."
     },
     "risposta_corretta": "C",
-    "spiegazione": "NotebookLM (ora basato su Gemini) è presentato come uno strumento che agisce come un esperto sui documenti forniti dall'utente, permettendo di fare domande, ottenere sommari e scoprire connessioni, citando sempre le fonti."
+    "spiegazione": "Il gusto del bambino inizia a formarsi già in utero. Le scelte alimentari della madre possono influenzare la percezione dei sapori del feto, condizionando le sue future abitudini alimentari."
   },
   {
-    "domanda": "Qual è la differenza tra un Language Model (LM) e un Large Language Model (LLM)?",
+    "domanda": "Cosa sono le euristiche in relazione al cibo?",
     "opzioni": {
-      "A": "Non c'è nessuna differenza, sono sinonimi.",
-      "B": "Un LLM è un modello linguistico di tipo avanzato, addestrato con tecniche di Deep Learning su enormi quantità di dati.",
-      "C": "Un LM può solo analizzare il testo, mentre un LLM può anche generarlo.",
-      "D": "Un LLM è specifico per la traduzione, un LM è per compiti generali."
+      "A": "Un tipo di dieta bilanciata.",
+      "B": "Scorciatoie mentali che usiamo per prendere decisioni rapide sul cibo, come 'cibo senza grassi = più sano'.",
+      "C": "Le etichette nutrizionali obbligatorie per legge.",
+      "D": "Distorsioni cognitive che portano sempre a scelte sbagliate."
     },
     "risposta_corretta": "B",
-    "spiegazione": "Un LLM si distingue per essere addestrato con tecniche di Deep Learning (come l'architettura Transformer) e su una scala di dati vastissima, che gli conferisce capacità molto più avanzate rispetto ai modelli linguistici tradizionali."
+    "spiegazione": "Le euristiche sono procedure mentali intuitive e sbrigative che ci aiutano a decidere in fretta. In campo alimentare, un esempio è associare automaticamente 'senza grassi' con 'salutare', il che non è sempre corretto."
   },
   {
-    "domanda": "Che cos'è l'Ingegneria dei Prompt (Prompt Engineering)?",
+    "domanda": "Qual è il principale nucleo ipotalamico coinvolto nel circuito fame-sazietà?",
     "opzioni": {
-      "A": "Un nuovo linguaggio di programmazione per l'IA.",
-      "B": "Il processo di progettazione e ottimizzazione di prompt per interagire efficacemente con i modelli linguistici.",
-      "C": "La costruzione dell'hardware su cui girano gli LLM.",
-      "D": "La vendita di prompt pre-fatti online."
+      "A": "Il nucleo paraventricolare (PVN).",
+      "B": "Il nucleo arcuato (ARC).",
+      "C": "Il nucleo ventromediale (VMN).",
+      "D": "L'ipotalamo laterale (LH)."
     },
     "risposta_corretta": "B",
-    "spiegazione": "L'ingegneria dei prompt è la competenza di strutturare il testo di input (il prompt) in modo da guidare un modello generativo a produrre l'output desiderato in modo efficiente e accurato."
+    "spiegazione": "Il nucleo arcuato (ARC) è considerato il centro di integrazione primario per i segnali relativi alla fame e alla sazietà, contenendo sia neuroni oressigeni (che stimolano la fame) che anoressigeni (che la inibiscono)."
   },
   {
-    "domanda": "Quale dei seguenti NON è un elemento fondamentale di un prompt ben strutturato, secondo la gerarchia presentata?",
+    "domanda": "Quali sono i due principali neuropeptidi ORESSIGENI (che stimolano l'assunzione di cibo) prodotti nel nucleo arcuato?",
     "opzioni": {
-      "A": "Istruzione (il comando principale).",
-      "B": "Contesto (background, esempi).",
-      "C": "Dati di Input (il contenuto da elaborare).",
-      "D": "Lunghezza del testo (il numero di parole)."
+      "A": "POMC e CART.",
+      "B": "Leptina e Grelina.",
+      "C": "Neuropeptide Y (NPY) e Peptide correlato alla proteina agouti (AgRP).",
+      "D": "Insulina e Cortisolo."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I neuroni del nucleo arcuato che stimolano la fame sono quelli che producono NPY e AgRP. Al contrario, i neuroni che producono POMC e CART hanno un'azione anoressigena (inibiscono la fame)."
+  },
+  {
+    "domanda": "Quale ormone periferico ha una funzione anoressizzante (segnala sazietà) e quale oressizzante (segnala fame)?",
+    "opzioni": {
+      "A": "Anoressizzante: Insulina; Oressizzante: Cortisolo.",
+      "B": "Anoressizzante: Leptina; Oressizzante: Grelina.",
+      "C": "Anoressizzante: Grelina; Oressizzante: Leptina.",
+      "D": "Entrambi sono oressizzanti."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La leptina, prodotta dal tessuto adiposo, è il principale ormone della sazietà a lungo termine. La grelina, prodotta dallo stomaco, è il principale ormone che stimola la fame."
+  },
+  {
+    "domanda": "Cosa si intende per 'sazietà sensoriale specifica'?",
+    "opzioni": {
+      "A": "La sensazione di pienezza dopo aver mangiato molto.",
+      "B": "La preferenza per i cibi salati rispetto a quelli dolci.",
+      "C": "Il fenomeno per cui, pur essendo sazi di un certo cibo, l'appetito si rinnova per un cibo diverso (es. il dolce a fine pasto).",
+      "D": "La capacità di percepire i cinque gusti fondamentali."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Questo meccanismo spiega perché 'c'è sempre posto per il dolce': la sazietà è specifica per le caratteristiche sensoriali di un cibo, e un sapore nuovo può riattivare il desiderio di mangiare."
+  },
+  {
+    "domanda": "Secondo uno studio citato, cosa aumenta il rischio di sviluppare il morbo di Crohn?",
+    "opzioni": {
+      "A": "Una dieta vegetariana.",
+      "B": "Il consumo di alimenti con additivi, dolciumi e cereali raffinati.",
+      "C": "Il consumo di cereali integrali.",
+      "D": "L'eccessivo consumo di frutta."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Lo studio epidemiologico menzionato associa il consumo di cibi processati (additivi, dolciumi, cereali raffinati) a un aumentato rischio di morbo di Crohn, mentre una dieta ricca di cereali non raffinati risulta protettiva."
+  },
+  {
+    "domanda": "Perché si consiglia di abbinare ceci e succo di limone?",
+    "opzioni": {
+      "A": "Per migliorare il sapore.",
+      "B": "Per favorire l'assorbimento del ferro contenuto nei ceci grazie alla vitamina C del limone.",
+      "C": "Per ridurre le calorie del piatto.",
+      "D": "Per aumentare il contenuto di colesterolo."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La vitamina C è un potente potenziatore dell'assorbimento del ferro non-eme, quello presente nei vegetali come i legumi. L'abbinamento è quindi nutrizionalmente strategico."
+  },
+  {
+    "domanda": "Durante la gravidanza, qual è l'incremento di peso raccomandato per una donna che parte da una condizione di normopeso (BMI 18.5-24.9)?",
+    "opzioni": {
+      "A": "5 - 9 kg.",
+      "B": "9 - 11 kg.",
+      "C": "11.5 - 16 kg.",
+      "D": "12.5 - 18 kg."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Le raccomandazioni IOM 2009 indicano un range di aumento ponderale tra 11.5 e 16 kg per le donne che iniziano la gravidanza in una condizione di normopeso."
+  },
+  {
+    "domanda": "Quale cambiamento metabolico fondamentale avviene nella seconda metà della gravidanza?",
+    "opzioni": {
+      "A": "Un aumento della sensibilità all'insulina.",
+      "B": "Una riduzione della sensibilità periferica all'insulina (insulino-resistenza).",
+      "C": "Una diminuzione della produzione di glucosio.",
+      "D": "L'assenza di cambiamenti metabolici."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Dopo la 20ª settimana, la gravidanza diventa fisiologicamente 'diabetogena'. Si sviluppa una resistenza all'insulina per garantire un costante flusso di glucosio al feto, a cui il pancreas materno risponde aumentando la produzione di insulina."
+  },
+  {
+    "domanda": "Quale supplementazione è fortemente raccomandata prima e durante i primi tre mesi di gestazione per prevenire i difetti del tubo neurale?",
+    "opzioni": {
+      "A": "Vitamina D.",
+      "B": "Calcio.",
+      "C": "Ferro.",
+      "D": "Acido folico."
     },
     "risposta_corretta": "D",
-    "spiegazione": "La gerarchia degli elementi di un prompt include Istruzione, Contesto, Dati di Input e Indicatore di Output. La lunghezza è una caratteristica che può essere specificata, ma non è un elemento fondamentale della struttura stessa."
+    "spiegazione": "La supplementazione di acido folico (400 µg/die) è raccomandata a tutte le donne che pianificano una gravidanza e nel primo trimestre per ridurre significativamente il rischio di malformazioni come la spina bifida."
+  },
+  {
+    "domanda": "Cos'è il disturbo ARFID (Disturbo Evitante/Restrittivo dell'Assunzione di Cibo)?",
+    "opzioni": {
+      "A": "Un altro nome per l'anoressia nervosa.",
+      "B": "Una condizione caratterizzata da mancanza di interesse per il cibo o evitamento dovuto a caratteristiche sensoriali.",
+      "C": "Un'allergia alle proteine del latte vaccino.",
+      "D": "La tendenza dei bambini a essere 'schizzinosi' per un breve periodo."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'ARFID si distingue dall'anoressia perché non è legato alla paura di ingrassare, ma a una mancanza di interesse o a un'avversione sensoriale verso il cibo, che può ostacolare lo sviluppo del bambino."
+  },
+  {
+    "domanda": "Quale valore di glicemia a digiuno (FPG) è un criterio per la diagnosi di diabete?",
+    "opzioni": {
+      "A": ">= 100 mg/dl",
+      "B": ">= 200 mg/dl",
+      "C": ">= 126 mg/dl",
+      "D": "< 100 mg/dl"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Secondo i criteri diagnostici dell'American Diabetes Association, una glicemia a digiuno (cioè dopo almeno 8 ore di apporto calorico nullo) uguale o superiore a 126 mg/dl è diagnostica per il diabete."
+  },
+  {
+    "domanda": "In quale dei seguenti casi NON è indicato l'utilizzo dell'emoglobina glicata (HbA1c) per la diagnosi di diabete?",
+    "opzioni": {
+      "A": "In un adulto sano di 50 anni.",
+      "B": "In presenza di anemia o durante la gravidanza.",
+      "C": "Per monitorare la glicemia media degli ultimi 3 mesi.",
+      "D": "In un soggetto con prediabete."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'HbA1c non è affidabile in condizioni che alterano il ciclo di vita dei globuli rossi, come l'anemia o le variazioni emoglobiniche tipiche della gravidanza. In questi casi, si preferiscono altri test come l'OGTT."
+  },
+  {
+    "domanda": "Quale ormone, prodotto dalle cellule β del pancreas, favorisce l'ingresso del glucosio nelle cellule e abbassa la glicemia?",
+    "opzioni": {
+      "A": "Glucagone",
+      "B": "Cortisolo",
+      "C": "Adrenalina",
+      "D": "Insulina"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "L'insulina è il principale ormone ipoglicemizzante. Agisce come una chiave che permette al glucosio di entrare nelle cellule (specialmente muscolari e adipose) dal flusso sanguigno."
+  },
+  {
+    "domanda": "L'insulino-resistenza è una condizione in cui:",
+    "opzioni": {
+      "A": "Il pancreas non produce più insulina.",
+      "B": "Le cellule del corpo non rispondono efficacemente all'insulina.",
+      "C": "C'è un eccesso di recettori per l'insulina.",
+      "D": "La glicemia è sempre troppo bassa."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Nell'insulino-resistenza, nonostante il pancreas produca insulina (spesso anche in eccesso, iperinsulinemia), le cellule bersaglio (muscolo, fegato, adipe) sono meno sensibili alla sua azione, causando un aumento della glicemia."
+  },
+  {
+    "domanda": "Quale dei seguenti indici è utilizzato per stimare l'insulino-resistenza basandosi su glicemia e insulinemia a digiuno?",
+    "opzioni": {
+      "A": "BMI (Body Mass Index)",
+      "B": "HbA1c (Emoglobina Glicata)",
+      "C": "HOMA-IR (Homeostasis Model Assessment - Insulin Resistance)",
+      "D": "OGTT (Oral Glucose Tolerance Test)"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "L'indice HOMA-IR è un modello matematico ampiamente utilizzato nella pratica clinica e nella ricerca per fornire una stima numerica della sensibilità insulinica e dell'insulino-resistenza."
+  },
+  {
+    "domanda": "Nella sindrome del colon irritabile (IBS), cosa succede se l'alterazione dell'asse 'Brain-Gut' porta a un transito accelerato?",
+    "opzioni": {
+      "A": "Stipsi",
+      "B": "Diarrea",
+      "C": "Aumento dell'appetito",
+      "D": "Reflusso gastro-esofageo"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'alterazione della comunicazione tra cervello e intestino può modificare la motilità del colon. Un transito accelerato porta a diarrea, mentre un transito rallentato causa stipsi, due dei sintomi principali dell'IBS."
+  },
+  {
+    "domanda": "Cosa significa l'acronimo FODMAP in una dieta a basso contenuto di FODMAP?",
+    "opzioni": {
+      "A": "Grassi, Oli, Dolci, Monosaccaridi, Alcol, Proteine.",
+      "B": "Un elenco di cibi da evitare per chi è celiaco.",
+      "C": "Fermentabili Oligo-, Di-, Mono-saccaridi E Polioli.",
+      "D": "Fibre, Omega-3, Dolcificanti, Minerali, Antiossidanti, Peptidi."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "FODMAP è un acronimo che raggruppa una serie di carboidrati a catena corta che, in soggetti sensibili, vengono scarsamente assorbiti e fermentano nel colon, causando sintomi come gonfiore, gas e dolore."
+  },
+  {
+    "domanda": "Qual è il meccanismo principale dell'Helicobacter pylori per sopravvivere nell'ambiente acido dello stomaco?",
+    "opzioni": {
+      "A": "Si nasconde all'interno delle cellule della mucosa.",
+      "B": "Produce l'enzima ureasi, che scinde l'urea in ammoniaca (NH3), neutralizzando l'acidità circostante.",
+      "C": "Produce enzimi che digeriscono l'acido cloridrico.",
+      "D": "Ha una parete cellulare resistente all'acido."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La produzione di ureasi è la strategia chiave di sopravvivenza dell'H. pylori. L'ammoniaca prodotta crea un microambiente basico che protegge il batterio dall'acido gastrico."
+  },
+  {
+    "domanda": "Qual è la differenza principale tra Morbo di Crohn e Rettocolite Ulcerosa (RCU)?",
+    "opzioni": {
+      "A": "Il Crohn è infettivo, la RCU è autoimmune.",
+      "B": "Il Crohn colpisce solo il colon, la RCU tutto il tratto digerente.",
+      "C": "Nella RCU il retto è sempre coinvolto e l'infiammazione è superficiale (mucosa); nel Crohn l'infiammazione è a tutto spessore e può colpire qualsiasi tratto in modo discontinuo ('skip lesions').",
+      "D": "La RCU è sempre associata alla celiachia, il Crohn no."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Le caratteristiche distintive sono la localizzazione e la profondità dell'infiammazione: la RCU è continua, parte dal retto e si limita alla mucosa; il Crohn è discontinuo, transmurale (a tutto spessore) e può colpire dalla bocca all'ano."
+  },
+  {
+    "domanda": "Quale tipo di malnutrizione è definita 'Kwashiorkor'?",
+    "opzioni": {
+      "A": "Una conseguenza di un'inedia cronica e prolungata con perdita totale del pannicolo adiposo.",
+      "B": "Una conseguenza di una carenza alimentare (sub)acuta, spesso con introito calorico adeguato ma grave deficit proteico.",
+      "C": "Una malnutrizione da eccesso di vitamine.",
+      "D": "Una forma di malnutrizione che colpisce solo gli anziani."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il Kwashiorkor è la classica malnutrizione proteica, in cui l'apporto calorico può essere sufficiente ma quello proteico è gravemente insufficiente, portando a sintomi come edema e steatosi epatica."
+  },
+  {
+    "domanda": "Secondo la teoria di Hans Selye, qual è la sequenza delle tre fasi della 'sindrome di adattamento generale' allo stress?",
+    "opzioni": {
+      "A": "Resistenza, Allarme, Esaurimento.",
+      "B": "Allarme, Resistenza, Esaurimento.",
+      "C": "Allarme, Esaurimento, Resistenza.",
+      "D": "Distress, Eustress, Allarme."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La risposta allo stress secondo Selye si articola in tre fasi: una fase iniziale di 'allarme' (reazione acuta), una fase di 'resistenza' (adattamento allo stress cronico) e, se lo stress persiste, una fase di 'esaurimento' (crollo delle risorse)."
+  },
+  {
+    "domanda": "Quale ormone predomina nella fase di 'resistenza' allo stress cronico?",
+    "opzioni": {
+      "A": "Adrenalina",
+      "B": "Insulina",
+      "C": "Cortisolo",
+      "D": "Tiroxina"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Mentre nella fase di allarme acuto l'adrenalina è l'ormone principale, nella fase di resistenza a uno stress prolungato è il cortisolo a predominare, con i suoi effetti metabolici a lungo termine."
+  },
+  {
+    "domanda": "Cosa si intende per 'amido resistente'?",
+    "opzioni": {
+      "A": "Un tipo di amido che resiste alla cottura.",
+      "B": "Una parte di amido che non viene assorbita nell'intestino tenue e arriva intatta nel colon.",
+      "C": "Un amido che causa un picco glicemico molto elevato.",
+      "D": "Un dolcificante artificiale."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'amido resistente si comporta in modo simile a una fibra solubile. Non viene digerito e assorbito, ma fermenta nel colon agendo come prebiotico per il trofismo dei colonociti e inducendo una minor risposta glicemica."
+  },
+  {
+    "domanda": "Qual è il principale intervento nutrizionale in caso di malattia diverticolare (non in fase acuta)?",
+    "opzioni": {
+      "A": "Evitare completamente frutta secca, mais e semi.",
+      "B": "Aumentare il consumo di carne rossa lavorata.",
+      "C": "Preferire un'alimentazione povera di fibre.",
+      "D": "Preferire un'alimentazione ricca di fibre solubili e con pochi alimenti di origine animale."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Un alto apporto di fibre riduce il rischio di sviluppare diverticolite. Il consiglio di evitare semi e frutta secca è basato su un sospetto non dimostrato, anzi, uno studio citato ha mostrato un effetto protettivo."
+  },
+  {
+    "domanda": "Secondo la definizione fornita, cos'è l'Internet of Things (IoT)?",
+    "opzioni": {
+      "A": "Un nuovo tipo di social network per dispositivi elettronici.",
+      "B": "La rete di dispositivi 'intelligenti' che scambiano dati tra loro, integrando il mondo fisico in sistemi computerizzati.",
+      "C": "Un software per migliorare l'efficienza dei computer.",
+      "D": "Un protocollo di sicurezza per la navigazione in internet."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'IoT è definito come la rete di oggetti fisici dotati di sensori e connettività che permette loro di raccogliere e scambiare dati per migliorare efficienza e produttività."
+  },
+  {
+    "domanda": "In un'architettura IoT per la sanità, quale 'layer' è responsabile della raccolta dati diretta dal paziente o dall'ambiente?",
+    "opzioni": {
+      "A": "Cloud Layer",
+      "B": "Fog Layer",
+      "C": "Sensing Layer",
+      "D": "Analytics Layer"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il Sensing Layer è il livello più basso dell'architettura, dove i sensori (indossabili, ambientali, ecc.) raccolgono i dati direttamente dalla fonte, come il paziente."
+  },
+  {
+    "domanda": "Quale dei seguenti NON è menzionato come una sfida nell'implementazione dell'IoT in ambito sanitario?",
+    "opzioni": {
+      "A": "Privacy e Sicurezza dei dati.",
+      "B": "Integrazione di dispositivi multipli con protocolli diversi.",
+      "C": "Mancanza di dispositivi indossabili sul mercato.",
+      "D": "Costo della tecnologia e gestione di grandi quantità di dati."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Le sfide elencate includono privacy, integrazione, gestione dei dati (overloading) e costi. La disponibilità di dispositivi non è menzionata come una sfida, ma piuttosto la loro integrazione."
+  },
+  {
+    "domanda": "Quale tecnologia utilizzano principalmente gli smartwatch per misurare la frequenza cardiaca in modo continuo?",
+    "opzioni": {
+      "A": "ECG (Elettrocardiografia)",
+      "B": "PPG (Fotopletismografia)",
+      "C": "BCG (Ballistocardiogramma)",
+      "D": "Accelerometro"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La fotopletismografia (PPG) è la tecnologia che, tramite sensori ottici (LED), rileva le variazioni di volume del sangue nei vasi sanguigni del polso per stimare il battito cardiaco."
+  },
+  {
+    "domanda": "Cosa misurano gli accelerometri presenti in uno smartwatch?",
+    "opzioni": {
+      "A": "La rotazione del dispositivo.",
+      "B": "Le accelerazioni lineari dei segmenti corporei per rilevare il movimento.",
+      "C": "La frequenza cardiaca.",
+      "D": "La pressione sanguigna."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Gli accelerometri sono sensori inerziali che misurano l'accelerazione lineare. Si basano sull'inerzia di una massa che si sposta per determinare il movimento."
+  },
+  {
+    "domanda": "Nella formula per calcolare le calorie bruciate durante l'esercizio cardiovascolare, cosa rappresenta il MET?",
+    "opzioni": {
+      "A": "La durata in minuti dell'esercizio.",
+      "B": "Il peso corporeo in chilogrammi.",
+      "C": "L'intensità dell'esercizio fisico (Metabolic Equivalent of Task).",
+      "D": "Una costante fissa pari a 0,75."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il MET, o Equivalente Metabolico del Compito, è una misura che rappresenta l'intensità di un'attività fisica rispetto al metabolismo a riposo."
+  },
+  {
+    "domanda": "Quale parametro, legato alla sudorazione e al sistema nervoso simpatico, viene usato per monitorare lo stress?",
+    "opzioni": {
+      "A": "La variabilità del ritmo cardiaco.",
+      "B": "La temperatura corporea.",
+      "C": "L'attività elettrodermica (EDA o GSR).",
+      "D": "Il livello di ossigeno nel sangue."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "L'attività elettrodermica (EDA), o risposta galvanica cutanea (GSR), misura le variazioni della conduttanza elettrica della pelle causate dalla secrezione di sudore, che è modulata dal sistema nervoso simpatico in risposta a stimoli emotivi o cognitivi."
+  },
+  {
+    "domanda": "Su quale principio si basano le bilance smart per misurare la massa grassa e la massa magra?",
+    "opzioni": {
+      "A": "Misurano la densità corporea tramite spostamento d'aria.",
+      "B": "Fanno passare una corrente elettrica alternata e misurano l'impedenza.",
+      "C": "Usano raggi X a bassa intensità.",
+      "D": "Calcolano una stima basata solo su peso, altezza ed età."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La bioimpedenziometria delle bilance smart si basa sul fatto che la massa magra (ricca di acqua ed elettroliti) è un buon conduttore elettrico (bassa resistenza), mentre la massa grassa (povera di acqua) è un cattivo conduttore (alta resistenza)."
+  },
+  {
+    "domanda": "Cosa si intende per 'Realtà Aumentata' (AR)?",
+    "opzioni": {
+      "A": "La creazione di un mondo virtuale completamente immersivo (metaverso).",
+      "B": "Una tecnica che arricchisce la percezione sensoriale sovrapponendo informazioni digitali al mondo reale.",
+      "C": "Un modello virtuale di un oggetto fisico (digital twin).",
+      "D": "Un tipo di intelligenza artificiale generativa."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La Realtà Aumentata non sostituisce la realtà, ma la 'aumenta', arricchendola con informazioni aggiuntive tramite dispositivi come smartphone o visori."
+  },
+  {
+    "domanda": "Un 'digital twin' (gemello digitale) è:",
+    "opzioni": {
+      "A": "Un profilo social di una persona.",
+      "B": "Un'intelligenza artificiale che simula una conversazione.",
+      "C": "La rappresentazione virtuale di un oggetto, persona o processo fisico, aggiornata con dati in tempo reale.",
+      "D": "Un tipo di attacco informatico."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Un gemello digitale è un modello virtuale che replica un'entità fisica, utilizzando i dati dei sensori per simularne il comportamento e monitorarne le operazioni."
+  },
+  {
+    "domanda": "Quale dei seguenti NON è un esempio di 'Intelligenza Autonoma' secondo l'infografica presentata?",
+    "opzioni": {
+      "A": "Un pancreas bionico che regola il glucosio.",
+      "B": "Un'auto a guida autonoma.",
+      "C": "Un sistema di rilevamento della corsia che aiuta il conducente.",
+      "D": "Un sistema che paga o rifiuta reclami assicurativi in base a modelli."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il sistema di rilevamento della corsia è un esempio di 'Intelligenza Aumentata' perché aumenta le decisioni umane, non decide in modo autonomo. L'intelligenza autonoma, invece, decide ed esegue in modo autonomo."
+  },
+  {
+    "domanda": "Secondo i dati del Pew Research Center, riguardo a quale area gli americani hanno una visione particolarmente negativa dell'impatto dell'IA?",
+    "opzioni": {
+      "A": "Trovare prodotti e servizi online.",
+      "B": "Fornire cure mediche di qualità.",
+      "C": "Mantenere private le informazioni personali.",
+      "D": "Rendere le auto più sicure."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il grafico mostra che il 53% degli adulti americani ritiene che l'IA 'danneggi più che aiutare' per quanto riguarda la privacy delle informazioni personali, il valore più negativo tra quelli elencati."
+  },
+  {
+    "domanda": "Cosa sono le 'allucinazioni' in un modello di linguaggio (LLM)?",
+    "opzioni": {
+      "A": "Errori di programmazione nel codice del modello.",
+      "B": "La capacità del modello di creare immagini realistiche.",
+      "C": "La tendenza del modello a generare informazioni false, errate o senza senso, presentandole come fatti.",
+      "D": "Risposte volutamente ambigue per proteggere la privacy."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Le 'allucinazioni' sono uno dei principali limiti degli LLM e si verificano quando il modello inventa informazioni plausibili ma non corrette, a causa del modo in cui è stato addestrato per predire la parola successiva."
+  },
+  {
+    "domanda": "Nella tassonomia delle rivoluzioni industriali, a quale rivoluzione appartiene l'introduzione dell'IoT e dell'Intelligenza Artificiale?",
+    "opzioni": {
+      "A": "Industria 1.0 (Vapore)",
+      "B": "Industria 2.0 (Elettricità e catena di montaggio)",
+      "C": "Industria 3.0 (Elettronica e IT)",
+      "D": "Industria 4.0 (Sistemi Cyber-Fisici)"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "L'Industria 4.0, o quarta rivoluzione industriale, è caratterizzata dall'integrazione di tecnologie come IoT, IA, Big Data e sistemi cyber-fisici nei processi produttivi."
+  },
+  {
+    "domanda": "Qual è il messaggio chiave della slide finale intitolata 'Concludiamo con una parola chiave'?",
+    "opzioni": {
+      "A": "La tecnologia risolverà tutti i problemi.",
+      "B": "È necessario diventare esperti di programmazione.",
+      "C": "È fondamentale avere 'Consapevolezza' del nostro ruolo come generatori di dati e potenziali bias, e affidarsi a professionisti.",
+      "D": "L'automazione è l'unico obiettivo da perseguire."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La parola chiave è 'Consapevolezza'. Sottolinea l'importanza di un uso critico e responsabile della tecnologia, riconoscendo che i nostri dati addestrano le IA e possono introdurre pregiudizi."
+  },
+  {
+    "domanda": "Quali sono i tre sistemi energetici utilizzati dal corpo umano?",
+    "opzioni": {
+      "A": "Glucidico, Lipidico, Proteico.",
+      "B": "Veloce, Medio, Lento.",
+      "C": "Anaerobico alattacido, Anaerobico lattacido, Aerobico.",
+      "D": "Centrale, Periferico, Misto."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il corpo utilizza tre principali sistemi per produrre energia: l'anaerobico alattacido per sforzi brevissimi e intensi, l'anaerobico lattacido per sforzi intensi fino a circa 45 secondi, e l'aerobico per sforzi prolungati."
+  },
+  {
+    "domanda": "Quale sistema energetico fornisce energia per sforzi che durano ore e prevale dopo i primi 2 minuti di attività?",
+    "opzioni": {
+      "A": "Sistema anaerobico alattacido",
+      "B": "Sistema anaerobico lattacido",
+      "C": "Sistema aerobico",
+      "D": "Sistema della fosfocreatina"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il sistema aerobico utilizza ossigeno per produrre energia in modo efficiente e sostenibile, diventando la fonte predominante per attività di resistenza di lunga durata."
+  },
+  {
+    "domanda": "Quali sono i tre principali stimoli che determinano l'ipertrofia muscolare?",
+    "opzioni": {
+      "A": "Riposo, idratazione e sonno.",
+      "B": "Tensione meccanica, stress metabolico e danno muscolare.",
+      "C": "Cardio, stretching e yoga.",
+      "D": "Assunzione di BCAA, creatina e proteine in polvere."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'ipertrofia è una risposta adattativa a tre fattori principali: il carico sollevato (tensione meccanica), l'accumulo di metaboliti come il lattato (stress metabolico) e le microlacerazioni delle fibre (danno muscolare)."
+  },
+  {
+    "domanda": "Secondo le slide, qual è il range di ripetizioni e carichi ideale per l'ipertrofia (bodybuilding)?",
+    "opzioni": {
+      "A": "1-5 ripetizioni con carichi massimali (90-100%).",
+      "B": "6-15 ripetizioni con carichi tra il 60% e l'80% del massimale.",
+      "C": "Oltre 25 ripetizioni con carichi molto bassi (30-40%).",
+      "D": "Esercizi isometrici mantenuti per più di un minuto."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il range ipertrofico classico combina un volume di lavoro sufficiente con una tensione meccanica adeguata, tipicamente tra le 6 e le 15 ripetizioni con carichi medio-alti."
+  },
+  {
+    "domanda": "Perché è sconsigliato assumere antiossidanti e vitamine subito dopo l'allenamento?",
+    "opzioni": {
+      "A": "Perché appesantiscono la digestione.",
+      "B": "Perché lo stress ossidativo indotto dall'allenamento è una risposta adattativa necessaria e gli antiossidanti possono attenuarla.",
+      "C": "Perché non vengono assorbiti correttamente a stomaco vuoto.",
+      "D": "Perché aumentano il rischio di danno muscolare."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'esercizio fisico produce stress ossidativo, che è uno dei segnali che stimolano il corpo a migliorare e adattarsi. Assumere antiossidanti subito dopo può smorzare questo segnale, riducendo i benefici dell'allenamento."
+  },
+  {
+    "domanda": "Qual è la differenza tra proteine del siero del latte (Whey) concentrate, isolate e idrolizzate?",
+    "opzioni": {
+      "A": "Non c'è nessuna differenza, cambia solo il nome commerciale.",
+      "B": "Le concentrate sono le più lente, le idrolizzate le più veloci in termini di assimilazione.",
+      "C": "Le isolate contengono più lattosio e grassi.",
+      "D": "Le idrolizzate hanno un valore biologico inferiore."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La differenza principale risiede nel grado di processazione e nella velocità di assorbimento: le idrolizzate sono le più rapide (15-40 min), seguite dalle isolate (30-60 min) e infine dalle concentrate (circa 1.5 ore)."
+  },
+  {
+    "domanda": "Quale integratore migliora lo stoccaggio di glicogeno muscolare e può aumentare il volume cellulare richiamando acqua al suo interno?",
+    "opzioni": {
+      "A": "Beta-alanina",
+      "B": "Creatina monoidrato",
+      "C": "Glutammina",
+      "D": "Caffeina"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La creatina, oltre a rigenerare l'ATP, agisce come volumizzatore cellulare, migliorando l'idratazione intracellulare e lo stoccaggio del glicogeno, senza causare ritenzione idrica extracellulare."
+  },
+  {
+    "domanda": "Cosa indica il NEAT (Non-Exercise Activity Thermogenesis)?",
+    "opzioni": {
+      "A": "Il dispendio energetico dell'esercizio fisico programmato.",
+      "B": "Il metabolismo basale durante il sonno.",
+      "C": "Il consumo energetico di tutte le attività giornaliere non legate allo sport (camminare, gesticolare, pulire casa).",
+      "D": "L'energia spesa per digerire il cibo (effetto termico)."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il NEAT è una componente molto variabile del dispendio energetico totale e rappresenta tutte le calorie bruciate durante le attività quotidiane che non sono classificate come esercizio fisico strutturato."
+  },
+  {
+    "domanda": "Cosa sono il 'set point' e il 'settling point'?",
+    "opzioni": {
+      "A": "Due metodi per calcolare il fabbisogno calorico.",
+      "B": "Il set point è il peso geneticamente predeterminato, mentre il settling point è l'equilibrio dinamico che si raggiunge in base allo stile di vita.",
+      "C": "Sono la stessa cosa e indicano il peso forma.",
+      "D": "Il set point riguarda la massa grassa, il settling point la massa magra."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il 'set point' è una teoria più rigida di un peso 'fisso', mentre il 'settling point' è una teoria più flessibile che descrive come il nostro peso si stabilizzi a un certo livello in base all'equilibrio tra genetica, alimentazione e stile di vita."
+  },
+  {
+    "domanda": "Quali recettori adrenergici prevalgono nel 'grasso ostinato' e quali nel grasso più facile da mobilizzare?",
+    "opzioni": {
+      "A": "Recettori alfa nel grasso ostinato, recettori beta in quello facile da mobilizzare.",
+      "B": "Recettori beta nel grasso ostinato, recettori alfa in quello facile da mobilizzare.",
+      "C": "Solo recettori alfa in entrambi i tipi di grasso.",
+      "D": "Solo recettori beta in entrambi i tipi di grasso."
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "I recettori alfa hanno un'azione anti-lipolitica (bloccano il rilascio di grassi), mentre i beta hanno un'azione lipolitica (stimolano il rilascio). Il grasso ostinato ha una maggiore densità di recettori alfa, rendendolo più difficile da mobilizzare."
+  },
+  {
+    "domanda": "Quale tipo di grasso corporeo è ricco di recettori beta e viene quindi mobilizzato più facilmente?",
+    "opzioni": {
+      "A": "Grasso sottocutaneo",
+      "B": "Grasso viscerale",
+      "C": "Grasso intramuscolare",
+      "D": "Grasso essenziale"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il grasso viscerale, essendo metabolicamente più attivo e ricco di recettori beta, è il primo ad essere mobilizzato durante un deficit calorico, a differenza del grasso sottocutaneo che è più 'ostinato'."
+  },
+  {
+    "domanda": "Qual è il fabbisogno proteico raccomandato per un anziano per mantenere un bilancio azotato positivo e contrastare la sarcopenia?",
+    "opzioni": {
+      "A": "0,8 g/kg/die",
+      "B": "Circa 1 g/kg/die, potendo arrivare a 1,2-1,5 g/kg/die in casi specifici.",
+      "C": "Meno di 0,5 g/kg/die.",
+      "D": "Oltre 2,5 g/kg/die."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "A causa della 'resistenza anabolica', l'anziano necessita di un apporto proteico maggiore rispetto a un adulto giovane per stimolare la sintesi proteica muscolare. Si raccomanda circa 1 g/kg, con aumenti in caso di sarcopenia o malattie."
+  },
+  {
+    "domanda": "Quale aminoacido è particolarmente importante per attivare la via metabolica mTOR e stimolare l'ipertrofia muscolare?",
+    "opzioni": {
+      "A": "Glutammina",
+      "B": "Arginina",
+      "C": "Leucina",
+      "D": "Valina"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La leucina, un aminoacido a catena ramificata (BCAA), agisce come un segnale molecolare chiave per l'attivazione di mTOR, il principale regolatore della sintesi proteica muscolare e quindi della crescita."
+  },
+  {
+    "domanda": "Per calcolare il fabbisogno energetico giornaliero (TDEE) si utilizza la formula:",
+    "opzioni": {
+      "A": "Metabolismo Basale (MB) + Livelli di Attività Fisica (LAF).",
+      "B": "Metabolismo Basale (MB) x Livelli di Attività Fisica (LAF).",
+      "C": "Metabolismo Basale (MB) - Livelli di Attività Fisica (LAF).",
+      "D": "Peso corporeo x 24."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il fabbisogno calorico totale (TDEE) viene stimato moltiplicando il metabolismo basale (MB) per un coefficiente che rappresenta il livello di attività fisica giornaliera (LAF)."
+  },
+  {
+    "domanda": "Quale deficit calorico è generalmente consigliato per perdere grasso in modo sostenibile?",
+    "opzioni": {
+      "A": "Un deficit del 5% rispetto al TDEE.",
+      "B": "Un deficit del 50% o più rispetto al TDEE.",
+      "C": "Un deficit di circa il 20% rispetto al TDEE.",
+      "D": "Non è necessario un deficit, basta allenarsi."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Un deficit moderato, attorno al 20% del fabbisogno calorico giornaliero, permette una perdita di grasso efficace senza causare un'eccessiva fame e una deplezione troppo rapida delle scorte di glicogeno."
+  },
+  {
+    "domanda": "Qual è la differenza tra una dieta latto-ovo vegetariana e una dieta vegana?",
+    "opzioni": {
+      "A": "La dieta vegana esclude solo la carne rossa, quella vegetariana anche il pesce.",
+      "B": "La vegetariana esclude carne e pesce; la vegana esclude tutti i prodotti di origine animale, inclusi latticini, uova e miele.",
+      "C": "Sono la stessa cosa, ma la dieta vegana include più cibi industriali.",
+      "D": "La vegetariana permette il consumo di pesce, la vegana no."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Una dieta latto-ovo vegetariana esclude carne e pesce ma ammette i loro derivati come latte e uova. Una dieta vegana, invece, si basa esclusivamente su alimenti di origine vegetale."
+  },
+  {
+    "domanda": "Secondo la posizione dell'American Dietetic Association (ADA), le diete vegetariane correttamente pianificate:",
+    "opzioni": {
+      "A": "Sono adatte solo per gli adulti ma sconsigliate in gravidanza e per gli atleti.",
+      "B": "Sono salutari e adeguate per tutti gli stadi del ciclo vitale, inclusi gravidanza, infanzia e per gli atleti.",
+      "C": "Sono carenti di proteine e non possono essere considerate complete.",
+      "D": "Sono utili solo per la perdita di peso a breve termine."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'ADA afferma che le diete vegetariane, se ben pianificate, sono nutrizionalmente adeguate e possono conferire benefici per la salute in tutte le fasi della vita."
+  },
+  {
+    "domanda": "A cosa serve l'ammollo dei legumi prima della cottura?",
+    "opzioni": {
+      "A": "A renderli più salati.",
+      "B": "Ad attivare l'enzima fitasi, che riduce l'acido fitico e aumenta la disponibilità di minerali come zinco e ferro.",
+      "C": "A cuocerli più in fretta, ma non ha effetti nutrizionali.",
+      "D": "A eliminare le proteine in essi contenute."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'ammollo è un passaggio cruciale per ridurre i fitati, composti che legano i minerali e ne impediscono l'assorbimento. L'attivazione della fitasi durante l'ammollo 'libera' questi minerali."
+  },
+  {
+    "domanda": "Quale parte del chicco di cereale, ricca di fibre e nutrienti, viene rimossa durante i processi di raffinazione (es. farina 00)?",
+    "opzioni": {
+      "A": "L'endosperma amilifero.",
+      "B": "Solo il glutine.",
+      "C": "Il pericarpo (crusca) e il germe.",
+      "D": "Solo l'acqua."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La raffinazione rimuove gli strati esterni (pericarpo) e il germe, lasciando principalmente l'endosperma, che è ricco di amido ma povero di fibre, vitamine e minerali."
+  },
+  {
+    "domanda": "Cosa si intende per 'cucina nutraceutica'?",
+    "opzioni": {
+      "A": "Cucinare usando solo integratori alimentari.",
+      "B": "Una disciplina che studia i principi attivi dei cibi che hanno un effetto salutare e curativo, come gli 'alimenti-farmaco'.",
+      "C": "Cucinare solo cibi crudi.",
+      "D": "Un tipo di cucina basata esclusivamente su superfood."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La nutraceutica unisce 'nutrizione' e 'farmaceutica' e si focalizza sull'uso di alimenti o loro componenti per mantenere la salute e prevenire/trattare malattie."
+  },
+  {
+    "domanda": "Qual è l'effetto della cottura sulla biodisponibilità del licopene contenuto nei pomodori?",
+    "opzioni": {
+      "A": "La cottura distrugge completamente il licopene.",
+      "B": "La cottura aumenta la biodisponibilità del licopene, anche se riduce la vitamina C.",
+      "C": "La cottura non ha alcun effetto sul licopene.",
+      "D": "Il licopene è biodisponibile solo a crudo."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il trattamento termico rompe le pareti cellulari del pomodoro, rendendo il licopene (un potente antiossidante) più facilmente assorbibile dal nostro corpo."
+  },
+  {
+    "domanda": "La reazione di Maillard avviene tra:",
+    "opzioni": {
+      "A": "Due zuccheri (caramellizzazione).",
+      "B": "Un amminoacido e uno zucchero riducente, in presenza di calore.",
+      "C": "Un grasso e una proteina.",
+      "D": "Solo in presenza di acqua e ad alte pressioni."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "È la reazione chimica responsabile dell'imbrunimento e dello sviluppo di aromi complessi in molti cibi cotti (es. crosta del pane, carne arrosto), e richiede la presenza di proteine e zuccheri."
+  },
+  {
+    "domanda": "Quale composto potenzialmente tossico si può formare durante la cottura ad alte temperature di alimenti ricchi di amido, come le patate?",
+    "opzioni": {
+      "A": "Melanoidine",
+      "B": "Amido resistente",
+      "C": "Acido fitico",
+      "D": "Acrilammide"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "L'acrilammide si forma come sottoprodotto della reazione di Maillard in alimenti amidacei cotti ad alte temperature (frittura, forno). È classificata come probabile cancerogeno."
+  },
+  {
+    "domanda": "Quale delle seguenti è un'indicazione obbligatoria da riportare sull'etichetta di un prodotto alimentare?",
+    "opzioni": {
+      "A": "Una ricetta consigliata.",
+      "B": "L'elenco degli ingredienti.",
+      "C": "Un claim salutistico (es. 'fa bene al cuore').",
+      "D": "Il numero di porzioni."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La normativa europea prevede una serie di indicazioni obbligatorie, tra cui la denominazione di vendita, l'elenco degli ingredienti, il quantitativo netto e la data di scadenza."
+  },
+  {
+    "domanda": "Cosa indica la sigla 'E' seguita da un numero in un elenco di ingredienti?",
+    "opzioni": {
+      "A": "Indica un ingrediente di origine 'Extra-europea'.",
+      "B": "Indica che l'ingrediente è 'Essenziale'.",
+      "C": "Indica un additivo alimentare approvato per l'uso nell'Unione Europea.",
+      "D": "Indica che il prodotto è 'Ecologico'."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La lettera 'E' seguita da un codice numerico è il sistema di classificazione europeo per gli additivi alimentari (coloranti, conservanti, emulsionanti, ecc.) la cui sicurezza è stata valutata e approvata."
+  },
+  {
+    "domanda": "Perché i nitrati e i nitriti, usati come conservanti nelle carni lavorate, sono considerati un rischio per la salute?",
+    "opzioni": {
+      "A": "Perché sono ricchi di calorie.",
+      "B": "Perché possono trasformarsi in N-nitrosammine, composti considerati cancerogeni.",
+      "C": "Perché causano sempre reazioni allergiche.",
+      "D": "Perché aumentano il contenuto di colesterolo del prodotto."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Sebbene i nitriti di per sé non siano cancerogeni, in determinate condizioni (alte temperature di cottura, ambiente acido dello stomaco) possono reagire con le ammine presenti nelle proteine formando nitrosammine, che sono cancerogene."
+  },
+  {
+    "domanda": "Qual è la principale differenza nutrizionale tra il latte fresco pastorizzato e quello sterilizzato UHT?",
+    "opzioni": {
+      "A": "Il latte UHT ha più grassi.",
+      "B": "Il latte fresco ha meno calcio.",
+      "C": "La pastorizzazione (65-80°C) preserva meglio i fermenti lattici e i nutrienti, mentre la sterilizzazione UHT (120°C) li distrugge in maggior misura.",
+      "D": "Non c'è alcuna differenza nutrizionale."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il trattamento termico più blando della pastorizzazione uccide i patogeni ma mantiene parte della microflora benefica e delle vitamine termolabili, a differenza del trattamento UHT che, essendo più aggressivo, causa una maggiore perdita di nutrienti."
+  },
+  {
+    "domanda": "I beta-glucani, presenti in cereali come orzo e avena, sono noti per la loro capacità di:",
+    "opzioni": {
+      "A": "Aumentare il valore biologico delle proteine.",
+      "B": "Abbassare il colesterolo LDL.",
+      "C": "Migliorare la lievitazione del pane.",
+      "D": "Rendere i cibi più dolci."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "I beta-glucani sono fibre solubili che, formando un gel viscoso nell'intestino, sono in grado di legare gli acidi biliari e il colesterolo, riducendone l'assorbimento e contribuendo così a diminuire i livelli di colesterolo nel sangue."
+  },
+  {
+    "domanda": "Qual è una caratteristica importante delle proteine dei funghi?",
+    "opzioni": {
+      "A": "Hanno un valore biologico molto basso.",
+      "B": "Sono difficili da digerire (meno del 50%).",
+      "C": "Hanno un elevato valore biologico, paragonabile a quello della carne di vitello.",
+      "D": "Sono composte principalmente da glutine."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Le proteine fungine hanno un alto valore biologico (80,4%) e un'alta digeribilità (circa 90%), rendendoli una fonte proteica di qualità, superiore ad altri vegetali."
+  },
+  {
+    "domanda": "Come mai la carota cruda ha un indice glicemico più basso (20) rispetto a quella cotta (50)?",
+    "opzioni": {
+      "A": "La cottura crea nuovi zuccheri.",
+      "B": "La cottura gelatinizza gli amidi e rompe le fibre, rendendo gli zuccheri più rapidamente disponibili all'assorbimento.",
+      "C": "La carota cruda contiene più acqua.",
+      "D": "È un errore, l'indice glicemico non cambia con la cottura."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il processo di cottura modifica la matrice alimentare, rendendo i carboidrati più accessibili agli enzimi digestivi. Questo accelera la loro conversione in glucosio e il conseguente aumento della glicemia."
+  },
+  {
+    "domanda": "Quale delle seguenti NON è una funzione del rene?",
+    "opzioni": {
+      "A": "Controllo della pressione arteriosa.",
+      "B": "Produzione di insulina.",
+      "C": "Eritropoiesi (produzione di globuli rossi tramite eritropoietina).",
+      "D": "Omeostasi degli elettroliti e dell'acqua."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il rene svolge molteplici funzioni vitali tra cui l'equilibrio idro-salino, il controllo pressorio e l'eritropoiesi. La produzione di insulina è invece compito del pancreas."
+  },
+  {
+    "domanda": "L'insufficienza renale cronica (IRC) è una patologia che ha ripercussioni:",
+    "opzioni": {
+      "A": "Esclusivamente sull'apparato urinario.",
+      "B": "Solo sul sistema cardiovascolare.",
+      "C": "È una patologia sistemica che coinvolge numerosi organi e apparati.",
+      "D": "Principalmente sul sistema nervoso."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La riduzione della funzionalità renale ha effetti sistemici, che interessano l'apparato cardiovascolare, gastroenterico, nervoso, endocrino e osteoarticolare."
+  },
+  {
+    "domanda": "In quale stadio della malattia renale cronica (secondo la classificazione in 5 stadi) si parla di Insufficienza Renale Terminale, che spesso richiede la dialisi?",
+    "opzioni": {
+      "A": "Stadio 2 (eGFR 89-60)",
+      "B": "Stadio 3a (eGFR 59-45)",
+      "C": "Stadio 4 (eGFR 29-15)",
+      "D": "Stadio 5 (eGFR <15)"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Lo stadio 5 è il più grave, definito da un filtrato glomerulare inferiore a 15 ml/min, una condizione che indica la necessità di terapia sostitutiva come la dialisi o il trapianto."
+  },
+  {
+    "domanda": "Cosa indica la presenza di microalbuminuria (30-300 mg/die)?",
+    "opzioni": {
+      "A": "Una condizione normale e priva di rischi.",
+      "B": "Un danno renale conclamato e irreversibile.",
+      "C": "Un primo segno di danno renale, specialmente in pazienti diabetici, e un alto rischio di sviluppare nefropatia.",
+      "D": "Un'infezione delle vie urinarie."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La microalbuminuria è un marcatore precoce di danno glomerulare. Rilevarla permette di intervenire per rallentare la progressione della malattia renale."
+  },
+  {
+    "domanda": "Perché i pazienti con insufficienza renale tendono a essere ipertesi?",
+    "opzioni": {
+      "A": "Perché bevono troppa acqua.",
+      "B": "A causa di un meccanismo di compenso in cui il rene, per mantenere stabile la concentrazione di sodio, trattiene più acqua, aumentando il volume plasmatico.",
+      "C": "Perché seguono una dieta troppo ricca di potassio.",
+      "D": "A causa della carenza di eritropoietina."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Anche con una funzione compromessa, il rene cerca di mantenere costante la sodiemia. Per farlo, riassorbe più acqua, il che porta a un aumento del volume di sangue circolante e, di conseguenza, della pressione arteriosa."
+  },
+  {
+    "domanda": "Secondo le linee guida internazionali, a partire da quale stadio dell'IRC si inizia a considerare una dieta ipoproteica (es. 0.8 gr/kg)?",
+    "opzioni": {
+      "A": "Dallo stadio 1, come prevenzione.",
+      "B": "Dallo stadio 2, in tutti i pazienti.",
+      "C": "Solo negli stadi più avanzati (generalmente dal 3b in poi).",
+      "D": "La dieta ipoproteica non è mai raccomandata."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Le restrizioni proteiche non sono necessarie negli stadi iniziali (1-2) e appaiono ragionevoli solo a partire dallo stadio 3a (se ci sono comorbidità) o dal 3b in poi, per non rischiare una malnutrizione proteica."
+  },
+  {
+    "domanda": "Perché nei pazienti con proteinuria l'apporto proteico della dieta deve essere adeguato e talvolta aumentato?",
+    "opzioni": {
+      "A": "Perché le proteine in eccesso vengono eliminate facilmente.",
+      "B": "Per compensare la perdita di proteine con le urine e contrastare la tendenza catabolica.",
+      "C": "Perché la proteinuria non ha effetti sul bilancio azotato.",
+      "D": "Per aumentare la pressione sanguigna."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "In caso di proteinuria, si perde una quantità significativa di proteine con le urine. È necessario fornire un apporto proteico adeguato (spesso aggiungendo 1g di proteine per ogni grammo perso) per mantenere un bilancio azotato positivo ed evitare la malnutrizione."
+  },
+  {
+    "domanda": "Qual è una delle cause funzionali più comuni della calcolosi urinaria?",
+    "opzioni": {
+      "A": "Eccessiva idratazione e pH urinario sempre basico.",
+      "B": "Disidratazione, alterazioni del pH urinario e sovrasaturazione delle urine.",
+      "C": "Una dieta povera di sodio e proteine.",
+      "D": "Un basso livello di calcio nelle urine (ipocalciuria)."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La formazione di calcoli è favorita da urine troppo concentrate (disidratazione), da un pH che favorisce la precipitazione di certi sali e da un'eccessiva presenza di sostanze litogene (calcio, ossalato, urato)."
+  },
+  {
+    "domanda": "Perché una dieta povera di calcio (ipocalcica) può paradossalmente aumentare il rischio di calcoli di ossalato di calcio?",
+    "opzioni": {
+      "A": "Perché il corpo produce più ossalato per compensare.",
+      "B": "Perché con poco calcio nell'intestino, l'ossalato non viene legato e viene assorbito in maggior quantità, aumentando la sua concentrazione nelle urine.",
+      "C": "Questa affermazione è falsa, una dieta ipocalcica previene sempre i calcoli.",
+      "D": "Perché una dieta ipocalcica è sempre iperproteica."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il calcio assunto con la dieta lega l'ossalato nell'intestino, impedendone l'assorbimento. Se il calcio nella dieta è scarso, più ossalato viene assorbito, passa nelle urine (iperossaluria) e può precipitare formando calcoli."
+  },
+  {
+    "domanda": "Quale vitamina, se assunta a dosaggi molto elevati (> 20 grammi/die), può aumentare la concentrazione di ossalato nelle urine?",
+    "opzioni": {
+      "A": "Vitamina D",
+      "B": "Vitamina B12",
+      "C": "Vitamina C",
+      "D": "Vitamina K"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "L'acido ascorbico (Vitamina C) viene metabolizzato in parte in ossalato. Dosi estremamente elevate possono quindi portare a iperossaluria e aumentare il rischio di calcoli di ossalato di calcio."
+  },
+  {
+    "domanda": "Secondo le linee guida ESC/EAS 2019, qual è l'obiettivo di colesterolo LDL per un paziente a rischio cardiovascolare 'molto alto'?",
+    "opzioni": {
+      "A": "< 116 mg/dL",
+      "B": "< 100 mg/dL",
+      "C": "< 70 mg/dL",
+      "D": "< 55 mg/dL"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Le linee guida del 2019 hanno abbassato i target terapeutici. Per i pazienti a rischio molto alto, l'obiettivo è una riduzione >50% del LDL basale e un valore assoluto inferiore a 55 mg/dL."
+  },
+  {
+    "domanda": "Qual è una delle principali novità delle linee guida ESC 2019 rispetto alle precedenti riguardo ai macronutrienti?",
+    "opzioni": {
+      "A": "Hanno aumentato la quota raccomandata di grassi saturi.",
+      "B": "Hanno spostato l'attenzione dalla demonizzazione dei grassi alla riduzione dei carboidrati, specie quelli raffinati.",
+      "C": "Hanno vietato completamente il consumo di uova.",
+      "D": "Hanno introdotto la dieta chetogenica come prima scelta."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le nuove linee guida evidenziano che l'aumento proporzionale dei carboidrati, conseguenza della riduzione dei grassi, non ha ridotto il rischio cardiovascolare. L'enfasi è ora sulla qualità dei carboidrati."
+  },
+  {
+    "domanda": "Come agiscono i fitosteroli (o steroli vegetali) per ridurre il colesterolo?",
+    "opzioni": {
+      "A": "Inibiscono l'enzima HMG-CoA reduttasi, come le statine.",
+      "B": "Aumentano l'escrezione di bile.",
+      "C": "Competono con il colesterolo per l'assorbimento intestinale, riducendone l'ingresso nel circolo sanguigno.",
+      "D": "Aumentano i recettori LDL sul fegato."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I fitosteroli hanno una struttura simile al colesterolo e, una volta nell'intestino, competono per l'assorbimento, limitando la quantità di colesterolo che viene assorbita dagli alimenti."
+  },
+  {
+    "domanda": "Qual è l'effetto principale degli acidi grassi Omega-3 sul profilo lipidico?",
+    "opzioni": {
+      "A": "Riducono drasticamente il colesterolo LDL.",
+      "B": "Riducono i livelli di Trigliceridi (TG).",
+      "C": "Aumentano i livelli di HDL.",
+      "D": "Non hanno alcun effetto sui lipidi."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Gli Omega-3 sono particolarmente efficaci nel ridurre l'ipertrigliceridemia. Il loro effetto sul colesterolo LDL è variabile e a volte possono persino aumentarlo leggermente."
+  },
+  {
+    "domanda": "Secondo l'ipotesi 'lipocentrica', l'insulino-resistenza associata all'obesità viscerale porta a:",
+    "opzioni": {
+      "A": "Una diminuzione degli acidi grassi liberi che arrivano al fegato.",
+      "B": "Un aumento della produzione di LDL piccole e dense, VLDL e trigliceridi da parte del fegato.",
+      "C": "Un aumento del colesterolo HDL.",
+      "D": "Una riduzione della sintesi di trigliceridi."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'insulino-resistenza causa un aumento degli acidi grassi liberi nel circolo portale. Questi, arrivando al fegato, stimolano la produzione di lipoproteine aterogene (VLDL, LDL piccole e dense) e riducono l'HDL."
+  },
+  {
+    "domanda": "Quale dei seguenti NON è considerato un fattore di rischio per l'ipertrigliceridemia secondaria?",
+    "opzioni": {
+      "A": "Consumo di alcol.",
+      "B": "Diabete mellito di tipo 2.",
+      "C": "Obesità.",
+      "D": "Ipertiroidismo."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "L'ipotiroidismo (e non l'ipertiroidismo) è una causa di dislipidemia secondaria. Alcol, obesità e diabete sono tra le cause più comuni di ipertrigliceridemia."
+  },
+  {
+    "domanda": "Secondo le evidenze recenti (es. studio PURE), qual è la relazione tra consumo di grassi saturi, carboidrati e mortalità?",
+    "opzioni": {
+      "A": "Sia i grassi saturi che i carboidrati aumentano la mortalità.",
+      "B": "I grassi saturi aumentano la mortalità, mentre i carboidrati la riducono.",
+      "C": "Un alto consumo di carboidrati (>60%) aumenta la mortalità, mentre un maggior consumo di grassi (inclusi i saturi) la riduce.",
+      "D": "Nessuno dei due ha correlazione con la mortalità."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Lo studio PURE ha messo in discussione la 'grassofobia', mostrando che un alto apporto di carboidrati è associato a un aumento della mortalità, mentre un più alto apporto di grassi totali e saturi è associato a una sua riduzione."
+  },
+  {
+    "domanda": "Qual è il punto fondamentale riguardo al ruolo del colesterolo nell'aterosclerosi?",
+    "opzioni": {
+      "A": "Il colesterolo alimentare è l'unico responsabile.",
+      "B": "Solo i livelli totali di colesterolo nel sangue sono importanti.",
+      "C": "Ad essere dannoso non è il livello totale di LDL, ma il suo grado di ossidazione e lo stato infiammatorio dell'endotelio.",
+      "D": "Il colesterolo HDL è l'unico parametro da monitorare."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La visione moderna dell'aterosclerosi si concentra non solo sulla quantità di colesterolo LDL, ma sulla sua qualità (ossidazione) e sull'ambiente in cui circola (infiammazione e salute endoteliale)."
+  },
+  {
+    "domanda": "Quale meccanismo spiega la miopatia (dolori muscolari) indotta da statine?",
+    "opzioni": {
+      "A": "Le statine causano un aumento del colesterolo nei muscoli.",
+      "B": "Le statine bloccano la sintesi del colesterolo, ma anche quella di molecole essenziali come il Coenzima Q10 e il precursore della Vitamina D.",
+      "C": "Le statine sono tossiche direttamente per le fibre muscolari.",
+      "D": "Le statine riducono l'afflusso di sangue ai muscoli."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Bloccando l'enzima HMG-CoA reduttasi, le statine interferiscono con la produzione di diverse sostanze vitali. Il deficit di CoQ10 (essenziale per la produzione di energia mitocondriale) e di Vitamina D è fortemente implicato nei dolori muscolari."
+  },
+  {
+    "domanda": "Qual è il nome della dieta specificamente studiata per abbassare la pressione arteriosa?",
+    "opzioni": {
+      "A": "Dieta Paleo",
+      "B": "Dieta Atkins",
+      "C": "Dieta DASH (Dietary Approaches to Stop Hypertension)",
+      "D": "Dieta a Zona"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La dieta DASH è un regime alimentare promosso specificamente per il trattamento dell'ipertensione, basato su una drastica riduzione del sodio e un elevato consumo di frutta, verdura e latticini magri."
+  },
+  {
+    "domanda": "Quale dei seguenti NON è un sintomo diurno tipico della Sindrome delle Apnee Ostruttive nel Sonno (OSAS)?",
+    "opzioni": {
+      "A": "Eccessiva sonnolenza diurna.",
+      "B": "Ipertensione arteriosa.",
+      "C": "Cefalea al risveglio.",
+      "D": "Aumento della libido."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "I sintomi diurni dell'OSAS includono sonnolenza, ipertensione, cefalea, ridotta memoria e concentrazione, e una riduzione (non un aumento) della libido."
+  },
+  {
+    "domanda": "Qual è il trattamento nutrizionale di prima linea per le cause non ostruttive di OSAS legate all'obesità?",
+    "opzioni": {
+      "A": "Un intervento chirurgico.",
+      "B": "La perdita di peso tramite dieta ed esercizio fisico.",
+      "C": "L'utilizzo di farmaci ipnoinducenti.",
+      "D": "Una dieta ricca di carboidrati raffinati."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Nelle forme di OSAS non-ostruttive, la causa principale è l'accumulo di grasso viscerale e perifaringeo. La perdita di peso è quindi l'intervento più efficace per risolvere il problema."
+  },
+  {
+    "domanda": "Cosa indica un elevato rapporto Trigliceridi/Colesterolo HDL?",
+    "opzioni": {
+      "A": "Un'ottima salute cardiovascolare.",
+      "B": "Un'elevata sensibilità all'insulina.",
+      "C": "Un indicatore di insulino-resistenza e iperinsulinemia.",
+      "D": "Un basso rischio di infarto."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Questo rapporto è un marker surrogato molto utilizzato per stimare l'insulino-resistenza. Valori ottimali sono inferiori a 1.8-2."
+  },
+  {
+    "domanda": "La carenza di quali vitamine del gruppo B è la causa più comune di iperomocisteinemia?",
+    "opzioni": {
+      "A": "Vitamina B1 e B2.",
+      "B": "Vitamina B9 (folati), B12 e B6.",
+      "C": "Vitamina B3 (niacina) e B5.",
+      "D": "Vitamina B7 (biotina)."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Folati, B12 e B6 sono cofattori essenziali nel metabolismo dell'omocisteina. Una loro carenza impedisce la sua corretta riconversione in metionina o cisteina, causandone l'accumulo nel sangue."
+  },
+  {
+    "domanda": "Cosa si intende con il termine 'Pattern ruminante' nei pazienti a rischio di problemi alimentari?",
+    "opzioni": {
+      "A": "Persone che mangiano solo cibi di origine vegetale.",
+      "B": "Persone che non fanno pasti regolari ma 'spizzicano' durante tutta la giornata.",
+      "C": "Persone che mangiano cibi ad alta densità come grassi e dolci.",
+      "D": "Persone che seguono diete drastiche come quelle del sondino."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il pattern ruminante descrive un comportamento alimentare disordinato caratterizzato dall'assenza di pasti strutturati e da un continuo 'piluccare' o spizzicare cibo nel corso della giornata."
+  },
+  {
+    "domanda": "Come vengono classificati i microrganismi che, pur essendo normalmente innocui, possono causare malattie in persone con difese immunitarie indebolite?",
+    "opzioni": {
+      "A": "Patogeni",
+      "B": "Utili",
+      "C": "Opportunisti",
+      "D": "Alteranti"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I microrganismi opportunisti sono quelli che approfittano di una condizione di debolezza dell'ospite (es. difese organiche indebolite) per causare una malattia, pur non essendo tipicamente patogeni."
+  },
+  {
+    "domanda": "Quale dei seguenti è un fattore INTRINSECO che influenza la proliferazione microbica in un alimento?",
+    "opzioni": {
+      "A": "La temperatura di conservazione.",
+      "B": "L'attività dell'acqua (aw) dell'alimento.",
+      "C": "La presenza di ossigeno nell'ambiente.",
+      "D": "Il numero iniziale di microrganismi presenti."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "I fattori intrinseci sono legati alle caratteristiche proprie dell'alimento. L'attività dell'acqua (aw), il pH e le sostanze nutritive sono esempi di fattori intrinseci. La temperatura è un fattore estrinseco."
+  },
+  {
+    "domanda": "Qual è la differenza fondamentale tra un'infezione e un'intossicazione alimentare?",
+    "opzioni": {
+      "A": "L'infezione è causata da virus, l'intossicazione da batteri.",
+      "B": "L'infezione è causata dall'ingestione del microrganismo vivo, l'intossicazione dall'ingestione della tossina che ha preformato nell'alimento.",
+      "C": "L'intossicazione ha un'incubazione più lunga dell'infezione.",
+      "D": "Non c'è nessuna differenza, i termini sono sinonimi."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Nell'infezione, il patogeno vivo si moltiplica nel corpo causando la malattia. Nell'intossicazione, la malattia è causata dalla tossina già presente nel cibo, anche se il batterio che l'ha prodotta non è più vivo."
+  },
+  {
+    "domanda": "Quale caratteristica rende la tossina di Staphylococcus aureus particolarmente pericolosa negli alimenti?",
+    "opzioni": {
+      "A": "È termolabile e viene distrutta facilmente con una breve cottura.",
+      "B": "È termostabile, cioè resiste alle normali temperature di cottura.",
+      "C": "Colpisce solo il sistema nervoso.",
+      "D": "Si sviluppa solo in assenza di ossigeno."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'enterotossina stafilococcica è resistente al calore. Anche se la cottura uccide il batterio, la tossina preformata può rimanere attiva e causare intossicazione (tipicamente vomito dopo 2-6 ore)."
+  },
+  {
+    "domanda": "La sindrome emetica da Bacillus cereus è tipicamente associata al consumo di:",
+    "opzioni": {
+      "A": "Carne cruda.",
+      "B": "Pesce affumicato.",
+      "C": "Alimenti a base di amido, come il riso, lasciati a temperatura ambiente dopo la cottura.",
+      "D": "Conserve casalinghe."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Bacillus cereus è sporigeno. Le spore sopravvivono alla cottura del riso e, se il riso viene conservato a temperatura ambiente, possono germinare e produrre la tossina emetica (resistente al calore)."
+  },
+  {
+    "domanda": "Qual è la principale via di trasmissione della Salmonellosi?",
+    "opzioni": {
+      "A": "Via aerea.",
+      "B": "Contatto con animali domestici.",
+      "C": "Via oro-fecale, tramite il consumo di alimenti contaminati.",
+      "D": "Punture di insetti."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La Salmonella vive nell'intestino di animali e uomo. La trasmissione avviene ingerendo cibo (es. uova, carne di pollo) o acqua contaminati da materiale fecale."
+  },
+  {
+    "domanda": "Quale caratteristica rende Listeria monocytogenes particolarmente insidiosa per la sicurezza alimentare?",
+    "opzioni": {
+      "A": "Produce spore molto resistenti.",
+      "B": "Cresce solo a temperature superiori a 45°C.",
+      "C": "Sopravvive e si moltiplica a temperature di refrigerazione (es. 4°C).",
+      "D": "È un parassita obbligato."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La sua capacità di crescere a temperature da frigorifero la rende un pericolo per gli alimenti 'ready-to-eat' con una lunga shelf-life, come salumi e pesce affumicato."
+  },
+  {
+    "domanda": "La Sindrome Emolitico Uremica (SEU) è una grave complicazione associata a quale batterio?",
+    "opzioni": {
+      "A": "Clostridium botulinum",
+      "B": "Staphylococcus aureus",
+      "C": "Escherichia coli produttore di verocitotossina (VTEC/EHEC), come il ceppo O157:H7.",
+      "D": "Listeria monocytogenes"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Alcuni ceppi di E. coli producono una tossina (Verocitotossina o Shiga-tossina) che può danneggiare i reni e causare la SEU, una condizione grave soprattutto nei bambini."
+  },
+  {
+    "domanda": "Qual è il metodo di prevenzione più efficace a livello domestico per l'Anisakidosi da consumo di pesce crudo?",
+    "opzioni": {
+      "A": "Marinare il pesce nel limone per almeno 24 ore.",
+      "B": "Sciacquare bene il pesce sotto acqua corrente.",
+      "C": "Congelare il pesce a -18°C per almeno 96 ore.",
+      "D": "Consumare il pesce entro poche ore dalla pesca."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il congelamento è l'unico metodo domestico che garantisce l'uccisione delle larve di Anisakis nel pesce destinato al consumo crudo. La cottura è un altro metodo efficace."
+  },
+  {
+    "domanda": "La tossina prodotta da Clostridium botulinum è pericolosa perché:",
+    "opzioni": {
+      "A": "Causa una grave gastroenterite con vomito e diarrea.",
+      "B": "È una potente neurotossina che colpisce il sistema nervoso, causando paralisi.",
+      "C": "È cancerogena.",
+      "D": "Danneggia il fegato e i reni."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il botulismo alimentare è un'intossicazione grave che si manifesta con sintomi neurologici (vista doppia, difficoltà a deglutire, paralisi flaccida) dovuti all'azione della tossina botulinica sul sistema nervoso."
+  },
+  {
+    "domanda": "Cosa si intende per contaminazione crociata?",
+    "opzioni": {
+      "A": "La contaminazione di un alimento con un allergene.",
+      "B": "Il passaggio di microrganismi da un alimento crudo a un alimento cotto o pronto al consumo, spesso tramite utensili, mani o superfici.",
+      "C": "La crescita di batteri in un alimento conservato male.",
+      "D": "La presenza di microrganismi sia utili che patogeni nello stesso alimento."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La contaminazione crociata (o secondaria) è una delle principali cause di tossinfezioni alimentari. Un esempio classico è usare lo stesso tagliere per il pollo crudo e poi per tagliare l'insalata."
+  },
+  {
+    "domanda": "Cosa significa l'acronimo HACCP?",
+    "opzioni": {
+      "A": "Help All Consumers Choose Properly (Aiuta Tutti i Consumatori a Scegliere Correttamente).",
+      "B": "Hazard Analysis and Critical Control Points (Analisi dei Pericoli e Punti Critici di Controllo).",
+      "C": "High And Critical Contamination Prevention (Prevenzione della Contaminazione Alta e Critica).",
+      "D": "Healthy And Clean Canteen Protocol (Protocollo per Mense Sane e Pulite)."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "L'HACCP è un sistema di autocontrollo che permette agli operatori del settore alimentare di identificare, valutare e controllare i pericoli significativi per la sicurezza alimentare."
+  },
+  {
+    "domanda": "Quale tra i seguenti NON è uno dei sette principi del sistema HACCP?",
+    "opzioni": {
+      "A": "Identificazione dei punti di controllo critici (CCP).",
+      "B": "Definizione delle azioni correttive.",
+      "C": "Gestione della documentazione.",
+      "D": "Pubblicazione settimanale dei risultati delle analisi."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "I 7 principi includono l'analisi dei pericoli, l'identificazione dei CCP, la definizione dei limiti critici, il monitoraggio, le azioni correttive, la verifica e la documentazione. La pubblicazione dei risultati non è uno dei principi."
+  },
+  {
+    "domanda": "La principale zoonosi (malattia trasmessa da animali a uomo) segnalata in Italia nel 2023 è stata:",
+    "opzioni": {
+      "A": "La campilobatteriosi.",
+      "B": "La listeriosi.",
+      "C": "La salmonellosi.",
+      "D": "La yersiniosi."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Secondo i dati epidemiologici presentati, nel 2023 in Italia la zoonosi più frequente è stata la salmonellosi, a differenza del resto dell'UE dove prevale la campilobatteriosi."
+  },
+  {
+    "domanda": "Quale dei seguenti alimenti è meno a rischio per la trasmissione del botulismo?",
+    "opzioni": {
+      "A": "Conserve casalinghe di verdure sott'olio.",
+      "B": "Pesce affumicato confezionato sottovuoto.",
+      "C": "Marmellata di fragole con molto zucchero.",
+      "D": "Insaccati artigianali non trattati con nitriti."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Clostridium botulinum non si sviluppa in ambienti con alta concentrazione di zuccheri, alta acidità (pH < 4.5) o presenza di nitriti. Le marmellate, essendo sia acide che ricche di zuccheri, sono considerate alimenti sicuri."
+  },
+  {
+    "domanda": "Secondo le evidenze presentate, quale nutriente, abbondante nel pesce grasso, è stato collegato a livelli più bassi di beta-amiloide nel cervello?",
+    "opzioni": {
+      "A": "Vitamina K",
+      "B": "Acidi grassi omega-3",
+      "C": "Beta carotene",
+      "D": "Flavonoidi"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Gli acidi grassi omega-3 sono grassi insaturi sani che sembrano ridurre i livelli di beta-amiloide, la proteina che forma le placche dannose nel cervello delle persone con Alzheimer."
+  },
+  {
+    "domanda": "Quale effetto ha avuto il consumo di due o più porzioni di fragole e mirtilli a settimana in uno studio del 2012?",
+    "opzioni": {
+      "A": "Ha aumentato la velocità di declino della memoria.",
+      "B": "Non ha avuto alcun effetto sulla memoria.",
+      "C": "Ha ritardato il declino della memoria fino a due anni e mezzo.",
+      "D": "Ha migliorato la vista."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Lo studio, basato sui flavonoidi presenti nei frutti di bosco, ha mostrato un significativo ritardo nel declino della memoria nelle donne che ne consumavano regolarmente."
+  },
+  {
+    "domanda": "La dieta MIND è una combinazione di quali altre due diete?",
+    "opzioni": {
+      "A": "Dieta Paleo e Dieta Chetogenica.",
+      "B": "Dieta Mediterranea e Dieta DASH.",
+      "C": "Dieta a Zona e Dieta Atkins.",
+      "D": "Dieta a Basso Contenuto di Grassi e Dieta Vegetariana."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "MIND sta per 'Mediterranean-DASH Diet Intervention for Neurodegenerative Delay'. Combina gli elementi di entrambe le diete per massimizzare i benefici sulla salute cerebrale."
+  },
+  {
+    "domanda": "Quale delle seguenti categorie di alimenti è specificamente enfatizzata dalla dieta MIND, a differenza della dieta Mediterranea generica?",
+    "opzioni": {
+      "A": "Frutta in generale.",
+      "B": "Pesce.",
+      "C": "Verdure a foglia verde e frutti di bosco (berries).",
+      "D": "Olio d'oliva."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "A differenza della dieta Mediterranea che raccomanda la frutta in generale, la dieta MIND pone un'enfasi specifica sul consumo di frutti di bosco (in particolare mirtilli) e verdure a foglia verde per la loro alta concentrazione di composti protettivi per il cervello."
+  },
+  {
+    "domanda": "Quale dei seguenti alimenti NON fa parte dei 10 gruppi di cibi 'brain-healthy' inclusi nella dieta MIND?",
+    "opzioni": {
+      "A": "Verdure a foglia verde.",
+      "B": "Pesce.",
+      "C": "Formaggio.",
+      "D": "Frutti di bosco."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La dieta MIND include 10 gruppi di alimenti da consumare: verdure a foglia verde, altre verdure, noci, frutti di bosco, legumi, cereali integrali, pesce, pollame, olio d'oliva e vino. Il formaggio è invece tra i cibi da limitare."
+  },
+  {
+    "domanda": "Quali sono i 5 gruppi di alimenti 'unhealthy' che la dieta MIND consiglia di limitare o evitare?",
+    "opzioni": {
+      "A": "Carne rossa, burro/margarina, formaggio, pasticcini/dolci e cibi fritti/fast food.",
+      "B": "Pasta, pane, riso, patate e legumi.",
+      "C": "Pesce, pollo, noci, olio d'oliva e vino.",
+      "D": "Latte, yogurt, uova, frutta secca e caffè."
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La dieta MIND identifica specificamente cinque categorie di alimenti da limitare per la loro associazione con un peggioramento della salute cerebrale."
+  },
+  {
+    "domanda": "Perché gli zuccheri aggiunti sono considerati dannosi per la salute del cervello?",
+    "opzioni": {
+      "A": "Perché non contengono calorie.",
+      "B": "Perché stimolano il centro della ricompensa nel cervello in modo simile alle droghe e sono collegati a diabete e obesità.",
+      "C": "Perché migliorano la memoria a lungo termine.",
+      "D": "Perché sono ricchi di fibre."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Gli zuccheri aggiunti hanno un potenziale di dipendenza e contribuiscono a condizioni metaboliche come diabete e obesità, che sono a loro volta dannose per la funzione cognitiva."
+  },
+  {
+    "domanda": "Secondo uno studio del 2015, l'aderenza rigorosa alla dieta MIND ha ridotto il rischio di Alzheimer fino al:",
+    "opzioni": {
+      "A": "15%",
+      "B": "25%",
+      "C": "35%",
+      "D": "53%"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Lo studio ha mostrato una notevole riduzione del rischio (53%) per chi seguiva la dieta in modo rigoroso. Anche un'aderenza moderata ha portato a una riduzione significativa del rischio (35%)."
+  },
+  {
+    "domanda": "Qual è la posizione del testo riguardo l'uso di integratori per la salute del cervello?",
+    "opzioni": {
+      "A": "Sono sempre più efficaci rispetto al cibo.",
+      "B": "Sono in gran parte non testati, le evidenze sono deboli e potrebbero avere effetti collaterali, quindi è meglio ottenere i nutrienti dal cibo.",
+      "C": "Sono raccomandati per tutti, indipendentemente dalla dieta.",
+      "D": "Funzionano solo se combinati con farmaci specifici."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il testo sottolinea che, sebbene molti integratori promettano benefici, l'evidenza scientifica è spesso scarsa o mista. La strategia più sicura ed efficace è ottenere i nutrienti attraverso una dieta sana."
+  },
+  {
+    "domanda": "Qual è la strategia più importante per mantenere un cervello in salute, secondo i nutrizionisti citati nel testo?",
+    "opzioni": {
+      "A": "Consumare un singolo 'superfood' ogni giorno.",
+      "B": "Seguire un modello dietetico sano nel complesso, ricco di frutta, verdura, legumi e cereali integrali.",
+      "C": "Assumere quotidianamente un multivitaminico.",
+      "D": "Evitare completamente i carboidrati."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il testo enfatizza che nessun singolo cibo può garantire un cervello sano. L'approccio più efficace è adottare un modello alimentare equilibrato e vario nel suo insieme."
   }
 ]
