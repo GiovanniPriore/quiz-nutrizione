@@ -2332,11 +2332,11 @@
     "domanda": "In quale regione cerebrale ci sono i centri per il controllo fame-sazietà?",
     "opzioni": {
       "A": "Cervelletto",
-      "B": "Ippocampo",
+      "B": "Ipotalamo",
       "C": "Lobo parietale",
       "D": "Regione occipitale"
     },
-    "risposta_corretta": null,
+    "risposta_corretta": "B",
     "spiegazione": "Nessuna delle opzioni è corretta. Come indicato nelle slide [CT-2025] 05-06.pdf[cite: 10456, 10477], la regione cerebrale principale per il controllo fame-sazietà è l'Ipotalamo, in particolare il nucleo arcuato."
   },
   {
