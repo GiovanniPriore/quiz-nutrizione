@@ -2327,5 +2327,709 @@
     },
     "risposta_corretta": "B",
     "spiegazione": "Il testo enfatizza che nessun singolo cibo può garantire un cervello sano. L'approccio più efficace è adottare un modello alimentare equilibrato e vario nel suo insieme."
+  },
+  {
+    "domanda": "In quale regione cerebrale ci sono i centri per il controllo fame-sazietà?",
+    "opzioni": {
+      "A": "Cervelletto",
+      "B": "Ippocampo",
+      "C": "Lobo parietale",
+      "D": "Regione occipitale"
+    },
+    "risposta_corretta": null,
+    "spiegazione": "Nessuna delle opzioni è corretta. Come indicato nelle slide [CT-2025] 05-06.pdf[cite: 10456, 10477], la regione cerebrale principale per il controllo fame-sazietà è l'Ipotalamo, in particolare il nucleo arcuato."
+  },
+  {
+    "domanda": "Quali sono i sistemi energetici?",
+    "opzioni": {
+      "A": "Sistema aerobico e alattacido",
+      "B": "Sistema anaerobico e alattacido",
+      "C": "Sistema anaerobico alattacido, anaerobico lattacido e aerobico",
+      "D": "Sistema energetico alattacido e aerobico"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Le slide del file [CT-2025] 09.pdf [cite: 11062, 11063, 11064] elencano i tre sistemi energetici utilizzati dal corpo umano: anaerobico alattacido, anaerobico lattacido e aerobico."
+  },
+  {
+    "domanda": "La terapia idropinica in caso di calcolosi renale non è consigliata quando:",
+    "opzioni": {
+      "A": "in caso di recidive di colica renale",
+      "B": "il soggetto è disidratato",
+      "C": "in caso di calcoli di urato",
+      "D": "il soggetto è denutrito"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La slide 64 del file [CT-2025] 11.pdf [cite: 8153] indica che la terapia idropinica (aumento dell'apporto di liquidi) non è consigliata in caso di calcolo incuneato, che è la causa della colica renale. Aumentare i liquidi in questa fase può peggiorare la sintomatologia."
+  },
+  {
+    "domanda": "L'alimentazione in gravidanza",
+    "opzioni": {
+      "A": "riguarda solo la salute del feto",
+      "B": "non va monitorata",
+      "C": "deve curare l'accrescimento solo del feto",
+      "D": "deve essere attenzionata in ogni caso sia per la salute della gestante che dell'embrione prima e del feto dopo"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Le slide 68-75 del file [CT-2025] 05-06.pdf [cite: 11027-11055] evidenziano l'importanza dell'alimentazione per la salute di entrambi, menzionando i fabbisogni energetici, le modifiche metaboliche della madre e la necessità di supplementi (es. acido folico) per prevenire malformazioni fetali."
+  },
+  {
+    "domanda": "Qual è uno degli indici per monitorare l'accrescimento dei bambini?",
+    "opzioni": {
+      "A": "Indice di Kawasaki",
+      "B": "Indice di Bèbè",
+      "C": "Indice di Kwashiorkor",
+      "D": "Indice di Quetelet"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "L'Indice di Quetelet è il nome originale dell'Indice di Massa Corporea (BMI)[cite: 7210]. Il BMI viene ampiamente utilizzato in pediatria, tramite le curve dei percentili, per monitorare l'accrescimento e lo stato nutrizionale del bambino."
+  },
+  {
+    "domanda": "Quali vitamine tra le seguenti sono vitamine liposolubili?",
+    "opzioni": {
+      "A": "Vitamina B1 e B6",
+      "B": "Vitamina A e K",
+      "C": "Vitamina D e K",
+      "D": "Vitamina C"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le slide [CT-2025] 03-04 .pdf [cite: 6268, 6270] e [CT-2025] 10.pdf [cite: 3274] elencano le vitamine liposolubili come A, D, E, K. L'opzione B (A e K) contiene solo vitamine liposolubili. (Anche l'opzione C è corretta, ma la B è la prima valida)."
+  },
+  {
+    "domanda": "Il rene tende a:",
+    "opzioni": {
+      "A": "Non contenere i livelli di sodio",
+      "B": "Espellere il sodio con l'acqua",
+      "C": "Conservare la concentrazione plasmatica di sodio",
+      "D": "Non riassorbire il sodio"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 23 del file [CT-2025] 11.pdf [cite: 7544] spiega che il rene, anche quando la sua funzione è compromessa, \"tende a conservare la concentrazione plasmatica di sodio\" per mantenere l'omeostasi, trattenendo acqua."
+  },
+  {
+    "domanda": "Da cosa è determinato l'aumento o la diminuzione di peso nel corso di una sola giornata?",
+    "opzioni": {
+      "A": "Alle variazioni di acqua",
+      "B": "Ritenzione",
+      "C": "Perdita di proteine muscolari",
+      "D": "Aumento di grasso"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La slide 41 del file [CT-2025] 09.pdf [cite: 11287] afferma che le variazioni di peso giornaliere sono a carico di \"acqua e del glicogeno\". La causa principale sono quindi le fluttuazioni dei liquidi (acqua)."
+  },
+  {
+    "domanda": "Cosa si intende con l'acronimo IRC?",
+    "opzioni": {
+      "A": "Patologie renali",
+      "B": "Allergie e intolleranze",
+      "C": "Patologie intestinali",
+      "D": "Patologie sistemiche"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "L'intero file [CT-2025] 11.pdf è dedicato a questo argomento. La slide 3 definisce l'IRC come \"Insufficienza Renale Cronica\"[cite: 7391], una patologia renale."
+  },
+  {
+    "domanda": "Quali vitamine tra le seguenti sono vitamine idrosolubili?",
+    "opzioni": {
+      "A": "Vitamina A e D",
+      "B": "Vitamina E",
+      "C": "Vitamine D e K",
+      "D": "Vitamine B1 B2"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Le slide [CT-2025] 03-04 .pdf [cite: 6268, 6269] e [CT-2025] 10.pdf [cite: 3275] definiscono le vitamine idrosolubili come la Vitamina C e le vitamine del gruppo B. B1 e B2 appartengono al gruppo B."
+  },
+  {
+    "domanda": "Come viene chiamata anche l'azione dinamica specifica?",
+    "opzioni": {
+      "A": "Energia non dovuta a fisica",
+      "B": "Metabolismo basale",
+      "C": "Metabolismo totale",
+      "D": "Effetto termico degli alimenti"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La slide 35 del file [CT-2025] 09.pdf [cite: 11247] ha come titolo \"Azione dinamico specifica o effetto termico degli alimenti\"."
+  },
+  {
+    "domanda": "In che percentuale è rilevante il colesterolo alimentare nella determinazione del colesterolo attraverso gli esami ematochimici?",
+    "opzioni": {
+      "A": "5%",
+      "B": "10%",
+      "C": "50%",
+      "D": "90%"
+    },
+    "risposta_corretta": null,
+    "spiegazione": "Nessuna delle opzioni è corretta. La slide 13 del file [CT-2025] 12.pdf [cite: 240, 257] indica che il colesterolo introdotto con l'alimentazione (esogeno) rappresenta il 25% del colesterolo ematico totale."
+  },
+  {
+    "domanda": "I prodotti Aproteici alimentari vengono consigliati da:",
+    "opzioni": {
+      "A": "Dietista",
+      "B": "Dietologo",
+      "C": "Nutrizionista",
+      "D": "Medico"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La slide 53 del file [CT-2025] 11.pdf [cite: 7963] specifica che questi prodotti si acquistano \"con la presentazione del piano terapeutico rilasciato dal nefrologo\" e che il nutrizionista non può prescriverli senza il consenso del nefrologo. Il nefrologo è un Medico."
+  },
+  {
+    "domanda": "Per gli stadi 1 e 2 della insufficienza renale cronica:",
+    "opzioni": {
+      "A": "Si considera la riduzione del fabbisogno di grassi",
+      "B": "Si considera la riduzione del fabbisogno di proteine",
+      "C": "Non ci sono indicazioni nutrizionali specifiche",
+      "D": "Si considera la riduzione del fabbisogno di carboidrati"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 48 del file [CT-2025] 11.pdf[cite: 7874, 7875], citando UpToDate, afferma che per gli stadi 1 e 2 (eGFR ≥60 mL/min/1.73 m²) non si suggerisce alcuna modifica dietetica (\"No dietary modification\") e i pazienti devono seguire le raccomandazioni per la popolazione generale."
+  },
+  {
+    "domanda": "Da cosa è costituito il fabbisogno energetico?",
+    "opzioni": {
+      "A": "Attività fisica, processi interni, ambiente",
+      "B": "Processi interni, azione dinamico specifica e attività fisica",
+      "C": "Azione fisica e termogenesi",
+      "D": "Metabolismo basale"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 32 del file [CT-2025] 09.pdf [cite: 11232, 11234, 11236, 11239] scompone il \"Fabbisogno giornaliero\" (fabbisogno energetico) in: \"Processi interni\" (Metabolismo Basale), \"ATTIVITÀ FISICA\" e \"ADS\" (Azione Dinamico Specifica)."
+  },
+  {
+    "domanda": "Cosa viene integrato in gravidanza?",
+    "opzioni": {
+      "A": "Vitamina C",
+      "B": "Vitamina D",
+      "C": "Acido folico",
+      "D": "Vitamina A"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 75 del file [CT-2025] 05-06.pdf [cite: 11030] elenca la \"Supplementazione di acido folico\" come \"Raccomandata\" per prevenire difetti del tubo neurale. Le altre vitamine sono indicate come \"Non raccomandata\" o \"contesto-specifica\"."
+  },
+  {
+    "domanda": "Quanti tipi di grasso esistono?",
+    "opzioni": {
+      "A": "Grasso sottocutaneo ed essenziale",
+      "B": "Grasso essenziale e sottocutaneo",
+      "C": "Grasso sottocutaneo e viscerale",
+      "D": "Grasso sottocutaneo, viscerale, intramuscolare ed essenziale"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La slide 71 del file [CT-2025] 09.pdf [cite: 3058, 3063, 3068, 3075] (e slide 14 del file 10) mostra un grafico che scompone il grasso totale in questi quattro tipi: sottocutaneo, intramuscolare, viscerale ed essenziale."
+  },
+  {
+    "domanda": "Quali fattori vengono considerati per poter parlare di sindrome metabolica?",
+    "opzioni": {
+      "A": "Obesità",
+      "B": "Diabete e sindrome del colon irritabile",
+      "C": "Circonferenza addominale, pressione arteriosa, indice di massa corporea, ipertrigliceridemia e iperglicemia",
+      "D": "Sindrome di Sjogren"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 57 del file [CT-2025] 05-06.pdf [cite: 10901, 10902, 10903, 10905, 10907, 10909] elenca i 5 criteri: Glicemia a digiuno ≥ 100, HDL basso, Trigliceridi ≥ 150, Circonferenza vita elevata e Pressione arteriosa elevata. L'opzione C è quella che più si avvicina a raggruppare questi fattori, sebbene includa l'IMC che non è un criterio diretto, a differenza della circonferenza addominale."
+  },
+  {
+    "domanda": "A cosa servono i sistemi energetici o metabolismi energetici?",
+    "opzioni": {
+      "A": "Meccanismi metabolici attraverso cui il muscolo riesce a ricavare energia",
+      "B": "Meccanismi per perdere energia",
+      "C": "Meccanismi del muscolo per accumulare acidi grassi",
+      "D": "Meccanismi di sintesi proteica"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "Le slide 3-6 del file [CT-2025] 09.pdf [cite: 11062-11070] descrivono i sistemi energetici come i meccanismi (anaerobico alattacido, lattacido e aerobico) che il corpo usa per fornire energia per l'attività muscolare."
+  },
+  {
+    "domanda": "Per quali pazienti è fondamentale l'utilizzo di software nutrizionali per il calcolo dei vari macronutrienti e micronutrienti?",
+    "opzioni": {
+      "A": "Patologie della tiroide",
+      "B": "Patologie renali",
+      "C": "Calcoli alla cistifellea",
+      "D": "Patologie reumatiche"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le slide del file [CT-2025] 11.pdf [cite: 7493-7994] descrivono le complesse restrizioni dietetiche per l'Insufficienza Renale Cronica (IRC), che richiedono un calcolo preciso di proteine (es. 0.6-0.8 g/kg), sodio, fosforo e potassio. Questo livello di precisione rende fondamentale l'uso di software specifici."
+  },
+  {
+    "domanda": "Il metodo di cottura della bollitura dei vegetali:",
+    "opzioni": {
+      "A": "Riduce vitamine idrosolubili e minerali",
+      "B": "Riduce il contenuto di vitamine liposolubili",
+      "C": "Determina la produzione di sostanze tossiche",
+      "D": "Riduce la quota proteica"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La bollitura, ovvero la cottura in acqua, causa la lisciviazione (dispersione) dei nutrienti idrosolubili (come la Vitamina C e le vitamine del gruppo B) nell'acqua di cottura. La slide 48 del file [CT-2025] 10.pdf [cite: 3292] mostra una tabella con le alte percentuali di perdita di Vitamina C (idrosolubile) durante la \"Bollitura\"."
+  },
+  {
+    "domanda": "Il gusto di ciascuno di noi si forma:",
+    "opzioni": {
+      "A": "in età adulta",
+      "B": "in età adolescenziale",
+      "C": "in età fetale",
+      "D": "non è definibile"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 7 del file [CT-2025] 05-06.pdf [cite: 10315, 10318] si intitola \"Il gusto si forma anche durante la gestazione\" e afferma che \"Il gusto e l'avversione per alcuni alimenti nei bambini dipendono anche dall'alimentazione della mamma\"."
+  },
+  {
+    "domanda": "Cosa si intende per proteinuria?",
+    "opzioni": {
+      "A": "Proteine nelle feci",
+      "B": "Diete iperproteiche",
+      "C": "Eliminazione delle proteine dalla dieta",
+      "D": "Proteine nelle urine"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La slide 10 del file [CT-2025] 11.pdf [cite: 7429] definisce la proteinuria come \"la presenza di proteine nelle urine\"."
+  },
+  {
+    "domanda": "Cosa si intende per superfood?",
+    "opzioni": {
+      "A": "Alimenti dimagranti",
+      "B": "Alimenti con potere detossificante",
+      "C": "Alimenti con valenza salutistica detti anche nutraceutici",
+      "D": "Alimenti che facilitano la digestione"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 29 del file [CT-2025] 10.pdf [cite: 3199] definisce il termine \"superfood\" come \"alimenti con valenza salutistica\" e aggiunge che \"Vengono indicati come alimenti nutraceutici\"."
+  },
+  {
+    "domanda": "Le distorsioni cognitive sono:",
+    "opzioni": {
+      "A": "Errori che commettiamo nell'elaborare le informazioni",
+      "B": "Malformazioni cerebrali",
+      "C": "Riflessi spontanei",
+      "D": "Insieme di ricordi dell'infanzia"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "Le slide [CT-2025] 05-06.pdf [cite: 10381] elencano vari tipi di distorsioni cognitive (es. \"Pensiero dicotomico\", \"Catastrofizzare\")[cite: 10382, 10387], che sono errori sistematici nel modo in cui le persone elaborano le informazioni e prendono decisioni."
+  },
+  {
+    "domanda": "La composizione della saliva (mucine, proteine ricche di proline, sodio)",
+    "opzioni": {
+      "A": "influenza la percezione dei gusti",
+      "B": "è indipendente dalla fame",
+      "C": "è correlata all'età dell'individuo",
+      "D": "non varia mai nel corso della giornata"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La slide 2 del file [CT-2025] 05-06.pdf [cite: 10292] afferma che \"La composizione della saliva (mucine, proteine ricche di proline, sodio) hanno un impatto sulla percezione in bocca dei sapori...\"."
+  },
+  {
+    "domanda": "Quali sono i sistemi energetici?",
+    "opzioni": {
+      "A": "Sistema aerobico e alattacido",
+      "B": "Sistema anaerobico e alattacido",
+      "C": "Sistema anaerobico alattacido, anaerobico lattacido e aerobico",
+      "D": "Sistema energetico alattacido e aerobico"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "(Domanda duplicata) Le slide del file [CT-2025] 09.pdf [cite: 11062, 11063, 11064] elencano i tre sistemi energetici utilizzati dal corpo umano: anaerobico alattacido, anaerobico lattacido e aerobico."
+  },
+  {
+    "domanda": "Quale strato (layer) dell'architettura IoT per la sanità è responsabile della raccolta dati diretta dal paziente (es. sensori indossabili)?",
+    "opzioni": {
+      "A": "Cloud Layer",
+      "B": "Fog Layer",
+      "C": "Sensing Layer",
+      "D": "Analytics Layer"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Come mostrato nello schema dell'architettura IoT (slide 3, file [CT-2025] 08.pdf), il 'Sensing Layer' è il livello più basso dove i sensori (Sensors) raccolgono i dati direttamente dal 'Patient' (paziente)[cite: 19937, 19942]."
+  },
+  {
+    "domanda": "Quale delle seguenti è considerata una sfida nell'implementazione dell'IoT in sanità, legata alla gestione di grandi volumi di dati?",
+    "opzioni": {
+      "A": "Privacy and Security",
+      "B": "Cost of Technology",
+      "C": "Multiple Devices Integration",
+      "D": "Overloading and Inaccuracy"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La slide 4 del file [CT-2025] 08.pdf elenca tra le sfide ('Challenges') l'Overloading and Inaccuracy' (Sovraccarico e Inaccuratezza), descrivendola come la \"difficoltà a gestire grandi quantità di dati del paziente\"[cite: 19957, 19961]."
+  },
+  {
+    "domanda": "Cosa si intende per 'Realtà Aumentata' (AR)?",
+    "opzioni": {
+      "A": "Una tecnica che arricchisce la percezione sensoriale sovrapponendo informazioni digitali al mondo reale.",
+      "B": "La creazione di un mondo virtuale completamente immersivo (metaverso).",
+      "C": "Un modello virtuale di un oggetto fisico (digital twin).",
+      "D": "La capacità di un robot di muoversi senza assistenza umana."
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La slide 16 del file [CT-2025] 08.pdf definisce la 'Realtà aumentata' (AR) come una tecnica che \"permette di arricchire la percezione sensoriale degli esseri umani, offrendo informazioni che altrimenti non potrebbero essere percepite\"[cite: 20225, 20226]."
+  },
+  {
+    "domanda": "Quale tecnica di prompting avanzata guida il modello a 'pensare passo dopo passo' per risolvere problemi complessi?",
+    "opzioni": {
+      "A": "Zero-shot prompting",
+      "B": "Few-shot prompting",
+      "C": "Chain-of-Thought (CoT) prompting",
+      "D": "RAG (Retrieval Augmented Generation)"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Questo concetto si basa sulla conoscenza generale dell'IA. Il 'Chain-of-Thought' (Catena di Pensiero) è una tecnica di prompting in cui si chiede al modello di esplicitare i passaggi di ragionamento intermedi, migliorando l'accuratezza nelle risposte a problemi logici o matematici."
+  },
+  {
+    "domanda": "Cosa si intende per 'Bias Algoritmico' nel contesto dell'IA?",
+    "opzioni": {
+      "A": "La tendenza di un'IA a generare informazioni false o 'allucinazioni'.",
+      "B": "La capacità di un'IA di apprendere da dati non etichettati.",
+      "C": "La perpetuazione di pregiudizi umani (es. genere, razza) da parte dell'IA, appresi dai dati di addestramento.",
+      "D": "Un errore nel codice sorgente dell'algoritmo."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 30 del file [CT-2025] 08.pdf affronta il tema dei 'Stereotipi e bias di genere nell'AI', spiegando che i modelli possono \"perpetuare e/o amplificare pregiudizi\" perché il loro comportamento \"riflette... situazioni codificate (e latenti) nei dati utilizzati per l'addestramento\"[cite: 20571, 20572]."
+  },
+  {
+    "domanda": "Cosa indica il parametro PhA (Phase Angle - Angolo di Fase) nell'analisi bioimpedenziometrica (BIA)?",
+    "opzioni": {
+      "A": "La quantità totale di acqua corporea.",
+      "B": "Un indicatore dell'integrità, funzione e composizione delle membrane cellulari.",
+      "C": "Il metabolismo basale (BMR).",
+      "D": "La percentuale di massa grassa (FM)."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 13 del file [CT-2025] 03-04.pdf definisce il PhA (Phase Angle) come un parametro elettrico che \"riflette l'integrità, funzione e composizione\" delle membrane cellulari[cite: 18663, 18672]."
+  },
+  {
+    "domanda": "Quale disturbo alimentare è caratterizzato da un comportamento ciclico di abbuffate seguito da condotte di eliminazione (es. vomito)?",
+    "opzioni": {
+      "A": "Anoressia nervosa",
+      "B": "Fame edonica",
+      "C": "Bulimia nervosa",
+      "D": "ARFID (Disturbo evitante/restrittivo)"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 25 del file [CT-2025] 03-04.pdf definisce la 'bulimia nervosa' come un disturbo \"caratterizzata da un comportamento ciclico di abbuffate e uso di lassativi o vomito autoindotto\"[cite: 18822, 18823]."
+  },
+  {
+    "domanda": "Qual è la differenza fondamentale tra 'nutrirsi' e 'alimentarsi'?",
+    "opzioni": {
+      "A": "Sono sinonimi, non c'è differenza.",
+      "B": "Nutrirsi risponde a esigenze fisiologiche, alimentarsi a esigenze psicologiche.",
+      "C": "Nutrirsi è un atto involontario, alimentarsi è volontario.",
+      "D": "Nutrirsi riguarda i macronutrienti, alimentarsi i micronutrienti."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 5 del file [CT-2025] 05-06.pdf (e slide 98 del file 03-04) distingue i due termini: \"Nutrirsi risponde a delle esigenze fisiologiche, alimentarsi a delle esigenze psicologiche\"[cite: 19897, 21577]."
+  },
+  {
+    "domanda": "Quale ormone, prodotto principalmente dallo stomaco, ha una potente funzione ORESSIZZANTE (stimola la fame)?",
+    "opzioni": {
+      "A": "Leptina",
+      "B": "Insulina",
+      "C": "Grelina",
+      "D": "Peptide YY (PYY)"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Lo schema nella slide 23 del file [CT-2025] 05-06.pdf mostra la 'Ghrelin' (Grelina) prodotta dallo 'Stomach' (stomaco) che invia un segnale 'Orexigenic' (oressigeno, che stimola la fame)[cite: 21764, 21776, 21779]."
+  },
+  {
+    "domanda": "Quali neuroni nel nucleo arcuato dell'ipotalamo hanno una funzione ANORESSIGENA (inibiscono l'assunzione di cibo)?",
+    "opzioni": {
+      "A": "NPY e AgRP",
+      "B": "POMC e CART",
+      "C": "Grelina e Leptina",
+      "D": "Dopamina e Serotonina"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le slide 22 e 27 del file [CT-2025] 05-06.pdf identificano due popolazioni neuronali nel nucleo arcuato: quelli oressigeni (NPY e AgRP) e quelli \"che inibiscono l'assunzione di cibo (anoressigeni)\", ovvero i neuropeptidi pro-opiomelanocortinici (POMC) e CART[cite: 21756, 21813]."
+  },
+  {
+    "domanda": "L'intolleranza al lattosio è causata principalmente da:",
+    "opzioni": {
+      "A": "Un'allergia alle proteine del latte (caseine).",
+      "B": "Un deficit dell'enzima lattasi, che scinde il lattosio in glucosio e galattosio.",
+      "C": "Una reazione autoimmune scatenata dal glutine.",
+      "D": "Una crescita eccessiva di batteri nell'intestino tenue."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 37 del file [CT-2025] 07.pdf definisce l'intolleranza al lattosio come un \"Deficit dell' enzima LATTASI\", specificando che questo enzima è quello \"in grado di tagliare il legame glicosidico tra glucosio e galattosio\"[cite: 15937, 15938]."
+  },
+  {
+    "domanda": "In quale tratto dell'intestino avviene principalmente l'assorbimento della Vitamina B12?",
+    "opzioni": {
+      "A": "Stomaco",
+      "B": "Duodeno",
+      "C": "Digiuno",
+      "D": "Ileo"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Lo schema nella slide 38 del file [CT-2025] 07.pdf mostra che l'assorbimento della \"Vitamin B12\" avviene nell'\"Ileum\" (Ileo)[cite: 15992]. Anche la slide 114 del file [CT-2025] 10 conferma che è \"assorbita nell'ileo\"[cite: 16684]."
+  },
+  {
+    "domanda": "Cosa si intende per 'Leucocitosi digestiva', secondo gli studi di Paul Kouchakoff?",
+    "opzioni": {
+      "A": "Un'infezione batterica dello stomaco.",
+      "B": "Un aumento dei globuli bianchi (infiammazione) dopo l'assunzione di cibi cotti.",
+      "C": "La digestione delle proteine da parte dei leucociti.",
+      "D": "Un'allergia alimentare ai latticini."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 78 del file [CT-2025] 07.pdf descrive la 'Leucocitosi digestiva' come un fenomeno che \"si verifica nel nostro organismo dopo circa 30-40 minuti dall'assunzione di cibi cotti\", causando un \"aumento del numero di globuli bianchi nel sangue, e di conseguenza l'infiammazione\"[cite: 16395, 16397]."
+  },
+  {
+    "domanda": "Quali sono i tre stimoli principali che, secondo le slide, determinano l'ipertrofia muscolare?",
+    "opzioni": {
+      "A": "Riposo, idratazione e sonno.",
+      "B": "Tensione meccanica, stress metabolico e danno muscolare.",
+      "C": "Assunzione di carboidrati, grassi e proteine.",
+      "D": "Integrazione di creatina, BCAA e Vitamina D."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 10 del file [CT-2025] 09.pdf elenca i tre fattori che determinano l'ipertrofia muscolare: 'Tensione meccanica' (carico), 'Stress metabolico' (accumulo di lattato) e 'Danno muscolare' (microlacerazioni)[cite: 14163, 14167, 14174]."
+  },
+  {
+    "domanda": "Cosa è sconsigliato assumere subito dopo l'allenamento per non attenuare la risposta adattativa (stress ossidativo) del corpo?",
+    "opzioni": {
+      "A": "Proteine in polvere (Whey)",
+      "B": "Carboidrati liquidi (Maltodestrine)",
+      "C": "Antiossidanti e vitamine",
+      "D": "Creatina monoidrato"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 20 del file [CT-2025] 09.pdf afferma: \"L'unica cosa da non assumere nel post allenamento sono antiossidanti e vitamine\", perché lo stress ossidativo è una \"risposta adattativa del nostro corpo\"[cite: 14237, 14238]."
+  },
+  {
+    "domanda": "Qual è la principale differenza tra le proteine Whey idrolizzate, isolate e concentrate?",
+    "opzioni": {
+      "A": "La velocità di assimilazione (le idrolizzate sono le più veloci).",
+      "B": "Il contenuto di carboidrati (le concentrate ne hanno di più).",
+      "C": "L'origine (animale vs vegetale).",
+      "D": "Il valore biologico (le idrolizzate lo hanno più basso)."
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La slide 22 del file [CT-2025] 09.pdf mostra che le Whey idrolizzate vengono assimilate in '15-40 minuti', le isolate in '30 minuti un ora', e le concentrate in '1h 1 ora e mezza', evidenziando la velocità di assimilazione come differenza chiave [cite: 14245-14251]."
+  },
+  {
+    "domanda": "Qual è la definizione di NEAT (Non-Exercise Activity Thermogenesis)?",
+    "opzioni": {
+      "A": "L'energia spesa per digerire il cibo (ADS).",
+      "B": "Il consumo energetico di tutte le attività giornaliere non legate allo sport (camminare, gesticolare, pulire casa).",
+      "C": "Il metabolismo basale durante il sonno.",
+      "D": "Il dispendio calorico dell'esercizio fisico programmato (TEA)."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 34 del file [CT-2025] 09.pdf definisce il NEAT come \"termogenesi non dovuta all'esercizio fisico, ovvero il consumo energetico di tutte le attività giornaliere come camminare, pulire casa ecc\"[cite: 14313]."
+  },
+  {
+    "domanda": "Qual è la differenza tra 'set point' e 'settling point'?",
+    "opzioni": {
+      "A": "Il set point è il peso ideale, il settling point è il peso attuale.",
+      "B": "Il set point è il peso geneticamente predeterminato, mentre il settling point è l'equilibrio che si raggiunge in base allo stile di vita.",
+      "C": "Sono la stessa cosa, indicano entrambi la massa grassa.",
+      "D": "Il set point è la temperatura corporea, il settling point è il peso."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 7 del file [CT-2025] 10.pdf (e slide 64 del file 09) spiega che il 'set point' è un peso che l'organismo tende a mantenere (come se fosse predeterminato), mentre il 'settling point' è l'equilibrio metabolico-ormonale che si modifica in base allo stile di vita[cite: 17313, 17314]."
+  },
+  {
+    "domanda": "Quali recettori adrenergici, prevalenti nel 'grasso ostinato', hanno un'azione anti-lipolitica (bloccano il rilascio di grassi)?",
+    "opzioni": {
+      "A": "Recettori Alpha (α)",
+      "B": "Recettori Beta (β)",
+      "C": "Recettori GLUT4",
+      "D": "Recettori della Leptina"
+    },
+    "risposta_corretta": "A",
+    "spiegazione": "La slide 12 del file [CT-2025] 10.pdf (e slide 69 del file 09) mostra che i recettori Alpha (α) sono il 'rubinetto' che fa entrare gli acidi grassi, mentre i Beta (β) li fanno uscire. La slide 13 conferma che \"Dove c'è grasso ostinato riseidono maggiormente recettori alpha\" [cite: 17327-17333]."
+  },
+  {
+    "domanda": "Cosa si intende per 'resistenza anabolica' nell'anziano?",
+    "opzioni": {
+      "A": "L'aumento della forza muscolare nonostante l'età.",
+      "B": "La difficoltà a digerire i carboidrati.",
+      "C": "Una minore capacità di assorbire e utilizzare le proteine per la sintesi muscolare, che richiede un apporto proteico maggiore.",
+      "D": "L'incapacità di utilizzare i grassi come fonte di energia."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 19 del file [CT-2025] 10.pdf (e slide 76 del file 09) spiega che nell'anziano c'è una \"minore capacità di assorbimento e utilizzazione delle proteine\" e una \"vera e propria resistenza anabolica... post prandiale\", che richiede un apporto proteico maggiore (es. 1.2-1.5 g/kg/die) per stimolare la sintesi [cite: 17395-17399]."
+  },
+  {
+    "domanda": "Quale aminoacido è particolarmente importante per attivare la via metabolica mTOR e stimolare la sintesi proteica muscolare?",
+    "opzioni": {
+      "A": "Glutammina",
+      "B": "Arginina",
+      "C": "Leucina",
+      "D": "Triptofano"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 25 del file [CT-2025] 10.pdf (e slide 82 del file 09) afferma che \"La leucina attiva mTOR che è di vitale importanza per l'ipertrofia muscolare\"[cite: 17461]."
+  },
+  {
+    "domanda": "Oltre all'equilibrio idro-salino e al controllo pressorio, quale ormone produce il rene per stimolare la produzione di globuli rossi?",
+    "opzioni": {
+      "A": "Insulina",
+      "B": "Cortisolo",
+      "C": "Eritropoietina",
+      "D": "Vitamina D (Calcitriolo)"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 2 del file [CT-2025] 11.pdf elenca tra le funzioni del rene l'\"Eritropoiesi (Eritropoietina)\"[cite: 22342]."
+  },
+  {
+    "domanda": "Quale marker della funzione renale, a differenza della creatinina, non è influenzato dalla massa muscolare, dall'etnia o dalla dieta?",
+    "opzioni": {
+      "A": "Azotemia (Urea)",
+      "B": "Cistatina C",
+      "C": "Beta-2 microglobulina (B2M)",
+      "D": "Albumina"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 45 del file [CT-2025] 11.pdf spiega che \"A differenza della creatinina, la cistatina C non risente della massa muscolare (sesso o età), dell'etnia o della dieta\"[cite: 22759, 22760]."
+  },
+  {
+    "domanda": "Perché una dieta povera di calcio (ipocalcica) può paradossalmente aumentare il rischio di calcoli di ossalato di calcio?",
+    "opzioni": {
+      "A": "Perché il rene riassorbe più calcio per compensare.",
+      "B": "Perché con poco calcio nell'intestino, l'ossalato non viene legato e viene assorbito in maggior quantità.",
+      "C": "Perché la dieta ipocalcica è sempre iperproteica.",
+      "D": "Perché il corpo produce più ossalato per compensare la carenza di calcio."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 66 del file [CT-2025] 11.pdf spiega che \"una dieta troppo povera di calcio, fa in modo che il calcio non leghi più l'ossalato intestinale, contribuendo ad un maggiore assorbimento\" di quest'ultimo[cite: 23174]. Anche la slide 67 conferma questo meccanismo[cite: 23184]."
+  },
+  {
+    "domanda": "Quale vitamina, se assunta in dosaggi molto elevati, può aumentare la concentrazione di ossalato nelle urine?",
+    "opzioni": {
+      "A": "Vitamina D",
+      "B": "Vitamina B6",
+      "C": "Vitamina C",
+      "D": "Vitamina K"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 69 del file [CT-2025] 11.pdf avverte di EVITARE la \"Vitamina C a dosaggi elevati > 20 grammi/die\", perché \"aumenta la concentrazione di ossalato all'interno dell' urina perché l'acido ascorbico stesso viene metabolizzato in ossalato\"[cite: 23210]."
+  },
+  {
+    "domanda": "Secondo le linee guida ESC/EAS 2019, qual è l'obiettivo di colesterolo LDL per un paziente a rischio cardiovascolare 'molto alto'?",
+    "opzioni": {
+      "A": "< 100 mg/dL",
+      "B": "< 70 mg/dL",
+      "C": "< 55 mg/dL",
+      "D": "< 116 mg/dL"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 2 del file [CT-2025] 12.pdf, nella Tabella 7, indica per il rischio 'Very-high' (molto alto) un \"LDL-C goal of < 1.4 mmol/L (< 55 mg/dL)\"[cite: 11635]."
+  },
+  {
+    "domanda": "Qual è il meccanismo d'azione della Monacolina K, principio attivo del lievito di riso rosso?",
+    "opzioni": {
+      "A": "Competere con l'assorbimento intestinale del colesterolo.",
+      "B": "Aumentare l'escrezione di acidi biliari.",
+      "C": "Mimare l'effetto delle statine, inibendo l'HMG-CoA reduttasi.",
+      "D": "Ridurre l'assorbimento dei trigliceridi."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 6 del file [CT-2025] 12.pdf afferma che gli effetti ipolipemizzanti della Monacolina \"mimano quelli delle statine\"[cite: 11726]. La slide 38 conferma che la Monacolina inibisce l'HMG-CoA reduttasi, lo stesso enzima bersaglio delle statine[cite: 12729, 12735]."
+  },
+  {
+    "domanda": "Secondo lo studio PURE, un alto consumo (es. >60%) di quale macronutriente è associato a un *aumento* della mortalità totale?",
+    "opzioni": {
+      "A": "Grassi saturi",
+      "B": "Grassi monoinsaturi",
+      "C": "Proteine",
+      "D": "Carboidrati"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La slide 24 del file [CT-2025] 12.pdf, riassumendo lo studio PURE, afferma che \"Consumare il 60% di Carboidrati nella dieta, aumenta la mortalità generale\"[cite: 12142]."
+  },
+  {
+    "domanda": "Quale dei seguenti è considerato il principale meccanismo che spiega la miopatia (dolori muscolari) indotta dalle statine?",
+    "opzioni": {
+      "A": "Un accumulo di acido lattico nei muscoli.",
+      "B": "Il blocco della sintesi del Coenzima Q10 e del precursore della Vitamina D.",
+      "C": "Una reazione allergica diretta al tessuto muscolare.",
+      "D": "L'aumento dei livelli di cortisolo."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le slide 43, 44 e 45 del file [CT-2025] 12.pdf spiegano che le statine bloccano l'HMG-CoA reduttasi [cite: 12869], inibendo non solo il colesterolo ma anche la sintesi di Coenzima Q10 [cite: 12894, 12938] e del 7-deidro-colesterolo (precursore Vit. D)[cite: 12927, 12928]. La carenza di entrambi è collegata alla miopatia[cite: 12930, 12978]."
+  },
+  {
+    "domanda": "Un elevato rapporto Trigliceridi / Colesterolo HDL è considerato un marker surrogato (indiretto) di quale condizione metabolica?",
+    "opzioni": {
+      "A": "Ipotiroidismo",
+      "B": "Insulino-resistenza e iperinsulinemia",
+      "C": "Carenza di Vitamina D",
+      "D": "Malattia renale cronica"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 18 del file [CT-2025] 12.pdf definisce il \"Rapporto trigliceridi/colesterolo HDL\" (con valore ottimale < 1,8-2) come un parametro che \"esprime l'insulino resistenza e l'iperinsulinemia nel cardiopatico\"[cite: 11964]."
+  },
+  {
+    "domanda": "Quale metabolita, prodotto dal microbiota intestinale a partire dalla colina (fosfatidilcolina) presente negli alimenti, è associato a un aumento del rischio di aterosclerosi?",
+    "opzioni": {
+      "A": "SCFA (Acidi grassi a catena corta)",
+      "B": "Butirrato",
+      "C": "TMAO (Trimetilammina-N-ossido)",
+      "D": "LPS (Lipopolisaccaride)"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Lo schema nella slide 29 del file [CT-2025] 12.pdf mostra come il microbiota trasforma la 'Fosfatidilcolina' in 'TMA', che nel fegato ('Hepatic FMOs') diventa 'TMAO', il quale è direttamente collegato all'\"Aterosclerosi\"[cite: 12294, 12295, 12296, 12297, 12298, 12304]."
+  },
+  {
+    "domanda": "Quale caratteristica rende la tossina prodotta da *Staphylococcus aureus* particolarmente pericolosa nelle intossicazioni alimentari?",
+    "opzioni": {
+      "A": "È una neurotossina che causa paralisi.",
+      "B": "Cresce solo in assenza di ossigeno.",
+      "C": "È termostabile e resiste alle normali temperature di cottura.",
+      "D": "È un virus e non un batterio."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 39 del file [CT-2025] 13.pdf specifica che l'Enterotossina stafilococcica è \"termostabile (resiste a 121°C per circa 5-10 minuti, non distrutta quindi dalle normali condizioni di cottura dell'alimento)\"[cite: 18281]."
+  },
+  {
+    "domanda": "La sindrome emetica (vomito) da *Bacillus cereus* è tipicamente associata al consumo di quale alimento, se cotto e conservato in modo errato?",
+    "opzioni": {
+      "A": "Carne di maiale cruda",
+      "B": "Conserve sott'olio casalinghe",
+      "C": "Molluschi crudi",
+      "D": "Alimenti a base di amido, come il riso"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La slide 41 del file [CT-2025] 13.pdf indica che il *B. cereus* è associato a \"numerosi cibi come gli alimenti a base di riso e alimenti con amido (ad esempio patate, pasta)\"[cite: 18293]. La sindrome emetica è causata dalla tossina preformata in questi cibi se lasciati a temperatura ambiente[cite: 18297, 18300]."
+  },
+  {
+    "domanda": "Quale caratteristica rende *Listeria monocytogenes* un pericolo significativo per i cibi pronti al consumo (Ready-to-eat) refrigerati?",
+    "opzioni": {
+      "A": "Produce una tossina neurotossica molto potente.",
+      "B": "Sopravvive e si moltiplica a temperature di refrigerazione (es. 4°C).",
+      "C": "È resistente all'acidità dello stomaco.",
+      "D": "Forma spore resistenti al calore."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 33 del file [CT-2025] 13.pdf specifica che *L. monocytogenes* \"sopravvive a temperature di refrigerazione (ad esempio all'interno dei comuni frigoriferi)\", rendendola pericolosa per gli alimenti refrigerati[cite: 18236]."
+  },
+  {
+    "domanda": "La Sindrome Emolitico Uremica (SEU), una grave complicanza renale, è associata all'infezione da quale batterio?",
+    "opzioni": {
+      "A": "Salmonella typhimurium",
+      "B": "Staphylococcus aureus",
+      "C": "Escherichia coli produttore di verocitotossina (VTEC/EHEC)",
+      "D": "Clostridium botulinum"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 44 del file [CT-2025] 13.pdf spiega che *E. coli O157:H7* (un VTEC) \"può dare come complicazione la Sindrome Emolitico Uremica (SEU)\"[cite: 18318]."
+  },
+  {
+    "domanda": "Qual è il metodo di prevenzione domestica più efficace per uccidere le larve di *Anisakis* nel pesce destinato al consumo crudo?",
+    "opzioni": {
+      "A": "Marinarlo in aceto o limone per 24 ore.",
+      "B": "Affumicarlo a freddo.",
+      "C": "Congelarlo a -18°C per almeno 96 ore.",
+      "D": "Sciacquarlo abbondantemente con acqua salata."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La slide 55 del file [CT-2025] 13.pdf indica che per il consumo di pesce crudo (sushi, carpacci, etc.) la procedura domestica prevista è \"la conservazione per almeno 96 ore a -18°C\"[cite: 18398]."
+  },
+  {
+    "domanda": "Cosa si intende per 'contaminazione crociata' (cross-contamination)?",
+    "opzioni": {
+      "A": "La contaminazione di un alimento con un allergene.",
+      "B": "Il passaggio di microrganismi da un alimento crudo a un alimento cotto, spesso tramite utensili, mani o superfici.",
+      "C": "La crescita di batteri in un alimento conservato male.",
+      "D": "La presenza di microrganismi sia utili che patogeni nello stesso alimento."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 58 del file [CT-2025] 13.pdf definisce la contaminazione crociata (o secondaria) come \"prevenzione della ricontaminazione\"[cite: 18443]. Un esempio classico, non nelle slide ma di conoscenza comune, è usare lo stesso tagliere per il pollo crudo e poi per l'insalata."
   }
 ]
