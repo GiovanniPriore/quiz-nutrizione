@@ -2453,12 +2453,12 @@
     "domanda": "In che percentuale è rilevante il colesterolo alimentare nella determinazione del colesterolo attraverso gli esami ematochimici?",
     "opzioni": {
       "A": "5%",
-      "B": "10%",
+      "B": "25%",
       "C": "50%",
       "D": "90%"
     },
-    "risposta_corretta": null,
-    "spiegazione": "Nessuna delle opzioni è corretta. La slide 13 del file [CT-2025] 12.pdf [cite: 240, 257] indica che il colesterolo introdotto con l'alimentazione (esogeno) rappresenta il 25% del colesterolo ematico totale."
+    "risposta_corretta": "B",
+    "spiegazione": "La slide 13 del file [CT-2025] 12.pdf [cite: 240, 257] indica che il colesterolo introdotto con l'alimentazione (esogeno) rappresenta il 25% del colesterolo ematico totale."
   },
   {
     "domanda": "I prodotti Aproteici alimentari vengono consigliati da:",
