@@ -6064,5 +6064,291 @@
     },
     "risposta_corretta": "B",
     "spiegazione": "La slide 58 del file [CT-2025] 13.pdf definisce la contaminazione crociata (o secondaria) come \"prevenzione della ricontaminazione\". Un esempio classico, non nelle slide ma di conoscenza comune, è usare lo stesso tagliere per il pollo crudo e poi per l'insalata."
+  },
+   {
+    "domanda": "Come vengono classificati i microrganismi normalmente innocui che possono causare malattie in persone con difese immunitarie indebolite?",
+    "opzioni": {
+      "A": "Patogeni",
+      "B": "Utili",
+      "C": "Opportunisti",
+      "D": "Alteranti"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I microrganismi opportunisti sono quelli che approfittano di una condizione di debolezza dell'ospite (es. difese organiche indebolite) per causare una malattia, pur non essendo tipicamente patogeni."
+  },
+  {
+    "domanda": "Un microrganismo che causa una malattia solo in un individuo immunocompromesso è definito:",
+    "opzioni": {
+      "A": "Patogeno primario",
+      "B": "Commensale",
+      "C": "Opportunista",
+      "D": "Saprofita"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I microrganismi opportunisti sono quelli che approfittano di una condizione di debolezza dell'ospite (es. difese organiche indebolite) per causare una malattia, pur non essendo tipicamente patogeni."
+  },
+  {
+    "domanda": "Quale delle seguenti sostanze tossiche possono produrre alcune muffe, come quelle del genere Aspergillus, in determinate condizioni?",
+    "opzioni": {
+      "A": "Enterotossine",
+      "B": "Micotossine",
+      "C": "Neurotossine",
+      "D": "Endotossine"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le muffe, in particolari condizioni di temperatura e umidità, possono produrre metaboliti tossici chiamati micotossine, pericolosi per la salute umana e animale."
+  },
+  {
+    "domanda": "I generi di muffe Penicillium e Aspergillus sono di particolare interesse alimentare perché, oltre ad essere usati in alcune produzioni (es. formaggi erborinati), possono produrre:",
+    "opzioni": {
+      "A": "Vitamine del gruppo B",
+      "B": "Composti tossici noti come micotossine",
+      "C": "Enzimi per la lievitazione",
+      "D": "Alcol etilico"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le muffe, in particolari condizioni di temperatura e umidità, possono produrre metaboliti tossici chiamati micotossine, pericolosi per la salute umana e animale."
+  },
+  {
+    "domanda": "I lieviti appartenenti al genere Saccharomyces sono di grande interesse nel campo alimentare perché sono i principali responsabili di quale processo?",
+    "opzioni": {
+      "A": "La produzione di antibiotici",
+      "B": "La fermentazione lattica",
+      "C": "La fermentazione alcolica",
+      "D": "L'alterazione del colore degli alimenti"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I saccaromiceti sono i lieviti utilizzati per la fermentazione alcolica nella produzione di bevande come birra e vino, e per la lievitazione del pane."
+  },
+  {
+    "domanda": "Quale gruppo di microrganismi unicellulari è responsabile della produzione di alcol e anidride carbonica in alimenti e bevande come birra, vino e pane?",
+    "opzioni": {
+      "A": "Muffe",
+      "B": "Batteri lattici",
+      "C": "Lieviti",
+      "D": "Virus"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I saccaromiceti sono i lieviti utilizzati per la fermentazione alcolica nella produzione di bevande come birra e vino, e per la lievitazione del pane."
+  },
+  {
+    "domanda": "Quale caratteristica fondamentale definisce i virus come 'parassiti obbligati'?",
+    "opzioni": {
+      "A": "La loro capacità di sopravvivere in ambienti estremi.",
+      "B": "L'assenza di strutture proprie per il metabolismo, che li costringe a sfruttare una cellula ospite per replicarsi.",
+      "C": "La presenza di un capside proteico.",
+      "D": "La loro dimensione estremamente piccola, visibile solo al microscopio elettronico."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "I virus non possiedono un proprio metabolismo e devono necessariamente infettare una cellula ospite per potersi riprodurre, sfruttandone le strutture e i meccanismi."
+  },
+  {
+    "domanda": "Perché i virus non possono riprodursi autonomamente ma devono infettare una cellula vivente?",
+    "opzioni": {
+      "A": "Perché non hanno un materiale genetico (DNA o RNA).",
+      "B": "Perché sono troppo grandi per duplicarsi da soli.",
+      "C": "Perché mancano delle strutture metaboliche necessarie alla replicazione.",
+      "D": "Perché non possiedono un capside esterno."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "I virus non possiedono un proprio metabolismo e devono necessariamente infettare una cellula ospite per potersi riprodurre, sfruttandone le strutture e i meccanismi."
+  },
+  {
+    "domanda": "La colorazione di Gram è una tecnica usata per classificare i batteri. Qual è la differenza di colore finale tra batteri gram-positivi e gram-negativi?",
+    "opzioni": {
+      "A": "I gram-positivi sono verdi, i gram-negativi sono rossi.",
+      "B": "I gram-positivi sono blu/viola, i gram-negativi sono rosa/rossi.",
+      "C": "I gram-positivi sono incolori, i gram-negativi sono blu.",
+      "D": "Entrambi appaiono dello stesso colore viola."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Nella colorazione di Gram, i batteri gram-positivi trattengono il primo colorante (cristalvioletto) e appaiono blu/viola, mentre i gram-negativi lo perdono e vengono ricolorati dal secondo colorante (fucsina), apparendo rosa/rossi."
+  },
+  {
+    "domanda": "Cosa permette di differenziare i batteri in gram-positivi e gram-negativi?",
+    "opzioni": {
+      "A": "La loro forma (cocchi o bacilli).",
+      "B": "La loro capacità di resistere al calore.",
+      "C": "Una tecnica di colorazione che evidenzia differenze nella loro parete cellulare.",
+      "D": "Il tipo di metabolismo (aerobio o anaerobio)."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La colorazione di Gram è una tecnica differenziale che si basa sulla diversa struttura e composizione della parete cellulare dei batteri, permettendo di classificarli in due grandi gruppi."
+  },
+  {
+    "domanda": "Qual è la differenza fondamentale tra un'infezione e un'intossicazione alimentare?",
+    "opzioni": {
+      "A": "L'infezione è causata da virus, l'intossicazione da batteri.",
+      "B": "L'infezione è causata dall'ingestione del microrganismo vivo, l'intossicazione dall'ingestione della tossina che ha preformato nell'alimento.",
+      "C": "L'intossicazione ha un'incubazione più lunga dell'infezione.",
+      "D": "Non c'è nessuna differenza, i termini sono sinonimi."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Nell'infezione, il patogeno vivo si moltiplica nel corpo causando la malattia. Nell'intossicazione, la malattia è causata dalla tossina già presente nel cibo, anche se il batterio che l'ha prodotta non è più vivo."
+  },
+  {
+    "domanda": "Se una malattia alimentare è causata dall'ingestione di una tossina già presente nel cibo, si parla di intossicazione. Se invece è causata dalla moltiplicazione del microrganismo vivo nel corpo, si parla di:",
+    "opzioni": {
+      "A": "Tossinfezione.",
+      "B": "Infezione.",
+      "C": "Allergia.",
+      "D": "Contaminazione."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Nell'infezione, il patogeno vivo si moltiplica nel corpo causando la malattia. Nell'intossicazione, la malattia è causata dalla tossina già presente nel cibo, anche se il batterio che l'ha prodotta non è più vivo."
+  },
+  {
+    "domanda": "Cosa si intende per 'dose infettante' in una tossinfezione alimentare?",
+    "opzioni": {
+      "A": "La quantità di tossina prodotta da un singolo batterio.",
+      "B": "La quantità minima di microrganismi necessaria per causare la malattia.",
+      "C": "La gravità dei sintomi manifestati dall'ospite.",
+      "D": "Il tempo di incubazione della malattia."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La dose infettante è la quantità minima di un agente patogeno (espressa in numero di cellule) che, una volta ingerita, è in grado di sopraffare le difese dell'ospite e determinare la malattia."
+  },
+  {
+    "domanda": "La suscettibilità a una tossinfezione dipende anche dalle 'difese dell'ospite'. Cosa significa?",
+    "opzioni": {
+      "A": "Che la malattia dipende solo dal tipo di alimento consumato.",
+      "B": "Che le persone con un sistema immunitario più debole possono ammalarsi anche con dosi infettanti molto basse.",
+      "C": "Che è necessario assumere antibiotici preventivamente.",
+      "D": "Che la cottura elimina sempre qualsiasi rischio."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le difese dell'ospite (età, stato immunitario) sono cruciali. Individui più vulnerabili, come bambini, anziani e immunocompromessi, possono sviluppare la malattia anche con una carica batterica molto bassa."
+  },
+  {
+    "domanda": "La campilobatteriosi, una delle zoonosi più diffuse, è più frequentemente associata al consumo di quale alimento poco cotto o ricontaminato?",
+    "opzioni": {
+      "A": "Carne di maiale.",
+      "B": "Uova.",
+      "C": "Carne di pollame.",
+      "D": "Conserve vegetali."
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "Il pollame è considerato il principale serbatoio di Campylobacter. L'infezione umana è spesso legata al consumo di carni di pollo crude o poco cotte, o alla contaminazione crociata da queste."
+  },
+  {
+    "domanda": "Quale batterio a forma di bastoncino ricurvo (elicoidale) è una delle cause più comuni di gastroenterite a livello mondiale ed è spesso trasmesso tramite il pollame?",
+    "opzioni": {
+      "A": "Salmonella enteritidis",
+      "B": "Campylobacter jejuni",
+      "C": "Listeria monocytogenes",
+      "D": "Yersinia enterocolitica"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Campylobacter jejuni è la specie più comune di Campylobacter, un batterio di forma elicoidale che è un'importante causa di zoonosi, principalmente veicolata dal pollame."
+  },
+  {
+    "domanda": "La yersiniosi, una malattia gastrointestinale, è principalmente associata al consumo di quale alimento crudo o poco cotto?",
+    "opzioni": {
+      "A": "Pesce",
+      "B": "Carne suina e derivati",
+      "C": "Frutti di bosco",
+      "D": "Latte pastorizzato"
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La carne di maiale, in particolare quella cruda o poco cotta, è considerata la principale fonte di infezione da Yersinia enterocolitica per l'uomo."
+  },
+  {
+    "domanda": "Quale caratteristica rende Yersinia enterocolitica un patogeno insidioso per gli alimenti refrigerati?",
+    "opzioni": {
+      "A": "Produce una tossina termostabile.",
+      "B": "È in grado di crescere a temperature di refrigerazione (4°C).",
+      "C": "È resistente a pH molto acidi.",
+      "D": "Forma spore altamente resistenti."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Yersinia enterocolitica è un batterio psicrotrofo, ovvero in grado di moltiplicarsi anche a basse temperature, come quelle del frigorifero, rappresentando un rischio per i cibi conservati a lungo."
+  },
+  {
+    "domanda": "La toxoplasmosi è una parassitosi che può essere trasmessa all'uomo. Qual è l'ospite definitivo del parassita Toxoplasma gondii, che ne disperde le oocisti nell'ambiente?",
+    "opzioni": {
+      "A": "Il suino",
+      "B": "Il bovino",
+      "C": "L'uomo",
+      "D": "Il gatto"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "Il gatto è l'ospite definitivo del Toxoplasma gondii, l'unico animale nel cui intestino il parassita può completare il suo ciclo riproduttivo e produrre le oocisti che vengono eliminate con le feci."
+  },
+  {
+    "domanda": "Oltre al contatto con le feci di gatto, qual è una via comune di trasmissione della toxoplasmosi all'uomo?",
+    "opzioni": {
+      "A": "Bere latte pastorizzato.",
+      "B": "Il consumo di vegetali crudi non lavati accuratamente e contaminati da oocisti.",
+      "C": "La puntura di zanzara.",
+      "D": "Respirare aria contaminata."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Le oocisti eliminate con le feci di gatto possono contaminare il terreno e quindi gli ortaggi. L'ingestione di vegetali crudi e mal lavati è una delle principali vie di infezione per l'uomo."
+  },
+  {
+    "domanda": "La trichinellosi è una malattia parassitaria che si contrae attraverso l'ingestione di carni crude o poco cotte contenenti le cisti del parassita. Quali sono le carni più a rischio?",
+    "opzioni": {
+      "A": "Pesce e frutti di mare",
+      "B": "Pollame e coniglio",
+      "C": "Carne suina ed equina",
+      "D": "Carni bovine e ovine"
+    },
+    "risposta_corretta": "C",
+    "spiegazione": "La malattia è causata dal parassita Trichinella spp. e la trasmissione avviene principalmente tramite il consumo di carne cruda di maiale (e cinghiale) o di cavallo."
+  },
+  {
+    "domanda": "Il consumo di carne di maiale cruda o poco cotta può trasmettere un parassita le cui larve si incistano nei muscoli, causando una malattia nota come:",
+    "opzioni": {
+      "A": "Toxoplasmosi",
+      "B": "Teniasi",
+      "C": "Anisakidosi",
+      "D": "Trichinellosi"
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "La Trichinellosi è causata dal parassita Trichinella spp. L'uomo si infetta consumando carne, tipicamente di maiale, contenente le cisti infestanti."
+  },
+  {
+    "domanda": "Quale dei seguenti NON è uno dei sette principi del sistema HACCP?",
+    "opzioni": {
+      "A": "Identificazione dei punti di controllo critici (CCP).",
+      "B": "Definizione delle azioni correttive.",
+      "C": "Gestione della documentazione.",
+      "D": "Pubblicazione settimanale dei risultati delle analisi."
+    },
+    "risposta_corretta": "D",
+    "spiegazione": "I 7 principi includono l'analisi dei pericoli, l'identificazione dei CCP, la definizione dei limiti critici, il monitoraggio, le azioni correttive, la verifica e la documentazione. La pubblicazione dei risultati non è uno dei principi."
+  },
+  {
+    "domanda": "Nel sistema HACCP, dopo aver identificato un Punto di Controllo Critico (CCP), quale principio deve essere applicato?",
+    "opzioni": {
+      "A": "La registrazione di tutti i pericoli possibili.",
+      "B": "La definizione dei limiti critici per quel punto.",
+      "C": "La verifica che il sistema funzioni correttamente.",
+      "D": "La formazione del personale."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Dopo aver identificato un CCP (es. la temperatura di cottura), il principio successivo del sistema HACCP prevede di stabilire i limiti critici misurabili (es. 75°C al cuore del prodotto) che separano l'accettabilità dall'inaccettabilità."
+  },
+  {
+    "domanda": "Perché gli alimenti 'Ready to eat' (pronti al consumo) sono considerati particolarmente a rischio per la Listeriosi?",
+    "opzioni": {
+      "A": "Perché sono sempre consumati caldi, favorendo la crescita del batterio.",
+      "B": "Perché hanno una lunga durata a temperatura di frigorifero e vengono consumati senza cottura.",
+      "C": "Perché contengono sempre uova crude.",
+      "D": "Perché sono cibi a pH molto acido."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "La combinazione di lunga shelf-life in frigorifero (dove Listeria può crescere), il fatto che siano un buon substrato e l'assenza di un trattamento termico finale li rende alimenti a rischio."
+  },
+  {
+    "domanda": "Il nuovo Regolamento (UE) 2024/2895 rafforza i criteri di sicurezza per Listeria monocytogenes negli alimenti pronti al consumo. Qual è il nuovo limite per i prodotti che favoriscono la crescita del batterio?",
+    "opzioni": {
+      "A": "Inferiore a 100 ufc/g durante tutta la shelf-life.",
+      "B": "Assenza in 25g al termine del processo di produzione.",
+      "C": "Inferiore a 10 ufc/g.",
+      "D": "Assenza in 100g."
+    },
+    "risposta_corretta": "B",
+    "spiegazione": "Il regolamento introduce il criterio più stringente dell'assenza in 25 grammi per gli alimenti pronti che possono sostenere la crescita di L. monocytogenes e che non sono destinati a lattanti o a fini medici speciali."
   }
 ]
